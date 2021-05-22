@@ -4,12 +4,8 @@
     "replacedWord": "నమోదు చేయడానికి"
   },
   {
-    "word": "Lakhs",
-    "replacedWord": "లక్షలు"
-  },
-  {
     "word": "Lakh",
-    "replacedWord": "లక్ష"
+    "replacedWord": "లక్షలు"
   },
   {
     "word": "Doses",
@@ -19,6 +15,15 @@
     "word": "Dose",
     "replacedWord": "మోతాదు"
   },
+  {
+    "word": "Vaccinated",
+    "replacedWord": "టీకాలు"
+  },
+  {
+    "word": "AEFI Reported",
+    "replacedWord": "AEFI నివేదించబడింది"
+  },
+
   {
     "word": "Where can I register for COVID-19 vaccination?",
     "replacedWord": "COVID-19 టీకా కోసం నేను ఎక్కడ నమోదు చేయవచ్చు?"
@@ -576,58 +581,10 @@
     "replacedWord": "పూర్తి నివేదికను చూడండి"
   },
   {
-    "word": "How it Works Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)Know how to book your appointment Dos and Don'ts",
-    "replacedWord": ""
-  },
-  {
-    "word": "How it Works Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)Know how to book your appointment Dos and Don'ts",
-    "replacedWord": ""
-  },
-  {
     "word": "How it Works",
     "replacedWord": "అది ఎలా పని చేస్తుంది.మీరే నమోదు చేసుకోండి,మీ ఫోన్ నంబర్. / ఆధార్ నంబర్/మీ గుర్తింపు కార్డు. మీ సమీపంలో ఉన్న టీకా కేంద్రంని ఎంచుకోండి"
   },
   {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)Know how to book your appointment Dos and Don'ts",
-    "replacedWord": "అది ఎలా పని చేస్తుంది.మీరే నమోదు చేసుకోండి,మీ ఫోన్ నంబర్. / ఆధార్ నంబర్/మీ గుర్తింపు కార్డు. మీ సమీపంలో ఉన్న టీకా కేంద్రంని ఎంచుకోండి. మీ టీకా స్లాట్ ని నిర్ధారించండి.ఏవైనా ప్రశ్నలు కొరకు లేదా సమస్యల పరిష్కారం కోసం మా ఎఫ్ ఎ క్యూ లను అనుసరించించండి"
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా మరేదైనా ఐడెంటిటీ డాక్స్. టీకా స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప వ్యాక్సిన్ కేంద్రాన్ని ఎంచుకోండి టీకా ఏదైనా ప్రశ్న పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా మరేదైనా ఐడెంటిటీ డాక్స్. టీకా స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప వ్యాక్సిన్ కేంద్రాన్ని ఎంచుకోండి టీకా ఏదైనా ప్రశ్న పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా మరేదైనా ఐడెంటిటీ డాక్స్. టీకా స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప వ్యాక్సిన్ కేంద్రాన్ని ఎంచుకోండి టీకా ఏదైనా ప్రశ్న పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.Choose Vaccine LocationSelect your nearby Vaccine Center for vaccinationConfirm your SlotBook your slot to Get VaccineAny Question? Please follow our Frequently asked questions (FAQ)",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా మరేదైనా ఐడెంటిటీ డాక్స్. టీకా స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప వ్యాక్సిన్ కేంద్రాన్ని ఎంచుకోండి టీకా ఏదైనా ప్రశ్న పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా ఏదైనా ఇతర గుర్తింపు డాక్స్."
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా ఏదైనా ఇతర గుర్తింపు డాక్స్."
-  },
-  {
-    "word": "Register Yourself Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
-    "replacedWord": "మీరే నమోదు చేసుకోండి మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేసుకోండి. లేదా ఆధార్ నం. లేదా ఏదైనా ఇతర గుర్తింపు డాక్స్."
-  },
-  {
-    "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
-    "replacedWord": "వ్యాక్సిన్ స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప టీకా కేంద్రాన్ని ఎంచుకోండి"
-  },
-  {
-    "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
-    "replacedWord": "వ్యాక్సిన్ స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప టీకా కేంద్రాన్ని ఎంచుకోండి"
-  },
-  {
     "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
     "replacedWord": "వ్యాక్సిన్ స్థానాన్ని ఎంచుకోండి టీకా కోసం మీ సమీప టీకా కేంద్రాన్ని ఎంచుకోండి"
   },
@@ -636,28 +593,8 @@
     "replacedWord": "వ్యాక్సిన్ పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి"
   },
   {
-    "word": "Confirm your SlotBook your slot to Get Vaccine",
-    "replacedWord": "వ్యాక్సిన్ పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి"
-  },
-  {
-    "word": "Confirm your SlotBook your slot to Get Vaccine",
-    "replacedWord": "వ్యాక్సిన్ పొందడానికి మీ స్లాట్‌బుక్‌ను మీ స్లాట్‌గా నిర్ధారించండి"
-  },
-  {
     "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
     "replacedWord": "ఏమైనా సందెహలు ఉన్నాయా? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
-    "replacedWord": "ఏమైనా సందెహలు ఉన్నాయా? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
-    "replacedWord": "ఏమైనా సందెహలు ఉన్నాయా? దయచేసి మా తరచుగా అడిగే ప్రశ్నలను (తరచుగా అడిగే ప్రశ్నలు) అనుసరించండి"
-  },
-  {
-    "word": "Know how to book your appointment Dos and Don'ts",
-    "replacedWord": "మీ అపాయింట్‌మెంట్ డాస్ మరియు చేయకూడని వాటిని ఎలా బుక్ చేయాలో తెలుసుకోండి"
   },
   {
     "word": "Know how to book your appointment Dos and Don'ts",
@@ -700,10 +637,6 @@
     "replacedWord": "సోమవారం, 1:27 PM కోవిన్ హెల్ప్‌డెస్క్‌కు స్వాగతం, మీకు సహాయం అవసరమైతే ఈ సందేశానికి ప్రత్యుత్తరం ఇవ్వండి, మేము ఆన్‌లైన్‌లో ఉన్నాము మరియు సహాయం చేయడానికి సిద్ధంగా ఉన్నాము."
   },
   {
-    "word": "Monday, 1:27 PMWelcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
-    "replacedWord": "సోమవారం, 1:27 PM కోవిన్ హెల్ప్‌డెస్క్‌కు స్వాగతం, మీకు సహాయం అవసరమైతే ఈ సందేశానికి ప్రత్యుత్తరం ఇవ్వండి, మేము ఆన్‌లైన్‌లో ఉన్నాము మరియు సహాయం చేయడానికి సిద్ధంగా ఉన్నాము."
-  },
-  {
     "word": "Monday, 1:27 PM",
     "replacedWord": "సోమవారం, 1:27 అపరాహ్నం"
   },
@@ -714,6 +647,10 @@
   {
     "word": "This chat session has ended",
     "replacedWord": "కోవిన్ హెల్ప్‌డెస్క్‌కు స్వాగతం, మీకు సహాయం అవసరమైతే ఈ సందేశానికి ప్రత్యుత్తరం ఇవ్వండి, మేము ఆన్‌లైన్‌లో ఉన్నాము మరియు సహాయం చేయడానికి సిద్ధంగా ఉన్నాము."
+  },
+  {
+    "word": "Tot",
+    "replacedWord": "మొత్తం"
   },
   {
     "word": "Tot Vaccination Doses",
@@ -729,19 +666,23 @@
   },
   {
     "word": "Tot Vaccinated - Male",
-    "replacedWord": "మోతాదు -2 టీకాలు"
-  },
-  {
-    "word": "Tot Vaccinated - Female",
     "replacedWord": "టోట్ టీకాలు - మగ"
   },
   {
-    "word": "AEFI Reported",
+    "word": "Tot Vaccinated - Female",
     "replacedWord": "టోట్ టీకాలు - ఆడ"
   },
   {
+    "word": "Male",
+    "replacedWord": "మగ"
+  },
+  {
+    "word": "Female",
+    "replacedWord": "ఆడ"
+  },
+  {
     "word": "Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
-    "replacedWord": "AEFI నివేదించబడింది"
+    "replacedWord": "మీ మొబైల్ నంబర్ ఉపయోగించి నమోదు చేయండి. లేదా ఆధార్ నం. లేదా ఏదైనా ఇతర గుర్తింపు డాక్స్."
   },
   {
     "word": "Select your nearby Vaccine Center for vaccination",
@@ -769,7 +710,7 @@
   },
   {
     "word": "Register Yourself",
-    "replacedWord": "మీకు మీరుగా నమోదు చేసుకోండి"
+    "replacedWord": "మీరే నమోదు చేసుకోండి"
   },
   {
     "word": "Choose Vaccine Location",
