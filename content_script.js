@@ -13,7 +13,6 @@ const translations = [
   {
     word: "Lakh",
     replacedWord: "లక్ష"
-
   },
   {
     word: "Doses",
@@ -28,16 +27,22 @@ const translations = [
     replacedWord: "COVID-19 టీకా కోసం నేను ఎక్కడ నమోదు చేయవచ్చు?"
   },
   {
-    word: " You can log into the Co-WIN portal using the link www.cowin.gov.in and click on the “Register/Sign In yourself” tab to register for COVID-19 vaccination. ",
+    word: "You can log into the Co-WIN portal using the link",
     replacedWord:
-      "మీరు www.cowin.gov.in లింక్‌ను ఉపయోగించి కో-విన్ పోర్టల్‌లోకి లాగిన్ అవ్వండి మరియు COVID-19 టీకా కోసం నమోదు చేసుకోవడానికి “రిజిస్టర్ / సైన్ ఇన్ యువర్” టాబ్ పై క్లిక్ చేయండి."
+      "మీరు www.cowin.gov.in లింక్‌ను ఉపయోగించి కో-విన్ పోర్టల్‌లోకి లాగిన్ అవ్వవచ్చు"
   },
   {
-    word: " Is there a mobile app that needs to be installed to register for vaccination? ",
-    replacedWord: "టీకా కోసం నమోదు చేయడానికి మొబైల్ app install అవసరం ఉందా?"
+    word: " and click on the “Register/Sign In yourself” tab to register for COVID-19 vaccination.",
+    replacedWord:
+      "మరియు COVID-19 టీకా కోసం నమోదు చేయడానికి “మీరే నమోదు చేసుకోండి / సైన్ ఇన్ చేయండి” టాబ్ పై క్లిక్ చేయండి."
   },
   {
-    word: " Is online registration mandatory for Covid 19 vaccination? ",
+    word: "Is there a mobile app that needs to be installed to register for vaccination?",
+    replacedWord:
+      "టీకా కోసం నమోదు చేయడానికి మొబైల్ అనువర్తన ఇన్‌స్టాల్ అవసరం ఉందా?"
+  },
+  {
+    word: "Is online registration mandatory for Covid 19 vaccination?",
     replacedWord: "కోవిడ్ 19 టీకా కోసం ఆన్‌లైన్ నమోదు తప్పనిసరి?"
   },
   {
@@ -80,18 +85,51 @@ const translations = [
       "స్మార్ట్ ఫోన్లు లేదా కంప్యూటర్లకు అందుబాటు లేని పౌరులు ఆన్‌లైన్ నమోదును ఎలా నిర్వహించగలరు?"
   },
   {
-    word: "Up to 4 people can be registered for vaccination using the same mobile number. Citizens can take help from friends or family for online registration.",
+    word: "Up to 4 people can be registered for vaccination using the same mobile number",
     replacedWord:
-      "ఒకే మొబైల్ నంబర్ ఉపయోగించి టీకా కోసం 4 మంది వరకు నమోదు చేసుకోవచ్చు.ఒక పౌరులు ఆన్‌లైన్ రిజిస్ట్రేషన్ కోసం స్నేహితులు లేదా కుటుంబ సభ్యుల సహాయం తీసుకోవచ్చు."
+      "ఒకే మొబైల్ నంబర్ ఉపయోగించి టీకా కోసం 4 మంది వరకు నమోదు చేసుకోవచ్చు"
+  },
+  {
+    word: "Citizens can take help from friends or family for online registration",
+    replacedWord:
+      "ఒక పౌరులు ఆన్‌లైన్ రిజిస్ట్రేషన్ కోసం స్నేహితులు లేదా కుటుంబ సభ్యుల సహాయం తీసుకోవచ్చు"
   },
   {
     word: "Can I register for vaccination without Aadhaar card?",
     replacedWord: "ఆధార్ కార్డు లేకుండా టీకా కోసం నేను నమోదు చేయవచ్చా"
   },
   {
-    word: "Yes, you can register on Co-WIN portal using any of the following ID proofs: a.tAadhaar card  b.Driving License  c.PAN card  d.Passport  e.Pension Passbook  f.NPR Smart Card  g.Voter ID (EPIC)",
+    word: "Yes, you can register on Co-WIN portal using any of the following ID proofs",
     replacedWord:
-      "అవును, మీరు కింది ఐడి ప్రూఫ్‌లను ఉపయోగించి కో-విన్ పోర్టల్‌లో నమోదు చేసుకోవచ్చు: a. ఆధార్ కార్డు b. డ్రైవింగ్ లైసెన్స్ సి. పాన్ కార్డు డి. పాస్పోర్ట్ ఇ. పెన్షన్ పాస్బుక్ . ఎన్‌పిఆర్ స్మార్ట్ కార్డ్ గ్రా. ఓటరు ID (EPIC)"
+      "అవును, మీరు కింది ఐడి ప్రూఫ్‌లను ఉపయోగించి కో-విన్ పోర్టల్‌లో నమోదు చేసుకోవచ్చు"
+  },
+  {
+    word: "Aadhaar card",
+    replacedWord: "ఆధార్ కార్డు"
+  },
+  {
+    word: "Driving License",
+    replacedWord: "డ్రైవింగ్ లైసెన్స్"
+  },
+  {
+    word: "PAN card",
+    replacedWord: "పాన్ కార్డు"
+  },
+  {
+    word: "Passport",
+    replacedWord: "పాస్పోర్ట్"
+  },
+  {
+    word: "Pension Passbook",
+    replacedWord: "పెన్షన్ పాస్బుక్ "
+  },
+  {
+    word: "NPR Smart Card",
+    replacedWord: "ఎన్‌పిఆర్ స్మార్ట్ కార్డ్"
+  },
+  {
+    word: "Voter ID",
+    replacedWord: "ఓటరు ID"
   },
   {
     word: "Is there any registration charges to be paid?",
@@ -102,18 +140,33 @@ const translations = [
     replacedWord: "రిజిస్ట్రేషన్ ఛార్జీ లేదు."
   },
   {
-    word: "  Whom do I contact in case of side effects from vaccination?",
+    word: "Whom do I contact in case of side effects from vaccination",
     replacedWord:
-      " రిపోర్టింగ్ దుష్ప్రభావాలు టీకా నుండి దుష్ప్రభావాల విషయంలో నేను ఎవరిని సంప్రదించాలి?"
+      "రిపోర్టింగ్ దుష్ప్రభావాలు టీకా నుండి దుష్ప్రభావాల విషయంలో నేను ఎవరిని సంప్రదించాలి"
   },
   {
     word: " Why do I need a vaccination certificate?",
     replacedWord: "వ్యాక్సిన్ సర్టిఫికేట్ నాకు టీకా సర్టిఫికేట్ ఎందుకు అవసరం?"
   },
   {
-    word: " A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due. It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel. Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel. ",
+    word: " A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due",
     replacedWord:
-      "ప్రభుత్వం జారీ చేసిన COVID వ్యాక్సిన్ సర్టిఫికేట్ (సివిసి) టీకాలు వేయడం, ఉపయోగించిన వ్యాక్సిన్ రకంపై లబ్ధిదారునికి హామీ ఇస్తుంది మరియు తాత్కాలిక ధృవీకరణ పత్రం తదుపరి టీకాను కూడా అందిస్తుంది.  ప్రయాణ విషయంలో ప్రత్యేకంగా టీకా రుజువు అవసరమయ్యే ఏదైనా సంస్థలకు పౌరుడు నిరూపించడానికి ఇది ఒక సాక్ష్యం.  టీకాలు వేయడం వలన వ్యక్తులను వ్యాధి నుండి రక్షించడమే కాకుండా, వైరస్ వ్యాప్తి చెందే ప్రమాదాన్ని కూడా తగ్గిస్తుంది.  అందువల్ల, భవిష్యత్తులో కొన్ని రకాల సామాజిక పరస్పర చర్యలకు మరియు అంతర్జాతీయ ప్రయాణాలకు ధృవీకరణ పత్రాన్ని ఉత్పత్తి చేయవలసిన అవసరం ఉంది.  ఈ సందర్భంలో కో-విన్ జారీ చేసిన సర్టిఫికేట్ భద్రతా లక్షణాలలో నిర్మించబడింది, ఇది కో-విన్ పోర్టల్‌లో అందించబడిన ఆమోదించబడిన యుటిలిటీలను ఉపయోగించి డిజిటల్‌గా ధృవీకరించబడే సర్టిఫికేట్ యొక్క యథార్థతకు హామీ ఇస్తుంది."
+      "ప్రభుత్వం జారీ చేసిన COVID వ్యాక్సిన్ సర్టిఫికేట్ (సివిసి) టీకాలు వేయడం, ఉపయోగించిన వ్యాక్సిన్ రకంపై లబ్ధిదారునికి హామీ ఇస్తుంది మరియు తాత్కాలిక ధృవీకరణ పత్రం తదుపరి టీకాను కూడా అందిస్తుంది"
+  },
+  {
+    word: "It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel",
+    replacedWord:
+      "రయాణ విషయంలో ప్రత్యేకంగా టీకా రుజువు అవసరమయ్యే ఏదైనా సంస్థలకు పౌరుడు నిరూపించడానికి ఇది ఒక సాక్ష్యం.  టీకాలు వేయడం వలన వ్యక్తులను వ్యాధి నుండి రక్షించడమే కాకుండా, వైరస్ వ్యాప్తి చెందే ప్రమాదాన్ని కూడా తగ్గిస్తుంది"
+  },
+  {
+    word: "Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel. ",
+    replacedWord:
+      "టీకాలు వేయడం వలన వ్యక్తులను వ్యాధి నుండి రక్షించడమే కాకుండా, వైరస్ వ్యాప్తి చెందే ప్రమాదాన్ని కూడా తగ్గిస్తుంది.  అందువల్ల, భవిష్యత్తులో కొన్ని రకాల సామాజిక పరస్పర చర్యలకు మరియు అంతర్జాతీయ ప్రయాణాలకు ధృవీకరణ పత్రాన్ని ఉత్పత్తి చేయవలసిన అవసరం ఉంది.  ఈ సందర్భంలో కో-విన్ జారీ చేసిన సర్టిఫికేట్ భద్రతా లక్షణాలలో నిర్మించబడింది, ఇది కో-విన్ పోర్టల్‌లో అందించబడిన ఆమోదించబడిన యుటిలిటీలను ఉపయోగించి డిజిటల్‌గా ధృవీకరించబడే సర్టిఫికేట్ యొక్క యథార్థతకు హామీ ఇస్తుంది."
+  },
+  {
+    word: "Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel. ",
+    replacedWord:
+      "అందువల్ల, భవిష్యత్తులో కొన్ని రకాల సామాజిక పరస్పర చర్యలకు మరియు అంతర్జాతీయ ప్రయాణాలకు ధృవీకరణ పత్రాన్ని ఉత్పత్తి చేయవలసిన అవసరం ఉంది.  ఈ సందర్భంలో కో-విన్ జారీ చేసిన సర్టిఫికేట్ భద్రతా లక్షణాలలో నిర్మించబడింది, ఇది కో-విన్ పోర్టల్‌లో అందించబడిన ఆమోదించబడిన యుటిలిటీలను ఉపయోగించి డిజిటల్‌గా ధృవీకరించబడే సర్టిఫికేట్ యొక్క యథార్థతకు హామీ ఇస్తుంది."
   },
   {
     word: "Who is responsible for providing the vaccination certificate?",
@@ -141,13 +194,23 @@ const translations = [
     replacedWord: "దుష్ప్రభావాలను నివేదించడం"
   },
   {
-    word: " You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps. You may do so by using the mobile number used at the time of registration. ",
+    word: "You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps.",
     replacedWord:
-      "మీరు కో-విన్ పోర్టల్ (cowin.gov.in) లేదా ఆరోగ్య సేతు అనువర్తనం నుండి లేదా డిజి-లాకర్ ద్వారా టీకా-సర్టిఫికేట్ను సాధారణ దశలను అనుసరించి డౌన్‌లోడ్ చేసుకోవచ్చు.  రిజిస్ట్రేషన్ సమయంలో ఉపయోగించిన మొబైల్ నంబర్‌ను ఉపయోగించడం ద్వారా మీరు అలా చేయవచ్చు."
+      "మీరు కో-విన్ పోర్టల్ (cowin.gov.in) లేదా ఆరోగ్య సేతు అనువర్తనం నుండి లేదా డిజి-లాకర్ ద్వారా టీకా-సర్టిఫికేట్ను సాధారణ దశలను అనుసరించి డౌన్‌లోడ్ చేసుకోవచ్చు."
   },
   {
-    word: "D. Is vaccination free at all vaccination centres?",
-    replacedWord: "D. టీకా అన్ని టీకా కేంద్రాలలో టీకా ఉచితం?"
+    word: " You may do so by using the mobile number used at the time of registration. ",
+    replacedWord:
+      "రిజిస్ట్రేషన్ సమయంలో ఉపయోగించిన మొబైల్ నంబర్‌ను ఉపయోగించడం ద్వారా మీరు అలా చేయవచ్చు."
+  },
+  {
+    word: "In this context the certificate issued by Co-WIN has built in security features to guarantee genuineness of the certificate which can be digitally verified using approved utilities which are provided in Co-WIN portal.",
+    replacedWord:
+      "ఈ సందర్భంలో, కో-విన్ జారీ చేసిన సర్టిఫికేట్ భద్రతా లక్షణాలలో నిర్మించబడింది, ఇది కో-విన్ పోర్టల్‌లో అందించబడిన ఆమోదించబడిన యుటిలిటీలను ఉపయోగించి డిజిటల్‌గా ధృవీకరించబడే సర్టిఫికెట్ యొక్క యథార్థతకు హామీ ఇస్తుంది."
+  },
+  {
+    word: "Is vaccination free at all vaccination centres?",
+    replacedWord: "టీకా అన్ని టీకా కేంద్రాలలో టీకా ఉచితం?"
   },
   {
     word: " No. Currently, vaccination is free at Government hospitals and charged at INR 250 in Private hospitals for citizens aged 45 years and above.",
@@ -155,13 +218,42 @@ const translations = [
       "ప్రస్తుతం, ప్రభుత్వ ఆసుపత్రులలో టీకా ఉచితం మరియు 45 సంవత్సరాల మరియు అంతకంటే ఎక్కువ వయస్సు ఉన్న పౌరులకు ప్రైవేట్ ఆసుపత్రులలో 250 రూపాయలు వసూలు చేస్తారు."
   },
   {
-    word: " From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities. For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking. ",
+    word: "From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities",
     replacedWord:
-      "  మే 1 వ తేదీ నుండి, 45 సంవత్సరాలు లేదా అంతకంటే ఎక్కువ వయస్సు ఉన్నవారికి టీకాలు వేయడం ప్రభుత్వ సౌకర్యాల వద్ద ఉచితంగా కొనసాగుతుంది.  18 నుండి 44 సంవత్సరాల మధ్య ఉన్నవారికి, చెల్లింపులకు సంబంధించిన విధానాన్ని రాష్ట్రాలు ప్రకటిస్తాయి.  టీకాకు ప్రైవేట్ సదుపాయాల ద్వారా ధర నిర్ణయించబడుతుంది మరియు బుకింగ్ సమయంలో ప్రతి టీకా ధరను మీరు చూడవచ్చు."
+      "మే 1 వ తేదీ నుండి, 45 సంవత్సరాలు లేదా అంతకంటే ఎక్కువ వయస్సు ఉన్నవారికి టీకాలు వేయడం ప్రభుత్వ సౌకర్యాల వద్ద ఉచితంగా కొనసాగుతుంది."
+  },
+  {
+    word: "For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking. ",
+    replacedWord:
+      "18 నుండి 44 సంవత్సరాల మధ్య ఉన్నవారికి, చెల్లింపులకు సంబంధించిన విధానాన్ని రాష్ట్రాలు ప్రకటిస్తాయి.  టీకాకు ప్రైవేట్ సదుపాయాల ద్వారా ధర నిర్ణయించబడుతుంది మరియు బుకింగ్ సమయంలో ప్రతి టీకా ధరను మీరు చూడవచ్చు."
+  },
+  {
+    word: "Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking. ",
+    replacedWord:
+      "టీకాకు ప్రైవేట్ సదుపాయాల ద్వారా ధర నిర్ణయించబడుతుంది మరియు బుకింగ్ సమయంలో ప్రతి టీకా ధరను మీరు చూడవచ్చు."
+  },
+  {
+    word: " The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago.",
+    replacedWord:
+      "ఒక పౌరుడికి 2 వ మోతాదుతో టీకాలు వేస్తున్నట్లయితే, రెండవ మోతాదు సమయంలో అందించబడుతున్న అదే వ్యాక్సిన్‌తో మొదటి మోతాదు వ్యాక్సిన్ చేయబడిందని మరియు మొదటి మోతాదు ఇవ్వబడిందని వారు నిర్ధారించాలని టీకా కేంద్రాలకు ఆదేశాలు ఇవ్వబడ్డాయి 28 రోజుల క్రితం."
+  },
+  {
+    word: "You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator.",
+    replacedWord:
+      "28 రోజుల క్రితం. టీకా రకం మరియు 1 వ మోతాదు టీకా తేదీ గురించి సరైన సమాచారాన్ని మీరు టీకాతో పంచుకోవాలి."
+  },
+  {
+    word: "You should carry your vaccine certificate issued after the first dose.",
+    replacedWord:
+      "మొదటి మోతాదు తర్వాత జారీ చేసిన మీ టీకా సర్టిఫికెట్‌ను మీరు తీసుకెళ్లాలి."
   },
   {
     word: "Can I check the price of the vaccine?",
     replacedWord: "నేను టీకా ధరను తనిఖీ చేయవచ్చా?"
+  },
+  {
+    word: "Frequently Asked Questions on Co-WIN ",
+    replacedWord: "కో-విన్‌పై తరచుగా అడిగే ప్రశ్నలు"
   },
   {
     word: "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
@@ -183,7 +275,8 @@ const translations = [
   },
   {
     word: "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
-    replacedWord: ""
+    replacedWord:
+      "ఒక పౌరుడికి 2 వ మోతాదుతో టీకాలు వేస్తున్నట్లయితే, రెండవ మోతాదు సమయంలో అందించబడుతున్న అదే వ్యాక్సిన్‌తో మొదటి మోతాదు టీకాలు వేయబడ్డారని మరియు మొదటి మోతాదు ఇవ్వబడిందని వారు నిర్ధారించాలని టీకా కేంద్రాలకు ఆదేశాలు ఇవ్వబడ్డాయి. 28 రోజుల క్రితం. టీకా రకం మరియు 1 వ మోతాదు టీకా తేదీ గురించి సరైన సమాచారాన్ని మీరు టీకాతో పంచుకోవాలి. మొదటి మోతాదు తర్వాత జారీ చేసిన మీ టీకా సర్టిఫికెట్‌ను మీరు తీసుకెళ్లాలి."
   },
   {
     word: "Can I get vaccinated with 2nd dose in a different State/District?",
@@ -304,7 +397,7 @@ const translations = [
     replacedWord: "జిల్లా వారీగా శోధించండి"
   },
   {
-    word: "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District. ",
+    word: " You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District. ",
     replacedWord:
       "పిన్ కోడ్ ద్వారా వెతకడం ద్వారా లేదా రాష్ట్రం మరియు జిల్లాను ఎంచుకోవడం ద్వారా మీ స్థానానికి దగ్గరగా ఉన్న టీకా కేంద్రం కోసం మీరు కో-విన్ పోర్టల్ (లేదా ఆరోగ్య సేతు) లో శోధించవచ్చు.  నియామక తేదీన నేను టీకా కోసం వెళ్ళలేకపోతే?"
   },
@@ -320,6 +413,10 @@ const translations = [
   {
     word: "Do I have an option for cancellation of appointment?",
     replacedWord: "అపాయింట్‌మెంట్  రద్దు చేయడానికి నాకు ఎంపిక ఉందా?"
+  },
+  {
+    word: "What if I cannot go for vaccination on the date of appointment",
+    replacedWord: "నియామక తేదీన నేను టీకా కోసం వెళ్ళలేకపోతే"
   },
   {
     word: "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
@@ -341,9 +438,14 @@ const translations = [
     replacedWord: "అపాయింట్‌మెంట్ లేకుండా టీకా తీసుకోవచ్చా?"
   },
   {
-    word: "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    word: "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres.",
     replacedWord:
-      "45 సంవత్సరాల మరియు అంతకంటే ఎక్కువ వయస్సు ఉన్న పౌరులు ఆన్‌లైన్‌లో నియామకాలను షెడ్యూల్ చేయవచ్చు లేదా టీకా కేంద్రాలకు నడవవచ్చు.  18-44 సంవత్సరాల వయస్సు గల పౌరులు తమను తాము తప్పనిసరిగా నమోదు చేసుకోవాలి మరియు టీకా చేయడానికి ముందు ఆన్‌లైన్‌లో నియామకాన్ని షెడ్యూల్ చేయాలి.  ఏదేమైనా, పౌరులందరూ ఆన్‌లైన్‌లో నమోదు చేసుకోవాలని మరియు ఇబ్బంది లేని టీకా అనుభవం కోసం టీకా ముందుగానే షెడ్యూల్ చేయాలని సిఫార్సు చేస్తున్నారు."
+      "45 సంవత్సరాల మరియు అంతకంటే ఎక్కువ వయస్సు ఉన్న పౌరులు ఆన్‌లైన్‌లో నియామకాలను షెడ్యూల్ చేయవచ్చు లేదా టీకా కేంద్రాలకు నడవవచ్చు."
+  },
+  {
+    word: "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    replacedWord:
+      "18-44 సంవత్సరాల వయస్సు గల పౌరులు తమను తాము తప్పనిసరిగా నమోదు చేసుకోవాలి మరియు టీకా చేయడానికి ముందు ఆన్‌లైన్‌లో నియామకాన్ని షెడ్యూల్ చేయాలి.  ఏదేమైనా, పౌరులందరూ ఆన్‌లైన్‌లో నమోదు చేసుకోవాలని మరియు ఇబ్బంది లేని టీకా అనుభవం కోసం టీకా ముందుగానే షెడ్యూల్ చేయాలని సిఫార్సు చేస్తున్నారు."
   },
   {
     word: "Can I check the price of the vaccine?",
@@ -434,9 +536,9 @@ const translations = [
       "నా ఆన్‌లైన్ నియామక రిజిస్ట్రేషన్‌కు సంబంధించి కొన్ని సమస్యలు ఉంటే నేను ఎవరిని సంప్రదించగలను?"
   },
   {
-    word: "YYou can call on the national helpline ‘1075’ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    word: "You can call on the national helpline ‘1075’ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
     replacedWord:
-      "COVID-19 టీకా మరియు కో-విన్ సాఫ్ట్‌వేర్ సంబంధిత ప్రశ్నలపై సమాచారం మరియు మార్గదర్శకత్వం కోసం మీరు జాతీయ హెల్ప్‌లైన్ â € 751075 € call కు కాల్ చేయవచ్చు."
+      "COVID-19 టీకా మరియు కో-విన్ సాఫ్ట్‌వేర్ సంబంధిత ప్రశ్నలపై సమాచారం మరియు మార్గదర్శకత్వం కోసం మీరు జాతీయ హెల్ప్‌లైన్ '1075' కు కాల్ చేయవచ్చు."
   },
   {
     word: "Scheduling Appointment",
@@ -525,6 +627,16 @@ const translations = [
     word: "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination. However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
     replacedWord:
       "45 సంవత్సరాల మరియు అంతకంటే ఎక్కువ వయస్సు ఉన్న పౌరులు ఆన్‌లైన్‌లో నియామకాలను షెడ్యూల్ చేయవచ్చు లేదా టీకా కేంద్రాలకు నడవవచ్చు. 18-44 సంవత్సరాల వయస్సు గల పౌరులు తమను తాము తప్పనిసరిగా నమోదు చేసుకోవాలి మరియు టీకా చేయడానికి ముందు ఆన్‌లైన్‌లో నియామకాన్ని షెడ్యూల్ చేయాలి. ఏదేమైనా, పౌరులందరూ ఆన్‌లైన్‌లో నమోదు చేసుకోవాలని మరియు ఇబ్బంది లేని టీకా అనుభవం కోసం టీకా ముందుగానే షెడ్యూల్ చేయాలని సిఫార్సు చేస్తున్నారు."
+  },
+  {
+    word: "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination",
+    replacedWord:
+      "18-44 సంవత్సరాల వయస్సు గల పౌరులు తమను తాము తప్పనిసరిగా నమోదు చేసుకోవాలి మరియు టీకా చేయడానికి ముందు ఆన్‌లైన్‌లో నియామకాన్ని షెడ్యూల్ చేయాలి"
+  },
+  {
+    word: "However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    replacedWord:
+      "ఏదేమైనా, పౌరులందరూ ఆన్‌లైన్‌లో నమోదు చేసుకోవాలని మరియు ఇబ్బంది లేని టీకా అనుభవం కోసం టీకా ముందుగానే షెడ్యూల్ చేయాలని సిఫార్సు చేస్తున్నారు."
   },
   {
     word: "Ministry of Health and Family Welfare",
@@ -880,6 +992,43 @@ const translations = [
   {
     word: "Register/ Sign In yourself",
     replacedWord: "మీరే నమోదు చేసుకోండి / సైన్ ఇన్ చేయండి"
+  },
+  {
+    word: " Please follow our ",
+    replacedWord: "దయచేసి మా అనుసరించండి"
+  },
+  {
+    word: "Frequently asked questions",
+    replacedWord: "తరచుగా అడిగే ప్రశ్నలు"
+  },
+  {
+    word: "Enter your PIN",
+    replacedWord: "మీ పిన్ను నమోదు చేయండి"
+  },
+  {
+    word: "You can contact on any of the following details",
+    replacedWord: "మీరు ఈ క్రింది వివరాలలో దేనినైనా సంప్రదించవచ్చు"
+  },
+  {
+    word: "Helpline Number",
+    replacedWord: "హెల్ప్‌లైన్ సంఖ్య"
+  },
+  {
+    word: " Technical Helpline Number",
+    replacedWord: "సాంకేతిక హెల్ప్‌లైన్ సంఖ్య"
+  },
+  {
+    word: "Helpline Email Id",
+    replacedWord: "హెల్ప్‌లైన్ ఇమెయిల్ ఐడి"
+  },
+  {
+    word: " You may also contact the Vaccination Centre where you took vaccination, for advice. ",
+    replacedWord:
+      "సలహా కోసం మీరు టీకా తీసుకున్న కేంద్రాన్ని కూడా సంప్రదించవచ్చు."
+  },
+  {
+    word: "Toll free",
+    replacedWord: "టోల్ ఫ్రీ"
   }
 ]
 
