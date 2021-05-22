@@ -11,6 +11,19 @@ const translations = [
     replacedWord: "లక్షలు"
   },
   {
+    word: "Lakh",
+    replacedWord: "లక్ష"
+
+  },
+  {
+    word: "Doses",
+    replacedWord: "మోతాదు"
+  },
+  {
+    word: "Dose",
+    replacedWord: "మోతాదు"
+  },
+  {
     word: "Where can I register for COVID-19 vaccination?",
     replacedWord: "COVID-19 టీకా కోసం నేను ఎక్కడ నమోదు చేయవచ్చు?"
   },
@@ -202,7 +215,7 @@ const translations = [
   },
   {
     word: "2nd dose scheduling",
-    replacedWord: "2 వ డోస్ షెడ్యూలింగ్"
+    replacedWord: "రెండవ మోతాదు షెడ్యూలింగ్"
   },
   {
     word: "Is it necessary to take 2nd dose of vaccination?",
@@ -281,6 +294,14 @@ const translations = [
   {
     word: "How can I find the nearest vaccination centre?",
     replacedWord: "దగ్గరలో ఉన్న టీకా కేంద్రాన్ని నేను ఎలా కనుగొనగలను?"
+  },
+  {
+    word: "Search by PIN",
+    replacedWord: "పిన్ ద్వారా శోధించండి"
+  },
+  {
+    word: "Search by District",
+    replacedWord: "జిల్లా వారీగా శోధించండి"
   },
   {
     word: "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District. ",
@@ -506,11 +527,6 @@ const translations = [
       "45 సంవత్సరాల మరియు అంతకంటే ఎక్కువ వయస్సు ఉన్న పౌరులు ఆన్‌లైన్‌లో నియామకాలను షెడ్యూల్ చేయవచ్చు లేదా టీకా కేంద్రాలకు నడవవచ్చు. 18-44 సంవత్సరాల వయస్సు గల పౌరులు తమను తాము తప్పనిసరిగా నమోదు చేసుకోవాలి మరియు టీకా చేయడానికి ముందు ఆన్‌లైన్‌లో నియామకాన్ని షెడ్యూల్ చేయాలి. ఏదేమైనా, పౌరులందరూ ఆన్‌లైన్‌లో నమోదు చేసుకోవాలని మరియు ఇబ్బంది లేని టీకా అనుభవం కోసం టీకా ముందుగానే షెడ్యూల్ చేయాలని సిఫార్సు చేస్తున్నారు."
   },
   {
-    word: "Ministry of Health and Family WelfareFAQ Dashboard Open APIs  Department Login  Vaccinator  Verify Certificate",
-    replacedWord:
-      "ఆరోగ్య మరియు కుటుంబ సంక్షేమ మంత్రిత్వ శాఖ డాష్‌బోర్డ్ ఓపెన్ API లు విభాగం లాగిన్ వ్యాక్సినేటర్ ధృవీకరణ పత్రం"
-  },
-  {
     word: "Ministry of Health and Family Welfare",
     replacedWord: "ఆరోగ్య మరియు కుటుంబ సంక్షేమ మంత్రిత్వ శాఖ"
   },
@@ -696,7 +712,7 @@ const translations = [
   },
   {
     word: "Tot Vaccination Doses",
-    replacedWord: "ఈ చాట్ సెషన్ ముగిసింది"
+    replacedWord: "మొత్తం టీకా మోతాదు"
   },
   {
     word: "Dose-1 Vaccinations",
