@@ -18,9 +18,14 @@
     "default_icon": "icons/icon.jpg",
     "theme_icons": [{
         "light": "icons/icon-32x32.jpg",
-        "dark": "icons/icon-32x32",
+        "dark": "icons/icon-32x32.jpg",
         "size": 32
-    }],
+    },
+    {
+      "light": "icons/icon-64x64.jpg",
+      "dark": "icons/icon-64x64.jpg",
+      "size": 64
+  }],
     "default_title": "CoWin Translator"
   }
 }
