@@ -1,23 +1,23 @@
 [
   {
     "word": "Registration",
-    "replacedWord": "#"
+    "replacedWord": "ನೋಂದಣಿ"
   },
   {
     "word": "Lakh",
-    "replacedWord": "#"
+    "replacedWord": "ಲಕ್ಷ"
   },
   {
     "word": "Doses",
-    "replacedWord": "#"
+    "replacedWord": "ಲಸಿಕೆಗಳು"
   },
   {
     "word": "Dose",
-    "replacedWord": "#"
+    "replacedWord": "ಲಸಿಕೆ"
   },
   {
     "word": "Vaccinated",
-    "replacedWord": "#"
+    "replacedWord": "ಲಸಿಕೆ ನೀಡಲಾಗಿದೆ"
   },
   {
     "word": "AEFI Reported",
@@ -25,7 +25,7 @@
   },
   {
     "word": "Where can I register for COVID-19 vaccination?",
-    "replacedWord": "#"
+    "replacedWord": "ಕೋವಿಡ್-೧೯ ಲಸಿಕೆಗಾಗಿ ನಾನು ಎಲ್ಲಿ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಬಹುದು?"
   },
   {
     "word": "You can log into the Co-WIN portal using the link",
@@ -93,19 +93,19 @@
   },
   {
     "word": "Aadhaar card",
-    "replacedWord": "#"
+    "replacedWord": "ಆಧಾರ್ ಕಾರ್ಡ್"
   },
   {
     "word": "Driving License",
-    "replacedWord": "#"
+    "replacedWord": "ಚಾಲನ ಲೈಸೆನ್ಸ್ "
   },
   {
     "word": "PAN card",
-    "replacedWord": "#"
+    "replacedWord": "ಪಾನ್ ಕಾರ್ಡ್"
   },
   {
     "word": "Passport",
-    "replacedWord": "#"
+    "replacedWord": "ಪಾಸ್ಪೋರ್ಟ್"
   },
   {
     "word": "Pension Passbook",
@@ -113,11 +113,11 @@
   },
   {
     "word": "NPR Smart Card",
-    "replacedWord": "#"
+    "replacedWord": "ಏನ್ ಪಿ ಆರ್ ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್"
   },
   {
     "word": "Voter ID",
-    "replacedWord": "#"
+    "replacedWord": "ಮತದಾರ ಚೀಟಿ"
   },
   {
     "word": "Is there any registration charges to be paid?",
@@ -169,7 +169,7 @@
   },
   {
     "word": "Vaccine Certificate",
-    "replacedWord": "#"
+    "replacedWord": "ಲಸಿಕೆ ಪ್ರಮಾಣಪತ್ರ"
   },
   {
     "word": "Reporting Side effects",
