@@ -15,6 +15,14 @@ Please note we have a Code of Conduct, please follow it in all your interactions
 
 ## How Can I Contribute?
 
+###
+
+- Clone the repo
+
+- Copy `l10.json` file to the ISO code file, for example `te.json` for telugu
+
+- Replace the __"#"__ with the translated string in __replacedWord__ in the json file
+
 ### Reporting Issues/Features
 
 This section guides you through submitting a issue for the project. Following these guidelines helps maintainers and the community understand your issue, reproduce the issue and find related issues.
