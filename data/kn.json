@@ -1,0 +1,862 @@
+[
+  {
+    "word": "Registration",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Lakh",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Doses",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dose",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccinated",
+    "replacedWord": "#"
+  },
+  {
+    "word": "AEFI Reported",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Where can I register for COVID-19 vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can log into the Co-WIN portal using the link",
+    "replacedWord": "#"
+  },
+  {
+    "word": "and click on the “Register/Sign In yourself” tab to register for COVID-19 vaccination.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is there a mobile app that needs to be installed to register for vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is online registration mandatory for Covid 19 vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccination Centres provide for a limited number of on-spot registration slots every day. Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. However, Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before going to vaccination centre.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "In general, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "There is no authorised mobile app for registering for vaccination in India except Aarogya Setu. You need to log into the Co-WIN portal. Alternatively, you can also register for vaccination through the Aarogya Setu App.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Which age groups can register for vaccination on the Co-WIN portal?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "All citizens aged 18 years and above can register for vaccination",
+    "replacedWord": "#"
+  },
+  {
+    "word": "How many people can be registered in the Co-WIN portal through one mobile number?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "How can citizens with no access to smart phones or computers manage online registration?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Citizens can take help from friends or family for online registration",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I register for vaccination without Aadhaar card?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can register on Co-WIN portal using any of the following ID proofs",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Aadhaar card",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Driving License",
+    "replacedWord": "#"
+  },
+  {
+    "word": "PAN card",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Passport",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Pension Passbook",
+    "replacedWord": "#"
+  },
+  {
+    "word": "NPR Smart Card",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Voter ID",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is there any registration charges to be paid?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "No. There is no registration charge.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Whom do I contact in case of side effects from vaccination",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Why do I need a vaccination certificate?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due",
+    "replacedWord": "#"
+  },
+  {
+    "word": "It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Who is responsible for providing the vaccination certificate?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "The Vaccination Centre is responsible for generating your certificate and for providing a printed copy post vaccination on the day of vaccination itself. Please do insist on receiving the certificate at the Centre. For Private Hospitals, the charges for providing a printed copy of the certificate are included in the service charge for vaccination.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Where can I download vaccination certificate from?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccination",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccine Certificate",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Reporting Side effects",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You may do so by using the mobile number used at the time of registration.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "In this context the certificate issued by Co-WIN has built in security features to guarantee genuineness of the certificate which can be digitally verified using approved utilities which are provided in Co-WIN portal.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is vaccination free at all vaccination centres?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "No. Currently, vaccination is free at Government hospitals and charged at INR 250 in Private hospitals for citizens aged 45 years and above.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities",
+    "replacedWord": "#"
+  },
+  {
+    "word": "For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Frequently Asked Questions on Co-WIN",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "#"
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "2nd dose scheduling",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "When should I take the 2nd dose of vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can call on the national helpline â€˜1075â€™ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per State’s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Search by PIN",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Search by District",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on â€œRescheduleâ€ tab.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "What if I cannot go for vaccination on the date of appointment",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "#"
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "What should I do?  Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "C. 2nd dose scheduling",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "It is recommended that the 2nd dose of COVAXIN should be administered in the interval of 4 to 6 weeks from the date of 1st dose administration. For COVISHIELD the recommended interval is 4 to 8 weeks while an interval of 6 to 8 weeks gives an enhanced protection. You may choose the date of 2nd dose vaccination as per your convenience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can call on the national helpline ‘1075’ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per Stateâ€™s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on “Reschedule” tab.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination. However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination",
+    "replacedWord": "#"
+  },
+  {
+    "word": "However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Search",
+    "replacedWord": "#"
+  },
+  {
+    "word": "View full report",
+    "replacedWord": "#"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Confirm your SlotBook your slot to Get Vaccine",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Know how to book your appointment Dos and Don'ts",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online  Send Transcriptions  End Chat",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Start Chat",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Monday, 1:27 PMWelcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Monday, 1:27 PM",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Welcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Tot",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Tot Vaccination Doses",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dose-1 Vaccinations",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dose-2 Vaccinations",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Tot Vaccinated - Male",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Tot Vaccinated - Female",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Male",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Female",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Select your nearby Vaccine Center for vaccination",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Book your slot to Get Vaccine",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "#"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register Yourself",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Choose Vaccine Location",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Confirm your Slot",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Any Question?",
+    "replacedWord": "#"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "#"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "#"
+  },
+  {
+    "word": "View full report Â»",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Frequently asked questions (FAQ)",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Send Transcriptions",
+    "replacedWord": "#"
+  },
+  {
+    "word": "End Chat",
+    "replacedWord": "#"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "#"
+  },
+  {
+    "word": "FAQ Dashboard Open APIs  Department Login  Vaccinator  Verify Certificate",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Please follow our",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Frequently asked questions",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Enter your PIN",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You can contact on any of the following details",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Helpline Number",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Technical Helpline Number",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Helpline Email Id",
+    "replacedWord": "#"
+  },
+  {
+    "word": "You may also contact the Vaccination Centre where you took vaccination, for advice.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Toll free",
+    "replacedWord": "#"
+  }
+]
