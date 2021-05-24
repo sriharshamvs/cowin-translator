@@ -13,5 +13,14 @@
       "js": ["content_script.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "browser_action": {
+    "default_icon": "icons/icon.jpg",
+    "theme_icons": [{
+        "light": "icons/icon-32x32.jpg",
+        "dark": "icons/icon-32x32",
+        "size": 32
+    }],
+    "default_title": "CoWin Translator"
+  }
 }
