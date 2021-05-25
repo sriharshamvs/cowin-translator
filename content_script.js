@@ -2,7 +2,7 @@ loadLocalization();
 
 function loadLocalization(){
   console.log("Localization Loading . . . ");
-  let URL = browser.extension.getURL("data/te.json");
+  let URL = browser.extension.getURL("data/json/te.json");
   window.fetch(URL)
   .then((res) => res.json())
   .then((strings) => {
@@ -12,17 +12,7 @@ function loadLocalization(){
     const elementsInsideBody = [...document.body.getElementsByTagName("*")]
     findAndReplace(elementsInsideBody);
   });
-  
 }
-
-// let translations2; 
-// let URL = browser.extension.getURL("data/te.json");
-// window.fetch(URL)
-// .then((res) => res.json())
-// .then((strings) => {
-//     translations = JSON.parse(JSON.stringify(strings));
-//     // console.log("Fetch Successful:: " + JSON.stringify(translations2));
-//   });
 
 /**
  * This makes an array of everything elements inside the body tag
