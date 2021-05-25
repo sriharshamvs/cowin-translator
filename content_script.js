@@ -1,8 +1,10 @@
-loadLocalization();
+window.onload = (event) => {
+  loadLocalization("te");
+};
 
-function loadLocalization(){
+function loadLocalization(lang){
   console.log("Localization Loading . . . ");
-  let URL = browser.extension.getURL("data/json/te.json");
+  let URL = browser.extension.getURL("data/json/"+lang+".json");
   window.fetch(URL)
   .then((res) => res.json())
   .then((strings) => {
