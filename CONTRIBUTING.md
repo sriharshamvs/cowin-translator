@@ -4,10 +4,6 @@ When contributing to this repository, please first discuss the change you wish t
 
 Please note we have a Code of Conduct, please follow it in all your interactions with the project.
 
-## Built With
-
-- [Javascript](https://en.wikipedia.org/wiki/JavaScript/) - JavaScript is a text-based programming language
-
 ### Learning Resources
 
 - [Your first extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
