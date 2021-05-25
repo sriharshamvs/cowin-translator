@@ -16,6 +16,7 @@
   ],
   "browser_action": {
     "default_icon": "icon/icon.jpg",
+    "default_popup": "popup/extension.html",
     "theme_icons": [{
         "light": "icon/icon-32x32.jpg",
         "dark": "icon/icon-32x32.jpg",
