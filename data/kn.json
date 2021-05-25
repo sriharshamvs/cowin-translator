@@ -165,7 +165,7 @@
   },
   {
     "word": "Vaccination",
-    "replacedWord": "#"
+    "replacedWord": "ಲಸಿಕೆ"
   },
   {
     "word": "Vaccine Certificate",
@@ -189,7 +189,7 @@
   },
   {
     "word": "Is vaccination free at all vaccination centres?",
-    "replacedWord": "#"
+    "replacedWord": "ಎಲ್ಲಾ ಲಸಿಕಾ ಕೇಂದ್ರಗಳಲ್ಲಿ ಲಸಿಕೆ ಉಚಿತವೆ?"
   },
   {
     "word": "No. Currently, vaccination is free at Government hospitals and charged at INR 250 in Private hospitals for citizens aged 45 years and above.",
@@ -225,7 +225,7 @@
   },
   {
     "word": "Frequently Asked Questions on Co-WIN",
-    "replacedWord": "#"
+    "replacedWord": "ಕೋ-ವಿನ್ ಬಗ್ಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು"
   },
   {
     "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
@@ -753,27 +753,27 @@
   },
   {
     "word": "Verify Certificate",
-    "replacedWord": "#"
+    "replacedWord": "ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ"
   },
   {
     "word": "Register/ Sign In yourself",
-    "replacedWord": "#"
+    "replacedWord": "ನೀವೇ ನೊಂದಾಯಿಸಿ/ಲಾಗಿನ್ ಮಾಡಿ"
   },
   {
     "word": "Register/ Sign In yourself",
-    "replacedWord": "#"
+    "replacedWord": "ನೀವೇ ನೊಂದಾಯಿಸಿ/ಲಾಗಿನ್ ಮಾಡಿ"
   },
   {
     "word": "View full report Â»",
-    "replacedWord": "#"
+    "replacedWord": "ಸಂಪೂರ್ಣ ವರದಿಯನ್ನು ವೀಕ್ಷಿಸಿ"
   },
   {
     "word": "Frequently asked questions (FAQ)",
-    "replacedWord": "#"
+    "replacedWord": "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು"
   },
   {
     "word": "Know how to book your appointment",
-    "replacedWord": "#"
+    "replacedWord": "ನಿಮ್ಮ ಅಪಾಯಿಂಟ್ಮೆಂಟ್ ಕಾಡಿರಿಸುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯಿರಿ"
   },
   {
     "word": "Dos and Don'ts",
@@ -785,11 +785,11 @@
   },
   {
     "word": "End Chat",
-    "replacedWord": "#"
+    "replacedWord": "ಸಂಭಾಷಣೆಯನ್ನು ಮುಗಿಸಿ"
   },
   {
     "word": "FAQ",
-    "replacedWord": "#"
+    "replacedWord": "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು"
   },
   {
     "word": "Dashboard",
@@ -809,11 +809,11 @@
   },
   {
     "word": "Verify Certificate",
-    "replacedWord": "#"
+    "replacedWord": "ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ"
   },
   {
     "word": "Register/ Sign In yourself",
-    "replacedWord": "#"
+    "replacedWord": "ನೀವೇ ನೊಂದಾಯಿಸಿ/ಲಾಗಿನ್ ಮಾಡಿ"
   },
   {
     "word": "FAQ Dashboard Open APIs  Department Login  Vaccinator  Verify Certificate",
@@ -821,19 +821,19 @@
   },
   {
     "word": "Register/ Sign In yourself",
-    "replacedWord": "#"
+    "replacedWord": "ನೀವೇ ನೊಂದಾಯಿಸಿ/ಲಾಗಿನ್ ಮಾಡಿ"
   },
   {
     "word": "Please follow our",
-    "replacedWord": "#"
+    "replacedWord": "ದಯಮಾಡಿ ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ"
   },
   {
     "word": "Frequently asked questions",
-    "replacedWord": "#"
+    "replacedWord": "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು"
   },
   {
     "word": "Enter your PIN",
-    "replacedWord": "#"
+    "replacedWord": "ನಿಮ್ಮ ಪಿನ್ ಅನ್ನು ದಾಖಲಿಸಿ"
   },
   {
     "word": "You can contact on any of the following details",
@@ -841,15 +841,15 @@
   },
   {
     "word": "Helpline Number",
-    "replacedWord": "#"
+    "replacedWord": "ಸಹಾಯವಾಣಿ ಸಂಖ್ಯೆ"
   },
   {
     "word": "Technical Helpline Number",
-    "replacedWord": "#"
+    "replacedWord": "ತಾಂತ್ರಿಕ ಸಹಾಯವಾಣಿ ಸಂಖ್ಯೆ"
   },
   {
     "word": "Helpline Email Id",
-    "replacedWord": "#"
+    "replacedWord": "ಸಹಾಯವಾಣಿ ಈಮೇಲ್ ಐಡಿ"
   },
   {
     "word": "You may also contact the Vaccination Centre where you took vaccination, for advice.",
@@ -857,6 +857,6 @@
   },
   {
     "word": "Toll free",
-    "replacedWord": "#"
+    "replacedWord": "ಟೋಲ್ ಫ್ರೀ"
   }
 ]
