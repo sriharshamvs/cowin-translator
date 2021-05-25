@@ -2,7 +2,7 @@
 
 Our project page is : https://code.swecha.org/CivicTech/cowin-translator/
 ## Steps
-1. Please check the data/ directory if the language you wish to add is already present as a csv file  (te.csv for telugu, hi.csv for hindi, be.csv for bengali etc)
+1. Please check the data/csv/ directory if the language you wish to add is already present as a csv file  (te.csv for telugu, hi.csv for hindi, be.csv for bengali etc)
 2. If it already exists, download the appropriate file. If it does not, download l10n.csv file.
 3. You can open the file in any spreadsheet software - LibreOffice Calc, Excel etc 
 4. The 'word' column is the string to be translated. Add the translation into 'replaceWord' column. 

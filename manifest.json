@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "version": "0.2.0",
   "description": "Replace Text in cowin page",
-  "author": "Sri Harsha MVS",
+  "author": "FSMI",
   "content_scripts":
   [
     {
@@ -13,5 +13,20 @@
       "js": ["content_script.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "browser_action": {
+    "default_icon": "icon/icon.jpg",
+    "theme_icons": [{
+        "light": "icon/icon-32x32.jpg",
+        "dark": "icon/icon-32x32.jpg",
+        "size": 32
+    },
+    {
+      "light": "icon/icon-64x64.jpg",
+      "dark": "icon/icon-64x64.jpg",
+      "size": 64
+  }],
+    "default_title": "CoWin Translator"
+  },
+  "web_accessible_resources":[""]
 }
