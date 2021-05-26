@@ -1,0 +1,862 @@
+[
+  {
+    "word": "Registration",
+    "replacedWord": "രജിസ്റ്റര്‍ ചെയ്യല്‍"
+  },
+  {
+    "word": "Lakh",
+    "replacedWord": "ലക്ഷം"
+  },
+  {
+    "word": "Doses",
+    "replacedWord": "മാത്രകള്‍"
+  },
+  {
+    "word": "Dose",
+    "replacedWord": "മാത്ര"
+  },
+  {
+    "word": "Vaccinated",
+    "replacedWord": "കുത്തിവയ്പ് എടുത്തു."
+  },
+  {
+    "word": "AEFI Reported",
+    "replacedWord": "രോഗപ്രതിരോധത്തെ സംബന്ധിച്ചു പ്രതികൂല സംഭവങ്ങള്‍ റിപ്പോര്‍ട്ട് ചെയ്തിട്ടുണ്ടോ?"
+  },
+  {
+    "word": "Where can I register for COVID-19 vaccination?",
+    "replacedWord": "കോവിഡ് -19 വാക്സിനേഷനായി എവിടെയൊക്കെ രജിസ്റ്റര്‍ ചെയ്യാം"
+  },
+  {
+    "word": "You can log into the Co-WIN portal using the link",
+    "replacedWord": "ഈ കണ്ണി ഉപയോഗിച്ച് കോവിന്‍ പോര്‍ട്ടലില്‍ രജിസ്റ്റര്‍ ചെയ്യാം"
+  },
+  {
+    "word": "and click on the â€œRegister/Sign In yourselfâ€ tab to register for COVID-19 vaccination.",
+    "replacedWord": "COVID-19 പ്രതിരോധ കുത്തിവയ്പിനായി  രജിസ്റ്റർ ചെയ്യുന്നതിന്  “രജിസ്റ്റർ / പ്രവേശിക്കുക” എന്ന ടാബിൽ അമര്‍ത്തുക."
+  },
+  {
+    "word": "Is there a mobile app that needs to be installed to register for vaccination?",
+    "replacedWord": "കുത്തിവയ്‌പിനായി സ്മാര്‍ട്ഫോണ്‍ ആപ്ലിക്കേഷന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ടോ?"
+  },
+  {
+    "word": "Is online registration mandatory for Covid 19 vaccination?",
+    "replacedWord": "കോവിഡ് പ്രതിരോധ കുത്തിവയ്പിനായി ഓണ്‍-ലൈന്‍ രജിസ്ട്രേഷന്‍ നിര്‍ബന്ധമുണ്ടോ?"
+  },
+  {
+    "word": "Vaccination Centres provide for a limited number of on-spot registration slots every day. Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. However, Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before going to vaccination centre.",
+    "replacedWord": "എല്ലാ ദിവസവും  കുത്തിവയ്പ് കേന്ദ്രങ്ങളില്‍ മരുന്നിന്റെ ലഭ്യതയ്ക്കനുസരിച്ചു് പരിമിതമായ  തത്സമയ രജിസ്ട്രേഷന് അവസരം നൽകുന്നു. 45 വയസും അതിൽ കൂടുതലുമുള്ള പൗരന്മാർക്ക് ഓൺ-ലൈന്‍ വഴി കുത്തിവയ്പിനായി സമയം നിശ്ചയിക്കാം. അല്ലെങ്കിൽ കുത്തിവയ്പ് കേന്ദ്രങ്ങളിലേക്ക് നേരിട്ട് വന്ന് കുത്തിവയ്പ് എടുക്കാം. എന്നിരുന്നാലും, 18നും  44നും വയസിനിടയില്‍ പ്രായമുള്ളവർ നിർബന്ധമായും കോവിന്‍ വെബ്‌സൈറ്റില്‍ സ്വയം രജിസ്റ്റർ ചെയ്യുകയും കുത്തിവയ്പ് കേന്ദ്രത്തിലേയ്ക്ക് പോകുന്നതിനുമുമ്പ് ഓൺലൈനിൽ സമയം നിശ്ചയിച്ചുറപ്പാക്കണം."
+  },
+  {
+    "word": "In general, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "പൊതുവായി എല്ലാവര്‍ക്കും തടസ്സരഹിതമായ പ്രതിരോധ കുത്തിവെയ്പ് അനുഭവവേദ്യമാക്കുന്നതിനായി ഓൺ-ലൈനിൽ രജിസ്റ്റർ ചെയ്യാനും വാക്സിനേഷൻ മുൻ‌കൂട്ടി സമയക്രമീകരണം ചെയ്യാനും  നിര്‍ശിക്കുന്നു."
+  },
+  {
+    "word": "There is no authorised mobile app for registering for vaccination in India except Aarogya Setu. You need to log into the Co-WIN portal. Alternatively, you can also register for vaccination through the Aarogya Setu App.",
+    "replacedWord": "ആരോഗ്യ സേതു സ്മാര്‍ട്ട് ഫോണ്‍ ആപ്ലിക്കേഷന്‍ അല്ലാതെ പ്രതിരോധ കുത്തിവയ്പിനായി അംഗീകൃത മൊബൈൽ ആപ്ലിക്കേഷൻ ഒന്നുംതന്നെയില്ല. കോവിഡ്-19 കുത്തിവയ്പിനായി നിങ്ങള്‍ക്ക് കോവിന്‍ പോര്‍ട്ടലില്‍ പ്രവേശിക്കേണ്ടത് ആവശ്യമാണ്. കോവിന്‍ പോര്‍ട്ടലിനു്  പകരമായി ആരോഗ്യ സേതു ആപ്ലിക്കേഷന്‍ വഴിയും  നിങ്ങള്‍ക്ക് രജിസ്റ്റര്‍ ചെയ്യാം."
+  },
+  {
+    "word": "Which age groups can register for vaccination on the Co-WIN portal?",
+    "replacedWord": "ഏത് പ്രായക്കാര്‍ക്കുമുതല്‍ കോവിൻ പോർട്ടലിൽ കുത്തിവയ്പിനായി രജിസ്റ്റർ ചെയ്യാൻ സാധിക്കും?"
+  },
+  {
+    "word": "All citizens aged 18 years and above can register for vaccination",
+    "replacedWord": "18 വയസ്സും അതിൽ കൂടുതലുമുള്ള എല്ലാവര്‍ക്കും കുത്തിവയ്പിനായി രജിസ്റ്റർ ചെയ്യാം"
+  },
+  {
+    "word": "How many people can be registered in the Co-WIN portal through one mobile number?",
+    "replacedWord": "ഒരു മൊബൈൽ നമ്പർ ഉപയോഗിച്ച് എത്ര പേരെ  കോ-വിൻ പോർട്ടലിൽ രജിസ്റ്റർ ചെയ്യാൻ കഴിയും?"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number.",
+    "replacedWord": "ഒരു മൊബൈൽ നമ്പർ ഉപയോഗിച്ച് 4 പേരെ വരെ കുത്തിവയ്‌പിനായി രജിസ്റ്റർ ചെയ്യാം"
+  },
+  {
+    "word": "How can citizens with no access to smart phones or computers manage online registration?",
+    "replacedWord": "സ്മാർട്ട് ഫോണുകളോ കമ്പ്യൂട്ടറോ ലഭ്യമല്ലാത്തവര്‍ക്ക് എങ്ങനെ ഓൺലൈൻ രജിസ്ട്രേഷൻ ചെയ്യാന്‍ സാധിക്കും?"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number",
+    "replacedWord": "ഒരു മൊബൈൽ നമ്പർ ഉപയോഗിച്ച് 4 പേരെ വരെ കുത്തിവയ്‌പിനായി രജിസ്റ്റർ ചെയ്യാം"
+  },
+  {
+    "word": "Citizens can take help from friends or family for online registration",
+    "replacedWord": "കുത്തിവയ്‌പിനായുള്ള ഓൺലൈൻ  രജിസ്റ്റര്‍ ചെയ്യുന്നതിന്  സുഹൃത്തുക്കളിൽ നിന്നോ കുടുംബത്തിലുള്ള മറ്റുള്ളവര്‍ വഴിയോ സഹായം സ്വീകരിക്കാം"
+  },
+  {
+    "word": "Can I register for vaccination without Aadhaar card?",
+    "replacedWord": "ആധാര്‍ കാര്‍ഡ് ഇല്ലാതെ കുത്തിവയ്‌പ്‌  എടുക്കാന്‍ സാധിക്കുമോ?"
+  },
+  {
+    "word": "Yes, you can register on Co-WIN portal using any of the following ID proofs",
+    "replacedWord": "അതെ, ആധാര്‍ അല്ലാതെ താഴെ തന്നിരിക്കുന്ന തിരിച്ചറിയല്‍ രേഖകള്‍ ഉപയോഗിച്ച് കോവിന്‍ പോര്‍ട്ടലില്‍ രജിസ്റ്റര്‍ ചെയ്യാം"
+  },
+  {
+    "word": "Aadhaar card",
+    "replacedWord": "ആധാർ കാർഡ്"
+  },
+  {
+    "word": "Driving License",
+    "replacedWord": "ഡ്രൈവിംഗ് ലൈസൻസ്"
+  },
+  {
+    "word": "PAN card",
+    "replacedWord": "പാൻ കാർഡ്"
+  },
+  {
+    "word": "Passport",
+    "replacedWord": "പാസ്പോർട്ട്"
+  },
+  {
+    "word": "Pension Passbook",
+    "replacedWord": "പെൻഷൻ പാസ്ബുക്ക്"
+  },
+  {
+    "word": "NPR Smart Card",
+    "replacedWord": "എൻ പി ആർ സ്മാർട്ട് കാർഡ്"
+  },
+  {
+    "word": "Voter ID",
+    "replacedWord": "വോട്ടര്‍ ഐഡി"
+  },
+  {
+    "word": "Is there any registration charges to be paid?",
+    "replacedWord": "രജിസ്റ്റര്‍ ചെയ്യുന്നതിനായി എന്തെങ്കിലും പണം നല്കേണ്ടതുണ്ടോ?"
+  },
+  {
+    "word": "No. There is no registration charge.",
+    "replacedWord": "വേണ്ട. രജിസ്ട്രേഷന് പണം നല്കേണ്ടതില്ല"
+  },
+  {
+    "word": "Whom do I contact in case of side effects from vaccination",
+    "replacedWord": "കുത്തിവയ്‌പിന് ശേഷം എന്തെങ്കിലും പാര്‍ശ്വപലങ്ങള്‍ ഉണ്ടായാല്‍ ആരെ ബന്ധപ്പെടണം?"
+  },
+  {
+    "word": "Why do I need a vaccination certificate?",
+    "replacedWord": "കുത്തിവയ്‌പിനായുള്ള സാക്ഷ്യപത്രം ആവശ്യമായിവരുന്നതെന്തിനാണ്?"
+  },
+  {
+    "word": "A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due",
+    "replacedWord": "സർക്കാർ നല്കുന്ന കോവിഡ് വാക്സിൻ സർട്ടിഫിക്കറ്റ് (സിവിസി) കുത്തിവയ്‌പിനെയും, വാക്സിനെയും പറ്റി ഗുണഭോക്താവിന് ഒരു ഉറപ്പ് നൽകുന്നു. കൂടാതെ അടുത്ത കുത്തിവയ്പിനായുള്ള  സമയം  താൽക്കാലിക സർട്ടിഫിക്കറ്റു്  ലഭ്യമാക്കുന്നു."
+  },
+  {
+    "word": "It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel",
+    "replacedWord": "ഏതെങ്കിലും സ്ഥാപനങ്ങളിലോ മറ്റെവിടേയ്ക്കെങ്കിലും യാത്രചെയ്യുമ്പോഴോ  പ്രത്യേകമായി പ്രതിരോധ കുത്തിവയ്പ് ആവശ്യമായി വന്നേക്കാം. അത്തരം സന്ദര്‍ഭങ്ങളില്‍ തെളിവായി ഈ സാക്ഷ്യപത്രം ഉപയോഗിക്കാം"
+  },
+  {
+    "word": "Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "പ്രതിരോധ കുത്തിവയ്പ് വ്യക്തികളെ രോഗത്തിൽ നിന്ന് സംരക്ഷിക്കുക മാത്രമല്ല, സമൂഹത്തിലേയ്ക്ക് വൈറസ് പടരാനുള്ള സാധ്യത കുറയ്ക്കുകയും ചെയ്യുന്നു. അതിനാൽ, ഭാവിയില്‍ ഏതെങ്കിലും പൊതുചടങ്ങുകളില്‍ പങ്കുചേരുവാനോ വിദേശ യാത്രകള്‍ക്കോ പ്രതിരോധ കുത്തിവയ്പ് എടുത്ത സാക്ഷ്യപത്രം ഹാജരാക്കേണ്ടിവരാം."
+  },
+  {
+    "word": "Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "അതിനാൽ,  ഭാവിയില്‍ ഏതെങ്കിലും പൊതുചടങ്ങുകളില്‍ പങ്കുചേരുവാനോ വിദേശ യാത്രകള്‍ക്കോ പ്രതിരോധ കുത്തിവയ്‌പ്‌  എടുത്ത സാക്ഷ്യപത്രം ഹാജരാക്കേണ്ടിവരാം."
+  },
+  {
+    "word": "Who is responsible for providing the vaccination certificate?",
+    "replacedWord": "കുത്തിവയ്‌പിന് ശേഷം സാക്ഷ്യപത്രം നല്കാന്‍ ആര്‍ക്കാണ് ഉത്തരവാദിത്വമുള്ളത്?"
+  },
+  {
+    "word": "The Vaccination Centre is responsible for generating your certificate and for providing a printed copy post vaccination on the day of vaccination itself. Please do insist on receiving the certificate at the Centre. For Private Hospitals, the charges for providing a printed copy of the certificate are included in the service charge for vaccination.",
+    "replacedWord": "നിങ്ങളുടെ കോവിഡ് കുത്തിവെച്ച സാക്ഷ്യപത്രം  അച്ചടിച്ചുനല്കുവാന്‍ കുത്തിവയ്‌പ്‌ എടുത്ത  ദിവസം തന്നെ നല്കുവാനും  രണ്ടാമത്തെ കുത്തിവെപ്പ്  നൽകുന്നതിനും കുത്തിവെപ്പ് കേന്ദ്രത്തിന് ഉത്തരവാദിത്തമുണ്ട്. കുത്തിവെപ്പ് കേന്ദ്രത്തിൽ നിന്നും സാക്ഷ്യപത്രം  ദയവായി നിർബന്ധിച്ചു് വാങ്ങിക്കുക. സ്വകാര്യ ആശുപത്രികളെ സംബന്ധിച്ചിടത്തോളം, സർട്ടിഫിക്കറ്റിന്റെ അച്ചടിച്ച പകർപ്പ് നൽകുന്നതിനുള്ള നിരക്കുകൾ കുത്തിവയ്‌പിനുള്ള നിരക്കിൽ ഉൾപ്പെടുത്തിയിട്ടുള്ളതാണ്."
+  },
+  {
+    "word": "Where can I download vaccination certificate from?",
+    "replacedWord": "എനിക്ക്  കുത്തിവയ്‌പിന് ശേഷമുള്ള സാക്ഷ്യപത്രം എവിടെ നിന്ന് ഡൌണ്‍ലോഡ് ചെയ്യാന്‍ സാധിക്കും?"
+  },
+  {
+    "word": "Vaccination",
+    "replacedWord": "കുത്തിവെയ്പ്"
+  },
+  {
+    "word": "Vaccine Certificate",
+    "replacedWord": "കുത്തിവയ്പ് സാക്ഷ്യപത്രം"
+  },
+  {
+    "word": "Reporting Side effects",
+    "replacedWord": "പാര്‍ശ്വഫലങ്ങള്‍ അറിയിക്കുക"
+  },
+  {
+    "word": "You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps.",
+    "replacedWord": "കോവിൻ പോർട്ടലിൽ (cowin.gov.in) നിന്നോ  ആരോഗ്യ സേതു മൊബൈല്‍  ആപ്ലിക്കേഷനിൽ നിന്നോ ഡിജി ലോക്കർ വഴിയോ കുത്തിവയ്പ് സാക്ഷ്യപത്രം വളരെ എളുപ്പത്തില്‍ ഡൌണ്‍ലോഡ് ചെയ്യാം"
+  },
+  {
+    "word": "You may do so by using the mobile number used at the time of registration.",
+    "replacedWord": "രജിസ്ട്രേഷന്‍ സമയത്ത് നല്കിയ മൊബൈല്‍ നമ്പര്‍  ഉപയോഗിച്ച് നിങ്ങള്‍ക്ക് അങ്ങനെ ചെയ്യാം"
+  },
+  {
+    "word": "In this context the certificate issued by Co-WIN has built in security features to guarantee genuineness of the certificate which can be digitally verified using approved utilities which are provided in Co-WIN portal.",
+    "replacedWord": "ഈ സാഹചര്യത്തിൽ‌, കോവിന്‍ പോര്‍ട്ടല്‍ വഴി നല്കുന്ന സാക്ഷ്യപത്രം  സുരക്ഷാ വിശേഷണങ്ങളോടെ തയ്യാറാക്കിയതും  അവ്യാജമായതുമാണെന്ന് ഉറപ്പുനല്കുന്നതോടൊപ്പം അവ അംഗീകൃത സാങ്കേതികതകള്‍  ഉപയോഗിച്ച് ഡിജിറ്റലായി പരിശോധിച്ചുറപ്പിച്ചതുമാണ്"
+  },
+  {
+    "word": "Is vaccination free at all vaccination centres?",
+    "replacedWord": "എല്ലാ കുത്തിവയ്പ് കേന്ദ്രങ്ങളിലും കുത്തിവയ്പ് സൌജന്യമാണോ?"
+  },
+  {
+    "word": "No. Currently, vaccination is free at Government hospitals and charged at INR 250 in Private hospitals for citizens aged 45 years and above.",
+    "replacedWord": "അല്ല, നിലവില്‍ സര്‍ക്കാര്‍ ആശുപത്രികളില്‍ മാത്രമാണ് കുത്തിവയ്പ് സൌജന്യമായി ലഭിക്കുകയുള്ളൂ. 45 വയസ്സിന് മുകളിലുള്ളവര്‍ക്ക് സ്വകാര്യ ആശുപത്രികളില്‍ നിന്നു് 250 രൂപ നിരക്കില്‍ കുത്തിവയ്പ് എടുക്കാം"
+  },
+  {
+    "word": "From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities",
+    "replacedWord": "മെയ് 1 മുതല്‍ 45 വയസ്സോ അതിന് മുകളിലോ പ്രായമുള്ളവര്‍ക്ക് സര്‍ക്കാര്‍ സംവിധാനങ്ങളിലൂടെ സൌജന്യ കുത്തിവയ്പ് തുടരുന്നതാണ്."
+  },
+  {
+    "word": "For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "18നും 44നും ഇടയ്ക്കുള്ളവരുടെ കുത്തിവയ്പിന്റെ നയം അതത് സംസ്ഥാന സര്‍ക്കാര്‍ പ്രഖ്യാപിക്കും. സ്വകാര്യ സംവിധാനങ്ങള്‍ വഴിയുള്ള കുത്തിവയ്പിന് നിരക്കുകള്‍ സ്ഥാപനങ്ങള്‍ നിശ്ചയിക്കും. ഓരോ വാക്സിനുമുള്ള  നിരക്ക്  കുത്തിവയ്പ് മുന്‍കൂട്ടി ഉറപ്പാക്കുന്ന സമയത്ത് കാണാന്‍ സാധിക്കും."
+  },
+  {
+    "word": "Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "സ്വകാര്യ സംവിധാനങ്ങള്‍ വഴിയുള്ള കുത്തിവയ്പിന് നിരക്കുകള്‍ സ്ഥാപനങ്ങള്‍ നിശ്ചയിക്കും. ഓരോ വാക്സിനുമുള്ള  നിരക്ക്  കുത്തിവയ്പ് മുന്‍കൂട്ടി ഉറപ്പാക്കുന്ന സമയത്ത് കാണാന്‍ സാധിക്കും."
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago.",
+    "replacedWord": "ഒരാള്‍ക്ക് രണ്ടാമത്തെ മാത്ര കുത്തിവയ്പ് എടുക്കുമ്പോള്‍ രണ്ടാമത്തെ മാത്ര നല്കുന്ന സമയത്ത് ചെയ്യുന്ന അതേ വാക്സിൻ ഉപയോഗിച്ചാണ് ആദ്യത്തെ മാത്ര കുത്തിവയ്പ് നടത്തിയതെന്നും ആദ്യത്തെ കുത്തിവയ്പ് നൽകിയതാണെന്നും, ആദ്യത്തെ കുത്തിവയ്പ്  എടുത്തിട്ട് 28 ദിവസത്തില്‍ കൂടുതലായി എന്നും  ഉറപ്പുവരുത്താൻ കുത്തിവയ്പ് കേന്ദ്രങ്ങള്‍ക്ക്  നിർദ്ദേശം നൽകിയിട്ടുണ്ട്."
+  },
+  {
+    "word": "You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator.",
+    "replacedWord": "ഒന്നാമതായി കുത്തിവെച്ച  വാക്സിൻ ഏതാണെന്നും  ഒന്നാം മാത്ര കുത്തിവയ്പ് നടത്തിയ തിയ്യതി എന്നാണെന്നുമുള്ളതിനെക്കുറിച്ചു് ശരിയായ വിവരങ്ങൾ നിങ്ങൾ വാക്സിന്‍ കുത്തിവയ്ക്കുന്നവരുമായി പങ്കിടണം."
+  },
+  {
+    "word": "You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "ആദ്യത്തെ കുത്തിവയ്പിന് ശേഷം ലഭിച്ച സാക്ഷ്യപത്രം കൈവശം വയ്ക്കണം."
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "എനിക്ക് വാക്സിന്റെ നിരക്ക് പരിശോധിക്കാമോ?"
+  },
+  {
+    "word": "Frequently Asked Questions on Co-WIN",
+    "replacedWord": "കോവിനിൽ പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "അതെ. സന്ദര്‍ശന സമയം ഉറപ്പുവരുത്തുമ്പോള്‍  കുത്തിവയ്പ് കേന്ദ്രത്തിന്റെ പേരിന് താഴെയുള്ള വ്യത്യസ്ത വാക്സിനുകളുടെ വില  കാണാന്‍ സാധിക്കും"
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "എനിക്ക് വാക്സിൻ തിരഞ്ഞെടുക്കാമോ?"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "ഒരു സന്ദര്‍ശനം നിശ്ചയിച്ചുകിട്ടുന്ന  സമയത്ത് ഓരോ കുത്തിവയ്പ് കേന്ദ്രത്തിലും വാക്സിൻ നൽകുന്നത് കമ്പ്യൂട്ടറില്‍ കാണിക്കും. വാക്സിൻ നൽകുന്നത് അനുസരിച്ച് പൗരന്മാർക്ക് കുത്തിവയ്പ് കേന്ദ്രം തെരഞ്ഞെടുക്കാം, തെരെഞ്ഞെടുക്കാനുള്ള ഈ സൌകര്യം സർക്കാർ കേന്ദ്രങ്ങളില്‍ ഉണ്ടായിരിക്കില്ല."
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "രണ്ടാം മാത്ര കുത്തിവയ്പ്  സമയത്ത് ഞാൻ എന്ത് മുൻകരുതലുകൾ എടുക്കണം?"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "ഒരാള്‍ക്ക് രണ്ടാമത്തെ മാത്ര കുത്തിവയ്പ് എടുക്കുമ്പോള്‍ രണ്ടാമത്തെ മാത്ര നല്കുന്ന സമയത്ത് ചെയ്യുന്ന അതേ വാക്സിൻ ഉപയോഗിച്ചാണ് ആദ്യത്തെ മാത്ര കുത്തിവയ്പ് നടത്തിയതെന്നും ആദ്യത്തെ കുത്തിവയ്പ് നൽകിയതാണെന്നും, ആദ്യത്തെ കുത്തിവയ്പ്  എടുത്തിട്ട് 28 ദിവസത്തില്‍ കൂടുതലായി എന്നും  ഉറപ്പുവരുത്താൻ കുത്തിവയ്പ് കേന്ദ്രങ്ങള്‍ക്ക്  നിർദ്ദേശം നൽകിയിട്ടുണ്ട്.  ആദ്യത്തെ കുത്തിവയ്പിന് ശേഷം ലഭിച്ച സാക്ഷ്യപത്രം കൈവശം വയ്ക്കണം."
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "എനിക്ക് രണ്ടാമത്തെ മാത്ര കുത്തിവയ്പ്  മറ്റൊരു സംസ്ഥാനത്ത് / ജില്ലയിൽ നിന്ന് എടുക്കാമോ?"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "അതെ, നിങ്ങൾക്ക് ഏത് സംസ്ഥാനത്തും / ജില്ലയില്‍ നിന്നും കുത്തിവയ്പ് എടുക്കാം. നിങ്ങളുടെ ആദ്യത്തെ മാത്ര കുത്തിവയ്പില്‍ നിങ്ങൾക്ക് നൽകിയ അതേ വാക്സിൻ വാഗ്ദാനം ചെയ്യുന്ന കേന്ദ്രങ്ങളിൽ നിന്ന് മാത്രമേ നിങ്ങൾക്ക് രണ്ടാം മാത്രാ പ്രതിരോധ കുത്തിവയ്പ് നടത്താൻ കഴിയൂ എന്നതാണ് ഏക നിയന്ത്രണം."
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "കുത്തിവയ്പിനായി ഏത് രേഖകളാണ് ഞാൻ കൊണ്ടുപോകേണ്ടത്?"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "കോ-വിൻ പോർട്ടലിൽ രജിസ്ട്രേഷൻ സമയത്ത് നിങ്ങൾ വ്യക്തമാക്കിയ തിരിച്ചറിയല്‍ രേഖയും നിങ്ങളുടെ സന്ദര്‍ശന സമയം രേഖപ്പെടുത്തിയ പ്രമാണം അച്ചടിച്ചതോ സ്ക്രീൻഷോട്ട് എടുത്തതോ നിങ്ങൾ കൈവശം വയ്ക്കണം."
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "കോ-വിൻ പോർട്ടലിൽ ഞാൻ സ്വന്തമായി രജിസ്റ്റർ ചെയ്തു. എന്നിട്ടും, എന്റെ സ്ഥലത്തിനടുത്ത് ഒരു കുത്തിവയ്പ് സൗകര്യവും കാണാത്തതിനാൽ എനിക്ക് കുത്തിവയ്പ് മുന്‍കൂട്ടി നിശ്ചയിക്കാന്‍ കഴിയില്ലേ?"
+  },
+  {
+    "word": "Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "സാധിക്കും, നിങ്ങളുടെ സ്ഥലത്തിനടുത്തുള്ള ഒരു കുത്തിവയ്പ് കേന്ദ്രവും ഇതുവരെ അവരുടെ കുത്തിവയ്പ് പരിപാടി പ്രസിദ്ധീകരിച്ചിട്ടില്ല. നിങ്ങളുടെ സ്ഥലത്തിനടുത്തുള്ള കുത്തിവയ്പ് കേന്ദ്രങ്ങള്‍ അവരുടെ സേവനങ്ങൾ  സജീവമാവുകയും ആരംഭിക്കുകയും ചെയ്യുന്നമുറയ്ക്ക് കോ-വിൻ വെബ്‌സൈറ്റില്‍  കാണിക്കും അതുവരെ  നിങ്ങൾക്ക് കുറച്ച് സമയം കാത്തിരിക്കാം,"
+  },
+  {
+    "word": "2nd dose scheduling",
+    "replacedWord": "രണ്ടാമത്തെ മാത്ര കുത്തിവയ്പ് സമയ ക്രമീകരണം"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "രണ്ടാമത്തെ മാത്രാ കുത്തിവയ്പ് എടുക്കണമെന്ന് നിര്‍ബന്ധമുണ്ടോ?"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "അതെ. കുത്തിവയ്പിന്റെ പൂര്‍ണ്ണായി ഫലം ലഭിക്കുന്നതിന് രണ്ട് മാത്രാ കുത്തിവയ്പും എടുക്കുവാന്‍  ശുപാർശ ചെയ്യുന്നു. രണ്ട് മാത്രാ കുത്തിവയ്പുകളും  ഒരേ വാക്സിൻ തന്നെയായിരിക്കണം."
+  },
+  {
+    "word": "When should I take the 2nd dose of vaccination?",
+    "replacedWord": "കുത്തിവയ്പിന്റെ രണ്ടാം മാത്ര ഞാൻ എപ്പോൾ എടുക്കണം?"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "എന്റെ രണ്ടാമത്തെ മാത്രാ കുത്തിവയ്പിന്റെ സന്ദര്‍ശന സമയ ക്രമീകരണം  കോ-വിൻ സംവിധാനം സ്വപ്രേരിതമായി ചെയ്യുമോ?"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "ഇല്ല. രണ്ടാമത്തെ മാത്രാ കുത്തിവയ്പിനായി നിങ്ങൾ ഒരു കൂടിക്കാഴ്ച ഒരുക്കണം. ഒന്നാം മാത്രാ കുത്തിവയ്പിന്റെ വാക്സിൻ തരം (COVAXIN അല്ലെങ്കിൽ COVISHIELD) പോലെ വാക്സിൻ നൽകുന്ന ഒരു കുത്തിവയ്പ് കേന്ദ്രത്തില്‍ ഒരു സന്ദര്‍ശനം മുന്‍കൂട്ടി ഉറപ്പിക്കുവാന്‍ കോ-വിൻ സിസ്റ്റം നിങ്ങളെ സഹായിക്കും."
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "ഓൺലൈൻ അപ്പോയിന്റ്മെന്റ് രജിസ്ട്രേഷനുമായി ബന്ധപ്പെട്ടുള്ള  പ്രശ്നങ്ങൾ പരിഹരിക്കാൻ ഞാൻ ആരുമായി ബന്ധപ്പെടണം ?"
+  },
+  {
+    "word": "You can call on the national helpline Ã¢â‚¬Ëœ1075Ã¢â‚¬â„¢ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "COVID-19 വാക്സിനേഷൻ, കോവിൻ സോഫ്റ്റ്വെയർ എന്നിവയെക്കുറിച്ചുള്ള വിവരങ്ങൾക്കും മാർഗ്ഗനിർദ്ദേശങ്ങൾക്കും  നിങ്ങൾക്ക് ദേശീയ  ഹെൽപ്  ലൈൻ നമ്പറായ ----- ലേക്ക് വിളിക്കാവുന്നതാണ് ."
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "സമയവും സങ്കേതവും നിശ്ചയിക്കല്‍"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "കുത്തിവെയ്പ്പിനായി കോ-വിൻ പോർട്ടലിൽ എനിക്ക് അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്യാനാകുമോ ?"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "അതെ, നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പർ വഴി കോ വിൻ പോർട്ടലിലേക്ക് ലോഗിൻ ചെയ്ത ശേഷം കോ വിൻ പോർട്ടൽ വഴി വാക്സിനേഷനായി അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്യാം. രജിസ്ട്രേഷൻ പോർട്ടലിൽ പ്രവേശിച്ച വ്യക്തിയുടെ പ്രായത്തിനനുസരിച്ച് വാക്സിനേഷൻ അനുവദിക്കുന്ന കേന്ദ്രങ്ങൾ കോ വിൻ പോർട്ടലിൽ  കാണിക്കും."
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "ഒരു വ്യക്തി 45 വയസ്സിനു മുകളിലുള്ള ആളോ  അല്ലെങ്കിൽ 18 വയസ്സിനു മുകളിലുള്ളതോ ആണെങ്കിൽ എന്തൊക്കെ ഓപ്ഷൻസ് ആണ് കോ വിൻ പോർട്ടലിൽ ഉള്ളത് ?"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per Stateâ€™s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "45 വയസ്സിനു മുകളിൽ പ്രായമുള്ള ഒരു വ്യക്തിയും 18 വയസ്സിനു മുകളിൽ പ്രായമുള്ള മറ്റൊരു വ്യക്തിയും ഒരുമിച്ച് അപ്പോയ്ന്റ്മെന്റ് ഷെഡ്യൂൾ ചെയ്യാൻ ആഗ്രഹിക്കുന്നു എങ്കിൽ  സ്വകാര്യ വാക്‌സിനേഷൻ കേന്ദ്രങ്ങളിലെ പണം കൊടുത്തുള്ള വാക്‌സിനോ സംസ്ഥാന സർക്കാരിന്റെ നയം അനുസരിച്ചുള്ള മറ്റു വാക്‌സിനേഷൻ കേന്ദ്രങ്ങളോ മാത്രമേ തിരഞ്ഞെടുക്കാൻ കഴിയു. പക്ഷെ 45 വയസ്സിനു മുകളിൽ പ്രായമുള്ളവർക്ക് വേണ്ടി മാത്രം വാക്‌സിൻ കൊടുക്കുന്ന സ്വകാര്യ സ്ഥാപനങ്ങൾ 18 വയസ്സിനു മുകളിൽ പ്രായമുള്ളവർ അനുവദിക്കാൻ സാധ്യത ഇല്ല . ഇത്തരം സന്ദർഭങ്ങളിൽ നിങ്ങൾക് ഒന്നിന് പുറകെ ഒന്നായി വാക്‌സിൻ ബുക്ക് ചെയ്യാവുന്നതാണ്."
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "ഓരോ വാക്സിനേഷൻ കേന്ദ്രത്തിലും വാക്സിൻ നൽകുന്നത് എനിക്ക് പരിശോധിക്കാമോ?"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "അതെ, വാക്സിനേഷനു വേണ്ടി ഒരു അപ്പോയിന്റ്മെന്റ് ഷെഡ്യൂൾ ചെയ്യുമ്പോൾ, സ്വകാര്യ ആശുപത്രികളുടെ കാര്യത്തിൽ വാക്സിനേഷൻ സെന്ററിന്റെ പേരിനൊപ്പം  നൽകപ്പെടുന്ന  വാക്‌സിന്റെ പേരുകളും  കാണിക്കും. എന്നാൽ സർക്കാർ ആശുപത്രികൾ വാക്സിനുകളുടെ പേര് കാണിച്ചേക്കില്ല."
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "എനിക്ക് അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ്  ഡൗൺലോഡ് ചെയ്യാൻ കഴിയുമോ?"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "അതെ, അപ്പോയിന്റ്മെന്റ് ഷെഡ്യൂൾ ചെയ്ത ശേഷം അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ് ഡൗൺലോഡ് ചെയ്യാൻ കഴിയും."
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "എനിക്ക് എങ്ങനെ ഏറ്റവും അടുത്തുള്ള വാക്സിനേഷൻ കേന്ദ്രം കണ്ടെത്താനാകും?"
+  },
+  {
+    "word": "Search by PIN",
+    "replacedWord": "പിൻ കോഡ് ഉപയോഗിച്ച് തിരയുക"
+  },
+  {
+    "word": "Search by District",
+    "replacedWord": "ജില്ല ഉപയോഗിച്ച് തിരയുക"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "പിൻ കോഡിലൂടെയോ  അല്ലെങ്കിൽ സംസ്ഥാനത്തെയും ജില്ലയെയും തിരഞ്ഞെടുത്തു കൊണ്ടോ  നിങ്ങളുടെ സ്ഥലത്തിന് ഏറ്റവും അടുത്തുള്ള വാക്സിനേഷൻ സെന്ററിനായി കോ-വിൻ പോർട്ടലിൽ (അല്ലെങ്കിൽ ആരോഗ്യ സേതു ) തിരയാവുന്നതാണ്"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "എനിക്ക് എന്റെ അപ്പോയ്ന്റ്മെന്റ്  വീണ്ടും ഷെഡ്യൂൾ ചെയ്യാൻ കഴിയുമോ?"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on Ã¢â‚¬Å“RescheduleÃ¢â‚¬Â tab.",
+    "replacedWord": "അപ്പോയിന്റ്മെന്റ് എപ്പോൾ വേണമെങ്കിലും മാറ്റി വീണ്ടും ഷെഡ്യൂൾ ചെയ്യാം. അപ്പോയിന്റ്മെന്റ് തീയതിയിൽ നിങ്ങൾക്ക് വാക്സിനേഷനായി പോകാൻ കഴിയുന്നില്ലെങ്കിൽ, 'Reschedule' ടാബിൽ ക്ലിക്കുചെയ്ത് നിങ്ങൾക്ക് അപ്പോയിന്റ്മെന്റ് മാറ്റി നിശ്ചയിക്കാവുന്നതാണ് ."
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "എനിക്ക് അപ്പോയിന്റ്മെന്റ് റദ്ദാക്കാൻ സാധിക്കുമോ ?"
+  },
+  {
+    "word": "What if I cannot go for vaccination on the date of appointment",
+    "replacedWord": "നിശ്ചയിച്ച തീയതിയിൽ എനിക്ക് വാക്സിനേഷന് പോകാൻ സാധിച്ചില്ലെങ്കിൽ എന്തുചെയ്യും?"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "അതെ. നിശ്ചയിച്ച തീയതിയിലെ അപ്പോയ്ന്റ്മെന്റ് നിങ്ങൾക്ക് റദ്ദാക്കാനാകും. പിന്നീട്  നിങ്ങൾക്ക് സൗകര്യമുള്ള മറ്റൊരു തിയതിയും സമയവും വീണ്ടും ഷെഡ്യൂൾ ചെയ്യാവുന്നതാണ് ."
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "എന്റെ പ്രതിരോധ കുത്തിവയ്പ്പിന്റെ തീയതിയെയും  സമയത്തെയും കുറിച്ചുള്ള സ്ഥിരീകരണം എനിക്ക് എവിടെ നിന്ന് ലഭിക്കും?"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "ഒരു അപ്പോയിന്റ്മെന്റ് ഷെഡ്യൂൾ ചെയ്തുകഴിഞ്ഞാൽ, നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പറിലേക്ക് വാക്സിനേഷൻ സെന്റർ, തീയതി, സമയ ക്രമം എന്നിവയുടെ വിശദാംശങ്ങൾ SMS ആയി ലഭിക്കും. നിങ്ങൾക്ക് അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ്  ഡൗൺലോഡ് ചെയ്ത് പ്രിന്റു എടുക്കുകയോ അല്ലെങ്കിൽ നിങ്ങളുടെ സ്മാർട്ട് ഫോണിൽ സൂക്ഷിക്കുകയോ ചെയ്യാം."
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "അപ്പോയ്ന്റ്മെന്റ്  എടുക്കാതെ എനിക്ക് വാക്സിനേഷൻ ലഭിക്കുമോ?"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres.",
+    "replacedWord": "45 വയസ്സിനു മുകളിൽ പ്രായമുള്ള വ്യക്തികൾക്ക് പ്രധിരോധ കുത്തിവെയ്പ്പിനായി മുൻകൂട്ടി ബുക്ക് ചെയ്യുകയോ അല്ലെങ്കിൽ വാക്‌സിനേഷൻ കേന്ദ്രങ്ങളിൽ നേരിട്ടെത്തിയോ ബുക്ക് ചെയ്യാവുന്നതാണ്"
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "18-44 വയസ് പ്രായമുള്ള പൗരന്മാർ നിർബന്ധമായും സ്വയം രജിസ്റ്റർ ചെയ്യുകയും വാക്സിനേഷന് മുമ്പായി ഓൺലൈനിൽ അപ്പോയിന്റ്മെന്റ് ഷെഡ്യൂൾ ചെയ്യുകയും വേണം. എന്നിരുന്നാലും എല്ലാ പൗരന്മാരും ഓൺലൈൻ രജിസ്റ്റർ ചെയ്ത് വാക്‌സിനേഷൻ ഷെഡ്യൂൾ ചെയ്ത ശേഷം വാക്‌സിനേഷൻ കേന്ദ്രങ്ങളിൽ എത്തിയാൽ എല്ലാ പൗരന്മാർക്കും തടസ്സമില്ലാതെ  വാക്‌സിൻ എടുക്കാൻ സാധിക്കുന്നു."
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "എനിക്ക് വാക്സിന്റെ വില പരിശോധിക്കാന്‍ സാധിക്കുമോ?"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "അതെ. വാക്സിനേഷന്റെ സ്ഥലവും സമയവും മുന്‍കൂട്ടി നിശ്ചിതപ്പെടുത്തുന്ന സമയത്ത്, പ്രതിരോധ കുത്തിവയ്പ്പ് കേന്ദ്രത്തിന്റെ പേരിന് ചുവടെ, വാക്സിനുകളുടെ വില കാണിക്കും."
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "എനിക്ക് വാക്സിൻ തിരഞ്ഞെടുക്കാന്‍ സാധിക്കുമോ?"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "വാക്സിനേഷന്റെ സ്ഥലവും സമയവും മുന്‍കൂട്ടി നിശ്ചിതപ്പെടുത്തുന്ന സമയത്ത്, ഓരോ പ്രതിരോധ കുത്തിവയ്പ്പ് കേന്ദ്രത്തിലും നൽകുന്ന വാക്സിൻ ഏതാണെന്ന് കാണാന്‍ സാധിക്കും. വാക്സിൻ തിരഞ്ഞെടുക്കുന്നതിനനുസരിച്ച്, ഒരാളിന് പ്രതിരോധ കുത്തിവയ്പ്പ് കേന്ദ്രം തിരഞ്ഞെടുക്കാം. എന്നിരുന്നാലും, തിരഞ്ഞെടുപ്പ് സർക്കാർ സംവിധാനങ്ങളിൽ ഇങ്ങിനെ തെരഞ്ഞെടുക്കാനുള്ള സൗകര്യം ലഭ്യമാകില്ല."
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "രണ്ടാം തവണത്തെ വാക്സിനേഷൻ സമയത്ത് ഞാൻ എന്തൊക്കെ മുൻകരുതലുകൾ എടുക്കണം?"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "ഒരു പൗരന് രണ്ടാമത് തവണത്തെ വാക്സിനേഷനാണ് നൽകുന്നതെങ്കിൽ, ആദ്യ തവണ നല്‍കിയ അതേ വാക്സിന്‍ തന്നെയാണ്, രണ്ടാമതും നല്‍കുന്നതെന്നും, രണ്ടാമത് തവണത്തെ വാക്സിന്‍ നല്‍കുമ്പോള്‍, ആദ്യ തവണത്തേത് നല്‍കി 28 ദിവസത്തിൽ കൂടുതൽ ആയിട്ടുണ്ടെന്ന് സ്ഥിരീകരിച്ച് ഉറപ്പാക്കണമെന്നും വാക്സിനേഷൻ കേന്ദ്രങ്ങൾക്ക് നിർദ്ദേശം നൽകിയിട്ടുണ്ട്. ആദ്യ തവണ നല്‍കിയ വാക്സിൻ തരത്തെക്കുറിച്ചുള്ള കൃത്യമായ വിവരങ്ങളും അത് നല്‍കിയ തീയതിയും, പ്രതിരോധ കുത്തിവയ്പ്പ് നടത്തുന്നയാളുമായി, നിങ്ങൾ പങ്കിടണം. ആദ്യ തവണത്തെ വാക്സിനേഷന് ശേഷം, ലഭിച്ച വാക്സിൻ സർട്ടിഫിക്കറ്റ് നിങ്ങൾ കൊണ്ട്  വരണം."
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "രണ്ടാം തവണത്തെ വാക്സിനേഷൻ, മറ്റൊരു സംസ്ഥാനത്തോ/ജില്ലയിലോ, എനിക്ക്  എടുക്കാമോ?"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "അതെ, നിങ്ങൾക്ക് ഏത് സംസ്ഥാനത്തും / ജില്ലയിലും വാക്സിനേഷൻ എടുക്കാം.  ആദ്യ തവണ നിങ്ങൾക്ക് നൽകിയ അതേ വാക്സിന്‍ നല്‍കുന്ന കേന്ദ്രങ്ങളിൽ മാത്രമേ നിങ്ങൾക്ക് വാക്സിനേഷൻ എടുക്കാൻ കഴിയും എന്നത് മാത്രമാണ് ഏക നിയന്ത്രണം."
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "വാക്സിനേഷന് പോകുമ്പോള്‍, ഏതൊക്കെ രേഖകളാണ് ഞാൻ കൊണ്ടുപോകേണ്ടത്?"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "കോ-വിൻ പോർട്ടലിൽ രജിസ്ട്രേഷൻ നടത്തിയ സമയത്ത് നിങ്ങൾ വ്യക്തമാക്കിയ തിരിച്ചറിയല്‍ രേഖ നിങ്ങൾ വഹിക്കണം, ഒപ്പം, നിങ്ങള്‍ക്ക് സമയവും സ്ഥലവും നിശ്ചയിച്ച് കിട്ടിയ രേഖയുടെ പകർപ്പ് / സ്ക്രീനിലുള്ള ചിത്രം."
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "കോ-വിൻ പോർട്ടലിൽ ഞാൻ സ്വയം രജിസ്റ്റർ ചെയ്തു.  എന്നിരുന്നാലും, എന്റെ സ്ഥലത്തിന് സമീപം ഒരു വാക്സിനേഷൻ സൗകര്യവും കാണാത്തതിനാൽ, മുന്‍കൂട്ടി വാക്സിനേഷന്‍ സമയവും സ്ഥലവും തീരുമാനിക്കാന്‍ എനിക്ക് കഴിഞ്ഞില്ല. ഞാന്‍ എന്ത് ചെയ്യണം?"
+  },
+  {
+    "word": "What should I do?  Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "അതെ, നിങ്ങളുടെ സ്ഥലത്തിന് സമീപമുള്ള ഇടത്ത്, അവരുടെ വാക്സിനേഷൻ പരിപാടി ഇതുവരെ തീരുമാനിച്ചിരിക്കാന്‍ സാധ്യതയില്ല. നിങ്ങളുടെ സ്ഥലത്തിന് സമീപമുള്ള ഇടങ്ങളിലെ വാക്സിനേഷൻ സൗകര്യങ്ങൾ, കോ-വിൻ പോര്‍ട്ടലില്‍ പ്രസിദ്ധീകരിച്ച് അവ സജീവമാവുകയും അവരുടെ സേവനങ്ങൾ ആരംഭിക്കുകയും ചെയ്യുന്നത് വരെ, നിങ്ങൾക്ക് കുറച്ച് സമയം കൂടി കാത്തിരിക്കാം."
+  },
+  {
+    "word": "C. 2nd dose scheduling",
+    "replacedWord": "സി. രണ്ടാം തവണയുടെ ആസൂത്രണം"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "വാക്സിനേഷന്റെ രണ്ടാമത് തവണ എടുക്കേണ്ടത് ആവശ്യമാണോ?"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "അതെ. വാക്സിനേഷന്റെ മുഴുവൻ ഫലവും ലഭിക്കുന്നതിന്,  രണ്ട് തവണകളും എടുക്കണമെന്ന് ശുപാർശ ചെയ്യുന്നു. രണ്ട് തവണകളും ഒരേ തരത്തിലുള്ള വാക്സിൻ ആയിരിക്കണം."
+  },
+  {
+    "word": "It is recommended that the 2nd dose of COVAXIN should be administered in the interval of 4 to 6 weeks from the date of 1st dose administration. For COVISHIELD the recommended interval is 4 to 8 weeks while an interval of 6 to 8 weeks gives an enhanced protection. You may choose the date of 2nd dose vaccination as per your convenience.",
+    "replacedWord": "കോവാക്സിന്റെ രണ്ടാമത്തെ തവണ, ആദ്യ തവണ എടുത്ത് 4മുതൽ 6ആഴ്ച വരെയുള്ള  ഇടവേളയിൽ നൽകണമെന്ന് ശുപാർശ ചെയ്യുന്നു. കോവിഷീല്‍ഡിനായി ശുപാർശ ചെയ്യുന്ന ഇടവേള 4മുതൽ 8ആഴ്ച വരെയാണ്, എങ്കിലും, 6മുതൽ 8ആഴ്ചവരെയുള്ള  ഇടവേള ഒരു മെച്ചപ്പെട്ട പരിരക്ഷ നൽകുന്നു. നിങ്ങളുടെ സൗകര്യത്തിന് അനുസരിച്ച്.  നിങ്ങൾക്ക് വാക്സിനേഷന്റെ രണ്ടാമത് തവണയുടെ തീയതി തിരഞ്ഞെടുക്കാം."
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "എന്റെ രണ്ടാമത്തെ തവണയുടെ തീയതിയും സമയവും, കോ-വിൻ പോര്‍ട്ടല്‍, സ്വപ്രേരിതമായി ചെയ്യുമോ?"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "ഇല്ല. രണ്ടാമത്തെ തവണയുടെ വാക്സിനേഷനായി നിങ്ങൾ മുന്‍കൂട്ടി സമയവും സ്ഥലവും തെരഞ്ഞെടുക്കണം. അതിനായി, നിങ്ങള്‍ എടുത്ത ആദ്യ തവണത്തെ വാക്സിൻ തരം (കോവാക്സിന്‍ അല്ലെങ്കിൽ കോവിഷീല്‍ഡ്), രണ്ടാമത് തവണയിലും നിങ്ങള്‍ക്ക് ലഭിക്കുന്ന തരത്തില്‍, കുത്തിവയ്പ്പ് കേന്ദ്രം തെരഞ്ഞെടുക്കാന്‍ കോ-വിൻ സംവിധാനം നിങ്ങളെ സഹായിക്കും."
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "ഓൺലൈനായി സ്ഥലവും സമയവും മുന്‍കൂട്ടി നിശ്ചയിക്കുന്ന സമയത്ത്,  അതുമായി ബന്ധപ്പെട്ട ചില പ്രശ്നങ്ങൾ ഉണ്ടായാല്‍, എനിക്ക് ആരെയാണ് ബന്ധപ്പെടാൻ കഴിയുക?"
+  },
+  {
+    "word": "You can call on the national helpline â€˜1075â€™ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "കോവിഡ് -19 വാക്സിനേഷനെക്കുറിച്ചുള്ള വിവരങ്ങൾക്കും മാർഗ്ഗനിർദ്ദേശത്തിനും, ഒപ്പം,   കോ-വിൻ സോഫ്റ്റ്‌വെയറുമായി ബന്ധപ്പെട്ട അന്വേഷണങ്ങൾക്കും, നിങ്ങൾക്ക് ദേശീയ ഹെൽപ്‌ലൈനായ '1075’ ല്‍ വിളിക്കാം."
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "സ്ഥലവും സമയവും മുന്‍കൂട്ടി ആസൂത്രണം ചെയ്യല്‍"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "കോ-വിൻ പോർട്ടലിൽ വാക്സിനേഷന് വേണ്ടി സ്ഥലവും സമയവും എനിക്ക് മുന്‍കൂട്ടി തീരുമാനിക്കാമോ?"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "അതെ, നിങ്ങള്‍ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പർ വഴി കോ-വിൻ പോർട്ടലില്‍ പ്രവേശിച്ച ശേഷം, കോ-വിൻ പോർട്ടലിലൂടെ, നിങ്ങൾക്ക്  വാക്സിനേഷന് വേണ്ടി സ്ഥലവും സമയവും മുന്‍കൂട്ടി തീരുമാനിക്കാം. രജിസ്ട്രേഷൻ പോർട്ടലിൽ നൽകിയിരിക്കുന്ന, പൗരന്റെ പ്രായത്തിനനുസരിച്ച് വാക്സിനേഷൻ അനുവദിച്ചിട്ടുള്ള  വാക്സിനേഷൻ കേന്ദ്രങ്ങൾ അവിടെ കാണിക്കും."
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "ഒരു പൗരന്‍ 45വയസോ അതിൽ കൂടുതലോ പ്രായമുള്ളയാളും, മറ്റൊരാൾ 18വയസോ അതിൽ കൂടുതലോ പ്രായമുള്ള ആളുമാണെങ്കില്‍,  എന്തൊക്കെയാണ് ലഭ്യമായ മാര്‍ഗങ്ങള്‍?"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per StateÃ¢â‚¬â„¢s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "ഒരു പൗരന്‍ 45വയസോ അതിൽ കൂടുതലോ പ്രായമുള്ളയാളും, മറ്റൊരാൾ 18വയസോ അതിൽ കൂടുതലോ പ്രായമുള്ള ആളുമാണ്, അവരിരുവരും സംയോജിതമായി  വാക്സിനേഷന് വേണ്ടി സ്ഥലവും സമയവും മുന്‍കൂട്ടി തീരുമാനിക്കാൻ ആഗ്രഹിക്കുന്നു, എങ്കില്‍, പണമടച്ചുള്ള സ്വകാര്യ വാക്സിനേഷൻ കേന്ദ്രങ്ങളോ അല്ലെങ്കിൽ സംസ്ഥാനത്തിന്റെ നയം അനുസരിച്ചുള്ള വാക്സിനേഷൻ കേന്ദ്രങ്ങളോ മാത്രമേ   ലഭ്യമാക്കൂ. എന്നിരുന്നാലും, 45വയസ്സോ അതിൽ കൂടുതലോ ഉള്ള ആളുകള്‍ക്ക് വാക്സിന്‍ നല്‍കുന്ന ചില ആശുപത്രികള്‍, അതില്‍ കുറഞ്ഞ പ്രായത്തിലുള്ള ആളുകൾക്ക് സ്ഥലവും സമയവും മുന്‍കൂട്ടി തീരുമാനിച്ച് നല്‍കാനിടയില്ല. അത്തരം സന്ദർഭങ്ങളിൽ നിങ്ങൾ ഓരോരുത്തര്‍ക്കായി സ്ഥലവും സമയവും മുന്‍കൂട്ടി തീരുമാനിക്കണം."
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "ഓരോ വാക്സിനേഷൻ കേന്ദ്രത്തിലും നൽകുന്ന വാക്സിൻ എനിക്ക് പരിശോധിക്കാന്‍ സാധിക്കുമോ?"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "അതെ, വാക്സിനേഷനായി ഒരു കൂടിക്കാഴ്ച തീരുമാനിക്കുമ്പോള്‍,  സ്വകാര്യ ആശുപത്രികളുടെ കാര്യത്തിൽ, വാക്സിനേഷൻ കേന്ദ്രത്തിന്റെ പേരുകളോടൊപ്പം, അവിടെ നല്കുന്ന വാക്സിന്റെ പേരും കാണിക്കും. സർക്കാർ ആശുപത്രികൾ, വാക്സിനുകളുടെ പേര് കാണിക്കണമെന്നില്ല."
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "സ്ഥലവും സമയവും മുന്‍കൂട്ടി തീരുമാനിക്കുന്നതിന്റെ കുറിപ്പ് എനിക്ക് ഡൌൺലോഡ് ചെയ്യാൻ കഴിയുമോ?"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "അതെ, സ്ഥലവും സമയവും മുന്‍കൂട്ടി തീരുമാനിച്ചതിന് ശേഷം, അതിന്റെ കുറിപ്പ് ഡൗൺലോഡ് ചെയ്യാൻ കഴിയും."
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "ഏറ്റവും അടുത്തുള്ള വാക്സിനേഷൻ കേന്ദ്രം എനിക്ക് എങ്ങനെ കണ്ടെത്താനാകും?"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "ഒന്നുകിൽ പിൻ കോഡ് വഴിയോ, അല്ലെങ്കിൽ സംസ്ഥാനവും ജില്ലയും തിരഞ്ഞെടുത്തോ, കോ-വിൻ പോർട്ടല്‍ (അല്ലെങ്കിൽ ആരോജ്യ സേതു ആപ്പ്) എന്നിവയില്‍,  നിങ്ങളുടെ സ്ഥലത്തിന് ഏറ്റവും അടുത്തുള്ള വാക്സിനേഷൻ കേന്ദ്രത്തിനായി നിങ്ങൾക്ക് തിരയാൻ കഴിയും."
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "മുന്‍കൂട്ടി തീരുമാനിച്ച എന്റെ സ്ഥലവും സമയവും, എനിക്ക് പുനര്‍നിര്‍ണയിക്കാന്‍ കഴിയുമോ?"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on â€œRescheduleâ€ tab.",
+    "replacedWord": "മുന്‍കൂട്ടി തീരുമാനിച്ച സ്ഥലവും സമയവും, ഏത് സമയത്തും പുനര്‍നിര്‍ണയിക്കാന്‍ കഴിയും. തീരുമാനിച്ച തീയതിയില്‍ നിങ്ങൾക്ക് വാക്സിനേഷനായി പോകാൻ കഴിയുന്നില്ലെങ്കിൽ, 'റീഷെഡ്യൂള്‍', എന്ന ടാബിൽ ക്ലിക്ക് ചെയ്ത് നിങ്ങൾക്ക് സ്ഥലവും സമയവും, പുനര്‍നിര്‍ണയിക്കാന്‍ കഴിയും."
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "മുന്‍കൂട്ടി തീരുമാനിച്ച സ്ഥലവും സമയവും, റദ്ദാക്കുന്നതിന് കഴിയുമോ?"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "അതെ, മുന്‍കൂട്ടി തീരുമാനിച്ച സ്ഥലവും സമയവും, നിങ്ങൾക്ക് റദ്ദാക്കാനാകും. നിങ്ങളുടെ സൗകര്യത്തിന്, മറ്റൊരു തീയതി അല്ലെങ്കിൽ സമയം തിരഞ്ഞെടുത്ത്, സ്ഥലവും സമയവും, പുനര്‍നിര്‍ണയിക്കാനും നിങ്ങള്‍ക്ക് കഴിയും."
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "പ്രതിരോധ കുത്തിവെയ്പിന്റെ തീയതിയുടെയും സമയത്തിന്റെയും  സ്ഥിരീകരണം എനിക്ക് എവിടെ നിന്ന് ലഭിക്കും?"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "സ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിച്ച് കഴിഞ്ഞാൽ, പ്രതിരോധ കുത്തിവയ്പ്പ് കേന്ദ്രത്തിന്റെ വിശദാംശങ്ങൾ, തിരഞ്ഞെടുത്ത തീയതിയും സമയവുമടക്കം, ഒരു എസ് എം എസിലൂടെ, രജിസ്റ്റർ ചെയ്ത നിങ്ങളുടെ മൊബൈൽ നമ്പറിലേക്ക് അയച്ചു നല്‍കും.    ഈ വിവരങ്ങളടങ്ങിയ കുറിപ്പ്, നിങ്ങൾക്ക് ഡൗൺലോഡ് ചെയ്ത്, അച്ചടിച്ചെടുക്കാനും അല്ലെങ്കിൽ നിങ്ങളുടെ സ്മാർട്ട് ഫോണിൽ സൂക്ഷിക്കാനും കഴിയും."
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "സ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിക്കാതെ എനിക്ക് വാക്സിനേഷൻ ലഭിക്കുമോ?"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination. However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "45 വയസും അതിൽ കൂടുതലുമുള്ള പൗരന്മാർക്ക് ഓൺലൈനിൽ സ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിക്കാം അല്ലെങ്കിൽ വാക്സിനേഷൻ കേന്ദ്രങ്ങളിലേക്ക് നേരെ ചെന്നും തീരുമാനിക്കാം. എന്നാല്‍, 18-44 വയസ് പ്രായമുള്ള പൗരന്മാർ നിർബന്ധമായും സ്വയം രജിസ്റ്റർ ചെയ്യുകയും വാക്സിനേഷന് മുമ്പായി ഓൺലൈനിൽസ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിക്കുകയും വേണം. എന്നിരുന്നാലും, തടസ്സരഹിതമായ വാക്സിനേഷൻ അനുഭവത്തിന്, എല്ലാ പൗരന്മാരും ഓൺലൈനിൽ രജിസ്റ്റർ ചെയ്യാനും,  വാക്സിനേഷനുള്ള സ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിക്കാനും  ശുപാർശ ചെയ്യുന്നു."
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination",
+    "replacedWord": "18-44 വയസ് പ്രായമുള്ള പൗരന്മാർ നിർബന്ധമായും സ്വയം രജിസ്റ്റർ ചെയ്യുകയും വാക്സിനേഷന് മുമ്പായി ഓൺലൈനിൽ സ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിക്കുകയും വേണം"
+  },
+  {
+    "word": "However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "എന്നിരുന്നാലും, തടസ്സരഹിതമായ വാക്സിനേഷൻ അനുഭവത്തിന്, എല്ലാ പൗരന്മാരും ഓൺലൈനിൽ രജിസ്റ്റർ ചെയ്യാനും,  വാക്സിനേഷനുള്ള സ്ഥലവും സമയവും, മുന്‍കൂട്ടി തീരുമാനിക്കാനും  ശുപാർശ ചെയ്യുന്നു."
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "ആരോഗ്യ കുടുംബക്ഷേമ മന്ത്രാലയം"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "സ്വയം രജിസ്റ്റർ ചെയ്യുക / പ്രവേശിക്കുക"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "നിങ്ങളുടെ അടുത്തുള്ള വാക്സിനേഷൻ കേന്ദ്രവും ലഭ്യതയും പരിശോധിക്കുക"
+  },
+  {
+    "word": "Search",
+    "replacedWord": "തിരയുക"
+  },
+  {
+    "word": "View full report",
+    "replacedWord": "പൂർണ്ണ അവലോകനം കാണുക"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "ഇതെങ്ങിനെ പ്രവര്‍ത്തിക്കുന്നു"
+  },
+  {
+    "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
+    "replacedWord": "വാക്സിന്‍ എടുക്കാനുള്ള സ്ഥലം തെരഞ്ഞെടുക്കുക  അടുത്തുള്ള വാക്സിനഷന്‍ കേന്ദ്രം തെരഞ്ഞെടുക്കുക"
+  },
+  {
+    "word": "Confirm your SlotBook your slot to Get Vaccine",
+    "replacedWord": "നിങ്ങളുടെ സ്ലോട്ട് സ്ഥിതീകരിക്കുക വാക്സിന്‍ ലഭിക്കുന്നതിനായി നിങ്ങളുടെ സ്ലോട്ട് ബുക്ക് ചെയ്യുക"
+  },
+  {
+    "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "എന്തെങ്കുിലും ചോദ്യമുണ്ടോ? ഞങ്ങളുടെ പതിവ് ചോദ്യങ്ങള്‍ പിന്തുടരുക."
+  },
+  {
+    "word": "Know how to book your appointment Dos and Don'ts",
+    "replacedWord": "അപ്പോയിമെന്റ് എങ്ങിനെ ബുക്ക് ചെയ്യും എന്നറിയുക ചെയ്യാവുന്നവയും ചെയ്യരുതാത്തവയും"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "അപ്പോയിമെന്റ് എങ്ങിനെ ബുക്ക് ചെയ്യും എന്നറിയുക"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "ചെയ്യാവുന്നവയും ചെയ്യരുതാത്തവയും"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "ഞങ്ങളുടെ പങ്കാളികള്‍"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online  Send Transcriptions  End Chat",
+    "replacedWord": "കോവിന്‍ പിന്തുണ കേന്ദ്രം - ഞങ്ങള്‍ ഓണ്‍ലൈനാണ് ട്രാൻസ്ക്രിപ്ഷനുകൾ അയയ്ക്കുക ചാറ്റ് നിര്‍‍ത്തുക"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online",
+    "replacedWord": "കോവിന്‍ പിന്തുണ കേന്ദ്രം - ഞങ്ങള്‍ ഓണ്‍ലൈനാണ്"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "ട്രാൻസ്ക്രിപ്ഷനുകൾ അയയ്ക്കുക ചാറ്റ് നിര്‍‍ത്തുക"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "ട്രാൻസ്ക്രിപ്ഷനുകൾ അയയ്ക്കുക ചാറ്റ് നിര്‍‍ത്തുക"
+  },
+  {
+    "word": "Start Chat",
+    "replacedWord": "ചാറ്റ് ആരംഭിക്കുക"
+  },
+  {
+    "word": "Monday, 1:27 PMWelcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "തിങ്കള്‍, 1:27 PM, 'കോവിന്‍ സഹായ കേന്ദ്രത്തിലേക്ക് സ്വാഗതം, നിങ്ങള്‍ക്ക് സഹായമാവശ്യമെങ്കില്‍ ഈ സന്ദേശത്തിന് മറുപടി അയക്കുക, നിങ്ങളെ സഹായിക്കാന്‍ ഞങ്ങള്‍ ഓണ്‍ലൈനില്‍ തയ്യാറാണ്"
+  },
+  {
+    "word": "Monday, 1:27 PM",
+    "replacedWord": "തിങ്കള്‍, 1:27 PM"
+  },
+  {
+    "word": "Welcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "കോവിന്‍ സഹായ കേന്ദ്രത്തിലേക്ക് സ്വാഗതം, നിങ്ങള്‍ക്ക് സഹായമാവശ്യമെങ്കില്‍ ഈ സന്ദേശത്തിന് മറുപടി അയക്കുക, നിങ്ങളെ സഹായിക്കാന്‍ ഞങ്ങള്‍ ഓണ്‍ലൈനില്‍ തയ്യാറാണ്"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "ഈ ചാറ്റ് സെഷന്‍ അവസാനിച്ചിരിക്കുന്നു"
+  },
+  {
+    "word": "Tot",
+    "replacedWord": "ആകെ"
+  },
+  {
+    "word": "Tot Vaccination Doses",
+    "replacedWord": "ആകെ വാക്സിനേഷന്‍ ഡോസുകള്‍"
+  },
+  {
+    "word": "Dose-1 Vaccinations",
+    "replacedWord": "ഒന്നാം ഡോസ് വാക്സിനേഷനുകള്‍"
+  },
+  {
+    "word": "Dose-2 Vaccinations",
+    "replacedWord": "രണ്ടാം ഡോസ് വാക്സിനേഷനുകള്‍"
+  },
+  {
+    "word": "Tot Vaccinated - Male",
+    "replacedWord": "ആകെ വാക്സിന്‍ നല്‍കിയവര്‍ - പുരുഷന്‍"
+  },
+  {
+    "word": "Tot Vaccinated - Female",
+    "replacedWord": "ആകെ വാക്സിന്‍ നല്‍കിയവര്‍ - സ്ത്രീ"
+  },
+  {
+    "word": "Male",
+    "replacedWord": "പുരുഷന്‍"
+  },
+  {
+    "word": "Female",
+    "replacedWord": "സ്ത്രീ"
+  },
+  {
+    "word": "Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
+    "replacedWord": "മൊബൈല്‍ നമ്പര്‍, ആധാര്‍ നമ്പര്‍ അതല്ലെങ്കില്‍ മറ്റേതെങ്കിലും തിരിച്ചറിയല്‍ രേഖകള്‍ ഉപയോഗിച്ച് രജിസ്റ്റര്‍ ചെയ്യുക"
+  },
+  {
+    "word": "Select your nearby Vaccine Center for vaccination",
+    "replacedWord": "വാക്സിനേഷനായി നിങ്ങളുടെ അടുത്തുള്ള വാക്സിനേഷന്‍ കേന്ദ്രം തെരഞ്ഞെടുക്കുക"
+  },
+  {
+    "word": "Book your slot to Get Vaccine",
+    "replacedWord": "വാക്സിന്‍ ലഭിക്കുന്നതിനായി നിങ്ങളുടെ സ്ലോട്ട് ബുക്ക് ചെയ്യുക"
+  },
+  {
+    "word": "Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "ഞങ്ങളുടെ പതിവ് ചോദ്യങ്ങള്‍ പിന്തുടര്‍ന്നാലും"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "ഇതെങ്ങിനെ പ്രവര്‍ത്തിക്കുന്നു"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "ഞങ്ങളുടെ പങ്കാളികള്‍"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "നിങ്ങളുടെ അടുത്തുള്ള വാക്സിനേഷന്‍ കേന്ദ്രവും ലഭ്യമായ സ്ലോട്ടും പരിശോധിക്കുക"
+  },
+  {
+    "word": "Register Yourself",
+    "replacedWord": "നിങ്ങള്‍ രജിസ്റ്റര്‍ ചെയ്യുക"
+  },
+  {
+    "word": "Choose Vaccine Location",
+    "replacedWord": "വാക്സിന്‍ എടുക്കാനുള്ള സ്ഥലം തെരഞ്ഞെടുക്കുക"
+  },
+  {
+    "word": "Confirm your Slot",
+    "replacedWord": "നിങ്ങളുടെ സ്ലോട്ട് സ്ഥിതീകരിക്കുക"
+  },
+  {
+    "word": "Any Question?",
+    "replacedWord": "ഏത് ചോദ്യവും?"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "ഈ ചാറ്റ് സെഷന്‍ അവസാനിച്ചിരിക്കുന്നു"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "ആരോഗ്യ കുടുംബക്ഷേമ മന്ത്രാലയം"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "ഡാഷ്‍ബോര്‍ഡ്"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "ഓപ്പണ്‍ എ.പി.ഐകള്‍"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "ഡിപ്പാര്‍ട്ട്മെന്റ് (വകുപ്പ്) ലോഗിന്‍"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "വാക്സിനേറ്റർ"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "സര്‍ട്ടിഫിക്കറ്റ് സ്ഥിതീകരിക്കുക"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "രജിസ്റ്റര്‍ ചെയ്യുക/സൈന്‍ഇന്‍ ചെയ്യുക"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "രജിസ്റ്റര്‍ ചെയ്യുക/സൈന്‍ഇന്‍ ചെയ്യുക"
+  },
+  {
+    "word": "View full report Ã‚Â»",
+    "replacedWord": "മുഴുവന്‍ റിപ്പോര്‍ട്ട് കാണുക"
+  },
+  {
+    "word": "Frequently asked questions (FAQ)",
+    "replacedWord": "പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "അപ്പോയിമെന്റ് എങ്ങിനെ ബുക്ക് ചെയ്യും എന്നറിയുക"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "ചെയ്യാവുന്നവയും ചെയ്യരുതാത്തവയും"
+  },
+  {
+    "word": "Send Transcriptions",
+    "replacedWord": "ട്രാൻസ്ക്രിപ്ഷനുകൾ അയയ്ക്കുക"
+  },
+  {
+    "word": "End Chat",
+    "replacedWord": "ചാറ്റ് അസാനിപ്പിക്കുക"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "ഡാഷ്‍ബോര്‍ഡ്"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "ഓപ്പണ്‍ എ.പി.ഐകള്‍"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "ഡിപ്പാര്‍ട്ട്മെന്റ് (വകുപ്പ്) ലോഗിന്‍"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "വാക്സിനേറ്റർ"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "സര്‍ട്ടിഫിക്കറ്റ് സ്ഥിതീകരിക്കുക"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "രജിസ്റ്റര്‍ ചെയ്യുക/സൈന്‍ഇന്‍ ചെയ്യുക"
+  },
+  {
+    "word": "FAQ Dashboard Open APIs  Department Login  Vaccinator  Verify Certificate",
+    "replacedWord": "പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ ഡാഷ്‍ബോര്‍ഡ് ഓപ്പണ്‍ എ.പി.ഐകള്‍ ഡിപ്പാര്‍ട്ട്മെന്റ് (വകുപ്പ്) ലോഗിന്‍ വാക്സിനേറ്റർ സര്‍ട്ടിഫിക്കറ്റ് സ്ഥിതീകരിക്കുക"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "രജിസ്റ്റര്‍ ചെയ്യുക/സൈന്‍ഇന്‍ ചെയ്യുക"
+  },
+  {
+    "word": "Please follow our",
+    "replacedWord": "ദയവായി പിന്തുടരുക"
+  },
+  {
+    "word": "Frequently asked questions",
+    "replacedWord": "പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ"
+  },
+  {
+    "word": "Enter your PIN",
+    "replacedWord": "നിങ്ങളുടെ പിന്‍ (രഹസ്യ കോഡ്) നല്‍കുക"
+  },
+  {
+    "word": "You can contact on any of the following details",
+    "replacedWord": "താഴെപ്പറയുന്ന ഏതെങ്കിലും വിധേന നിങ്ങള്‍ക്ക് ബന്ധപ്പെടാം"
+  },
+  {
+    "word": "Helpline Number",
+    "replacedWord": "സഹായത്തിനായുള്ള ഫോണ്‍ നമ്പര്‍"
+  },
+  {
+    "word": "Technical Helpline Number",
+    "replacedWord": "സാങ്കേതിക സഹായത്തിനായുള്ള ഫോണ്‍ നമ്പര്‍"
+  },
+  {
+    "word": "Helpline Email Id",
+    "replacedWord": "സഹായത്തിനായുള്ള ഇമെയില്‍ വിലാസം"
+  },
+  {
+    "word": "You may also contact the Vaccination Centre where you took vaccination, for advice.",
+    "replacedWord": "ഉപദേശങ്ങള്‍ക്കായി നിങ്ങൾക്ക് വാക്സിനേഷൻ എടുത്ത വാക്സിനേഷൻ സെന്ററുമായി ബന്ധപ്പെടാവുന്നതാണ്"
+  },
+  {
+    "word": "Toll free",
+    "replacedWord": "ടോള്‍ ഫ്രീ"
+  }
+]
