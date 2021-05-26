@@ -11,11 +11,13 @@
       "matches": ["https://www.cowin.gov.in/*"],
       "css": ["style.css"],
       "js": ["content_script.js"],
+      "all_frames":true,
       "run_at": "document_end"
     }
   ],
   "browser_action": {
     "default_icon": "icon/icon.jpg",
+    "default_popup": "popup/extension.html",
     "theme_icons": [{
         "light": "icon/icon-32x32.jpg",
         "dark": "icon/icon-32x32.jpg",
@@ -28,5 +30,8 @@
   }],
     "default_title": "CoWin Translator"
   },
-  "web_accessible_resources":[""]
+  "permissions": [
+        "activeTab"
+  ],
+  "web_accessible_resources":["data/json/*.json"]
 }
