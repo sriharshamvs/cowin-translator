@@ -44,7 +44,9 @@ function replaceText(node, translations) {
    
     node.nodeValue = value
   })
-}
+/*window.onload = (event) => {
+  loadLocalization("te");
+};*/
 
 
 browser.runtime.onMessage.addListener( function(request, sender, sendResponse) {
