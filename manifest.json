@@ -11,6 +11,7 @@
       "matches": ["https://www.cowin.gov.in/*"],
       "css": ["style.css"],
       "js": ["content_script.js"],
+      "all_frames":true,
       "run_at": "document_end"
     }
   ],
@@ -29,5 +30,8 @@
   }],
     "default_title": "CoWin Translator"
   },
-  "web_accessible_resources":[""]
+  "permissions": [
+        "activeTab"
+  ],
+  "web_accessible_resources":["data/json/*.json"]
 }
