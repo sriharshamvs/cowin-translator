@@ -12,7 +12,6 @@ function loadLocalization(lang){
     const elementsInsideBody = [...document.body.getElementsByTagName("*")]
 
     findAndReplace(elementsInsideBody, translations);
-    existingLocale = lang;
     // console.log("Fetch Successful:: " + JSON.stringify(translations2));
   })
 }
@@ -44,6 +43,7 @@ function replaceText(node, translations) {
    
     node.nodeValue = value
   })
+}
 /*window.onload = (event) => {
   loadLocalization("te");
 };*/
@@ -59,3 +59,4 @@ browser.runtime.onMessage.addListener( function(request, sender, sendResponse) {
     loadLocalization(data.lang);
     sendResponse({data: {message : "success"}, success: true});
 });
+
