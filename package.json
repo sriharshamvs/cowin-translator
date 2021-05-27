@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "check": "web-ext lint"
+    "check": "web-ext lint -s /"
   }
 }
