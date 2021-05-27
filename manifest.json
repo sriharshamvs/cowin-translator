@@ -33,5 +33,5 @@
   "permissions": [
         "activeTab"
   ],
-  "web_accessible_resources":["data/json/*.json"]
+  "web_accessible_resources":["data/json/*.json"],
 }
