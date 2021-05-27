@@ -1,3 +1,5 @@
-"scripts": {
-  "check": "web-ext lint",
+{
+  "scripts": {
+    "check": "web-ext lint"
+  }
 }
