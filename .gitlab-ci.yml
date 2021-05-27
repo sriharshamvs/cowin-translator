@@ -1,12 +1,12 @@
 image: node:8.0.0
 
+before_script:
+    - npm install --global web-ext
+
 stages:
     - testing
 
 testing:
     stage: testing
-    only:
-        - master
     script:
-        - npm install web-ext
         - web-ext lint
