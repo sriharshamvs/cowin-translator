@@ -9,4 +9,4 @@ stages:
 testing:
     stage: testing
     script:
-        - web-ext lint
+        - npm run check
