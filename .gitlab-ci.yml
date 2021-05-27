@@ -1,7 +1,7 @@
 image: node:8.0.0
 
 before_script:
-    - npm install -g web-ext
+    - npm install --save-dev web-ext
 
 stages:
     - testing
@@ -9,4 +9,4 @@ stages:
 testing:
     stage: testing
     script:
-        - web-ext lint
+        - npm run check
