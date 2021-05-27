@@ -1,0 +1,12 @@
+image: node:8.0.0
+
+stages:
+    - testing
+
+testing:
+    stage: testing
+    only:
+        - master
+    script:
+        - npm install web-ext
+        - web-ext lint
