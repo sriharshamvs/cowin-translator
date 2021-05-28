@@ -53,6 +53,19 @@ sivaharivkm@gmail.com
 
 ## Urdu
 
+Final year students of Diploma in Information Technology , Maulana Azad National Urdu University POLYTECHNIC HYDERABAD. 
+
+1. SAIF ALI
+2. FAHEEM AHMAD
+3. MD. NAJEEB ANSARI.
+
+Have helped in converting Cowin website in Urdu with the  support from the faculty mentors.
+
+1. Ch.Mutyala Rao
+   HoD-IT
+2. Syed Arfath Ahmed
+ HOD-CSE.
+
 ## Santhali
 
 ## Konkani
