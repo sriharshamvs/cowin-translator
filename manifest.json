@@ -2,7 +2,7 @@
   "name": "Cowin Translator",
   "short_name": "Cowin Translation",
   "manifest_version": 2,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Replace Text in cowin page",
   "author": "FSMI",
   "content_scripts":
