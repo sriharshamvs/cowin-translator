@@ -1,1 +1,2 @@
+# Ignore all *.md files while a release
 *.md export-ignore
