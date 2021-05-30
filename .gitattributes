@@ -1,8 +1,5 @@
 # Ignore all *.md files while a release
 *.md export-ignore
 
-# Ignore .gitlab.yml
-.gitlab-ci.yml export-ignore
-
 # Ignore .gitattributes
 .gitattributes export-ignore
