@@ -94,6 +94,10 @@ Syed Arfath Ahmed - HOD-CSE.
 
 ## Marathi
 
+## Punjabi
+
+Kamaljit Kaur
+
 ## Santhali
 
 ## Konkani
