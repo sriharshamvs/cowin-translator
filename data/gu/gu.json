@@ -1,0 +1,862 @@
+[
+  {
+    "word": "Registration",
+    "replacedWord": "નોંધણી"
+  },
+  {
+    "word": "Lakh",
+    "replacedWord": "લાખ"
+  },
+  {
+    "word": "Doses",
+    "replacedWord": "ડોઝ"
+  },
+  {
+    "word": "Dose",
+    "replacedWord": "ડોઝ"
+  },
+  {
+    "word": "Vaccinated",
+    "replacedWord": "રસી મુકાઇ"
+  },
+  {
+    "word": "AEFI Reported",
+    "replacedWord": "AEFI નો અહેવાલ મળવો"
+  },
+  {
+    "word": "Where can I register for COVID-19 vaccination?",
+    "replacedWord": "COVID - 19 ના રસીકરણ માટે ક્યાં નોંધણી કરવી"
+  },
+  {
+    "word": "You can log into the Co-WIN portal using the link",
+    "replacedWord": "તમે લિંકનો ઉપયોગ કરીને Co-WIN પોર્ટલમાં લોગ ઇન કરી શકો છો"
+  },
+  {
+    "word": "and click on the â€œRegister/Sign In yourselfâ€ tab to register for COVID-19 vaccination.",
+    "replacedWord": "અને COVID-19 રસીકરણ માટે નોંધણી કરવા માટે â € e રજિસ્ટર / સાઇનઇન જાતે ટેબ પર ક્લિક કરો"
+  },
+  {
+    "word": "Is there a mobile app that needs to be installed to register for vaccination?",
+    "replacedWord": "શું રસીકરણ માટે નોંધણી કરવા માટે કોઈ મોબાઇલ એપ્લિકેશન ઇન્સ્ટોલ કરવાની જરૂર છે"
+  },
+  {
+    "word": "Is online registration mandatory for Covid 19 vaccination?",
+    "replacedWord": "શું કોવિડ 19 રસીકરણ માટે  ઓનલાઇન નોંધણી ફરજિયાત છે"
+  },
+  {
+    "word": "Vaccination Centres provide for a limited number of on-spot registration slots every day. Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. However, Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before going to vaccination centre.",
+    "replacedWord": "રસીકરણ કેન્દ્રો દરરોજ મર્યાદિત સંખ્યામાં સ્થળ પર જ નોંધણી માટેના સ્લોટ આપે છે"
+  },
+  {
+    "word": "In general, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "સામાન્ય રીતે બધા નાગરિકોને મુશ્કેલી વિના રસીકરણના અનુભવ માટે ઓનલાઇન નોંધણી કરવાની અને રસીકરણને સમયસર સુનિશ્ચિત કરવાની ભલામણ કરવામાં આવે છે"
+  },
+  {
+    "word": "There is no authorised mobile app for registering for vaccination in India except Aarogya Setu. You need to log into the Co-WIN portal. Alternatively, you can also register for vaccination through the Aarogya Setu App.",
+    "replacedWord": "ભારતમાં રસીકરણની નોંધણી માટે આરોગ્ય સેતુ સિવાય કોઇ અધિકૃત મોબાઇલ એપ્લિકેશન નથી.તમારે CO -WIN પોર્ટલ પર લોગ ઇન કરવાની જરુર છે. આ સિવાય તમે આરોગ્ય સેતુ પર પણ રેજિસ્ટર કરાવી શકો છો ,વૈકલ્પિક રીતે તમે આરોગ્ય સેતુ એપ્લિકેશન દ્વારા પણ રસીકરણ માટે નોંધણીી કરાવી શકો છો."
+  },
+  {
+    "word": "Which age groups can register for vaccination on the Co-WIN portal?",
+    "replacedWord": "કયા વય જુથો Co-WIN પોર્ટલ પર રસીકરણ માટે નોંધણી કરાવી શકે છે?"
+  },
+  {
+    "word": "All citizens aged 18 years and above can register for vaccination",
+    "replacedWord": "18 વર્ષ કે તેથી વધુ ઉંમરના બધા નાગરિકો રસીકરણ માટે નોંધણી કરાવી શકે છે"
+  },
+  {
+    "word": "How many people can be registered in the Co-WIN portal through one mobile number?",
+    "replacedWord": "એક મોબાઇલ નંબર દ્વારા કેટલા લોકો કો-વિન પોર્ટલમાં નોંધણી કરાવી શકે છે"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number.",
+    "replacedWord": "એક જ મોબાઇલ નંબરના ઉપયોગથી રસીકરણ માટે 4 જેટલા લોકો નોંધણી કરાવી શકે છે"
+  },
+  {
+    "word": "How can citizens with no access to smart phones or computers manage online registration?",
+    "replacedWord": "સ્માર્ટ ફોન અથવા કોમ્પ્યુટર વાપરતા ન હોય તેવી વ્યક્તિઓ ઓનલાઇન  નોંધણીનું સંચાલન કઇ રીતે કરી શકશે?"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number",
+    "replacedWord": "એક જ મોબાઇલ નંબરના ઉપયોગથી રસીકરણ માટે 4 જેટલા લોકો નોંધણી કરાવી શકે છે"
+  },
+  {
+    "word": "Citizens can take help from friends or family for online registration",
+    "replacedWord": "નાગરિકો ઓનલાઇન નોંધણી માટે મિત્રો અથવા પરિવારની સહાય લઇ શકે છે."
+  },
+  {
+    "word": "Can I register for vaccination without Aadhaar card?",
+    "replacedWord": "શું હું આધારકાર્ડ વિના રસીકરણ માટે નોંધણી કરાવી શકું છું"
+  },
+  {
+    "word": "Yes, you can register on Co-WIN portal using any of the following ID proofs",
+    "replacedWord": "હા,તમે નીચેમાંથી કોઇપણ ઓળખપત્ર દ્વારા નોંધણી કરાવી શકો છો"
+  },
+  {
+    "word": "Aadhaar card",
+    "replacedWord": "આધાર કાર્ડ"
+  },
+  {
+    "word": "Driving License",
+    "replacedWord": "ડ્રાઇવિંગ લાઇસન્સ"
+  },
+  {
+    "word": "PAN card",
+    "replacedWord": "પાન કાર્ડ"
+  },
+  {
+    "word": "Passport",
+    "replacedWord": "પાસપોર્ટ"
+  },
+  {
+    "word": "Pension Passbook",
+    "replacedWord": "પેન્શન પાસબુક"
+  },
+  {
+    "word": "NPR Smart Card",
+    "replacedWord": "NPR સ્માર્ટ કાર્ડ"
+  },
+  {
+    "word": "Voter ID",
+    "replacedWord": "મતદાતા ઓળખપત્ર"
+  },
+  {
+    "word": "Is there any registration charges to be paid?",
+    "replacedWord": "નોંધણી માટે કોઇ ચાર્જ ચુકવવો પડશે"
+  },
+  {
+    "word": "No. There is no registration charge",
+    "replacedWord": "ના નોંધણી માટેનો કોઇ ચાર્જ નથી"
+  },
+  {
+    "word": "Whom do I contact in case of side effects from vaccination",
+    "replacedWord": "રસીકરણથી થતી આડાસર માટે મારે કોનો સંપર્ક કરવાનો રહેશે?"
+  },
+  {
+    "word": "Why do I need a vaccination certificate?",
+    "replacedWord": "રસીકરણના પ્રમાણપત્રની જરુરિયાત શાના માટે છે?"
+  },
+  {
+    "word": "A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due",
+    "replacedWord": "સરકાર દ્વારા આપવામાં આવતા રસીકરણના પ્રમાણપત્ર(CVC)લાભકર્તાને રસીકરણ, આપવામાં આવેલ રસીના પ્રકાર વિશે ખાતરી આપે છે.પ્રોવિઝનલ સર્ટિફિકેટ આગામી રસીકરણ માટે પણ પુરુ પાડવામાં જરુરી બને છે."
+  },
+  {
+    "word": "It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel",
+    "replacedWord": "રસીકરણના પુરાવાની જરુર પડે તેવી કોઇપણ સંસ્થા અને ખાસ કરીને મુસાફરીના કિસ્સામાં નાગરિક માટે આ પ્રમાણપત્ર પુરાવાનું કાર્ય કરે છે"
+  },
+  {
+    "word": "Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "રસીકરણ ફક્ત રોગથી જ  સુરક્ષિત રાખવાનુ  કાર્ય નથી કરતુ, તે સાથે સાથે વાઇરસ ફેલાવાનું જોખમ પણ ઘટાડે છે. તેથી ભવિષ્યમાં અમુક પ્રકારની સામાજિક ક્રિયાપ્રતિક્રિયાઓ અને આંતરરાષ્ટ્રીય મુસાફરી માટે પ્રમાણપત્ર બનાવવાની આવશ્યકતા બની શકે છે"
+  },
+  {
+    "word": "Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "તેથી ભવિષ્યમાં અમુક પ્રકારની સામાજિક ક્રિયાપ્રતિક્રિયાઓ અને આંતરરાષ્ટ્રીય મુસાફરી માટે પ્રમાણપત્ર બનાવવાની આવશ્યકતા હોઈ શકે છે"
+  },
+  {
+    "word": "Who is responsible for providing the vaccination certificate?",
+    "replacedWord": "રસીકરણનું પ્રમાણપત્ર આપવા માટે કોણ જવાબદાર છે"
+  },
+  {
+    "word": "The Vaccination Centre is responsible for generating your certificate and for providing a printed copy post vaccination on the day of vaccination itself. Please do insist on receiving the certificate at the Centre. For Private Hospitals, the charges for providing a printed copy of the certificate are included in the service charge for vaccination.",
+    "replacedWord": "રસીકરણ કેન્દ્ર  રસીકરણના દિવસે જ  રસીકરણ બાદ પ્રમાણપત્ર બનાવવા અને તેની છાપેલી નકલ તમને તે જ દિવસે આપવા જવાબદાર છે.કૃપા કરીને કેન્દ્રમાં પ્રમાણપત્ર મેળવવાનો આગ્રહ રાખો.ખાનગી હોસ્પિટલો માટે પ્રમાણપત્રની છાપેલ નકલ પ્રદાન કરવાના શુલ્કનો સમાવેશ રસીકરણ માટેના સેવા ચાર્જમાં કરવામાં આવે છે."
+  },
+  {
+    "word": "Where can I download vaccination certificate from?",
+    "replacedWord": "હું રસીકરણનું પ્રમાણપત્ર ક્યાંથી ડાઉનલોડ કરી શકુ?"
+  },
+  {
+    "word": "Vaccination",
+    "replacedWord": "રસીકરણ"
+  },
+  {
+    "word": "Vaccine Certificate",
+    "replacedWord": "રસીકરણ પ્રમાણપત્ર"
+  },
+  {
+    "word": "Reporting Side effects",
+    "replacedWord": "આડઅસરની જાણ કરવી"
+  },
+  {
+    "word": "You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps.",
+    "replacedWord": "તમે  Co-WIN  પોર્ટલ(cowin.gov.in) અથવા આરોગ્ય સેતુ એપ્લિકેશન અથવા ડિજિ-લોકર દ્વારા સરળ પગલાંને અનુસરીને રસીકરણનું પ્રમાણપત્ર ડાઉનલોડ કરી શકો છો"
+  },
+  {
+    "word": "You may do so by using the mobile number used at the time of registration.",
+    "replacedWord": "તમે નોંધણી સમયે ઉપયોગમાં લેવાતા મોબાઇલ નંબરનો ઉપયોગ કરીને આવું કરી શકો છો"
+  },
+  {
+    "word": "In this context the certificate issued by Co-WIN has built in security features to guarantee genuineness of the certificate which can be digitally verified using approved utilities which are provided in Co-WIN portal.",
+    "replacedWord": "આ સંદર્ભમાં Co - WIN દ્વારા આપવામાં આવેલ પ્રમાણપત્રમાં પ્રમાણપત્રની અસલિયતની બાંહેધરી માટે સુરક્ષા સુવિધાઓનું નિર્માણ કર્યુ છે ,કર્યુ છે જે , Co -WIN પોર્ટલમાં પુરા પાડવામાં આવતા યુટિલિટીનો ઉપયોગ કરીને ડિજીટલ રુપે ચકાસી શકાય છે."
+  },
+  {
+    "word": "Is vaccination free at all vaccination centres?",
+    "replacedWord": "શું રસીકરણ બધા રસીકરણ કેન્દ્રો પર મફત છે"
+  },
+  {
+    "word": "No. Currently, vaccination is free at Government hospitals and charged at INR 250 in Private hospitals for citizens aged 45 years and above.",
+    "replacedWord": "ના. હાલમાં, સરકારી દવાખાનાઓમાં રસીકરણ મફત છે અને 45 વર્ષ કે તેથી વધુ વયના નાગરિકો માટે ખાનગી હોસ્પિટલોમાં 250 રુપિયા ચાર્જ લેવામાં આવે છે"
+  },
+  {
+    "word": "From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities",
+    "replacedWord": "1 મે થી 45 વર્ષની વયથી વધુ વય ધરાવતા લોકો માટે રસી સરકારી સુવિધાઓ સાથે નિઃશુલ્ક ચાલુ રહેશે."
+  },
+  {
+    "word": "For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "18 થી 44 વર્ષની વયના લોકો માટે રાજ્યો ચુકવણી સંબંધિત નીતિની જાહેરાત કરશે. રસીકરણની કિંમત ખાનગી સુવિધાઓ દ્વારા કરવામાં આવશે અને તમે બુકિંગ સમયે દરેક રસીના ભાવ જોઈ શકો છો"
+  },
+  {
+    "word": "Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "રસીકરણની કિંમત ખાનગી સુવિધાઓ દ્વારા કરવામાં આવશે અને તમે બુકિંગ સમયે દરેક રસીના ભાવ જોઈ શકો છો"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago.",
+    "replacedWord": "રસીકરણ કેન્દ્રોને સુચના આપવામાં આવી છે કે,જ્યારે કોઇ નાગરિકને રસીનો બીજો ડોઝ  આપવામાં આવે, તો ખાતરી કરવી જોઇએ કે પહેલી વખત જે રસી દ્વારા રસીકરણ કરવામાં આવ્યુ હોય,તે જ રસી બીજી વખતે આપવી જોઇએ  જે  28 દિવસ  પહેલા મુકવામાં આવી હતી."
+  },
+  {
+    "word": "You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator.",
+    "replacedWord": "તમારે તમને રસી આપનાર વ્યક્તિને પહેલી વખત આપવામાં આવેલ રસીના પ્રકાર અને તારીખ બાબતે માહિતગાર કરવા જોઇએ."
+  },
+  {
+    "word": "You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "પ્રથમ ડોઝ પછીનું તમારુ રસીનું પ્રમાણપત્ર તમારે સાથે રાખવુ જોઇએ."
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "શું હું રસીની કિંમત ચકાસી શકું"
+  },
+  {
+    "word": "Frequently Asked Questions on Co-WIN",
+    "replacedWord": "Co-WINના સંદર્ભે વારંવાર પુછવામાં આવતા પ્રશ્નો"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "હા, તમને આપેલા એપોઇન્ટમેન્ટના સમયે સિસ્ટમ રસીકરણ કેન્દ્રના નામની નીચે રસીના ભાવ બતાવશે"
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "શું હું રસી પસંદ કરી શકું"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "એપોઇન્ટમેન્ટના સમયને નિશ્ચિત કરતી વખતે દરેક રસીકરણ કેન્દ્રમાં કઇ રસી આપવામાં આવશે તે  જણાવવામાં આવે છેંઆગરિક તેમણે જે રસી મુકાવવી હોય,તે પ્રમાણે રસીકરણકેન્દ્રને પસંદ કરી શકે છે. જોકે, પસંદગી સરકારી કેન્દ્રો પર ઉપલબ્ધ રહેશે નહીં. જણાવવામાં આવે છે. નાગરિક તેમની જે રસી મુકાવવી હોઇ, તે પ્રમાણે રસીકરણ કેન્દ્રને પસંદ કરી શકે છે. જોકે પસંદગી સરકારી કેન્દ્રો પર ઉપલબ્ધ રહેશે નહીં"
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "રસીના બીજા ડોઝ સમયે મારે શું સાવચેતી રાખવી જોઇએ"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "રસીકરણ કેન્દ્રોને સુચના આપવામાં આવી છે કે જ્યારે કોઇ વ્યક્તિ રસીનો બીજો ડોઝ લેવા આવે,ત્યારે તેમણે ખાતરી કરવી જોઇએ કે પ્રથમ વખત આપવામાં આવી હોય, તે જ રસીનો બીજો ડોઝ આપવામાં આવે. અને પહેલા ડોઝને 28 દિવસ થયેલા હોવા જોઇએ. તમારે રસીના પ્રકાર અને પહેલી વખત મુકવામાં આવેલ રસીની તારીખની યોગ્ય માહિતી રસીકરણકર્તાને આપવી જોઇએ. પ્રથમ રસીકરણ બાદ તમને આપવામાં આવેલું રસીકરણનું પ્રમાણપત્ર સાથે રાખવુ જોઇએ."
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "શું હું રસીનો બીજો ડોઝ કોઇ અન્ય રાજ્ય કે જિલ્લામાં જઇને લઇ શકુ?"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "હા, તમે કોઇપણ રાજ્ય/જિલ્લામાં રસી લઇ શકો છો. તમારે એ જ ધ્યાન રાખવુ આવશ્યક છે કે પહેલી વખત જે રસીનો ડોઝ લીધો હોય,તે જ પ્રકારની રસીનો ડોઝ આપતા કેન્દ્ર પર તમારે રસી લેવી પડશે."
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "રસીકરણ માટે મારે કયા દસ્તાવેજો સાથે રાખવા જોઈએ"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "Co - WIN પોર્ટલ પર નોંધણી સમયે તમે આપેલ તમારા ઓળખપત્ર અને તમારી એપોઇન્ટમેન્ટની સ્લિપની પ્રિન્ટ આઉટ/ સ્ક્રીનશૉટ તમારી સાથે રાખવા જોઇએ"
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "મેં કો-વિન પોર્ટલ પર મારી નોંધણી કરાવી છે. જો કે, હું મારા સ્થાનની નજીક કોઈ રસીકરણ સુવિધા જોતી નથી તેથી હું કોઈ બુકિંગ કરી શકું તેમ નથી"
+  },
+  {
+    "word": "Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "હા, શક્ય છે કે તમારા  સ્થાનની નજીક રસીકરણ કાર્યક્રમની સુવિધા હજી પ્રકાશિત થઇ ન હોય, Co -WIN પ્લેટફોર્મ પર તમારા સ્થળની નજીક રસીકરણ સુવિધાઓ શરુ ન થાય ત્યાં સુધી તમે થોડા સમય  તેની સેવાઓ શરુ કરવા  સક્રિય બને તેની રાહ જુઓ"
+  },
+  {
+    "word": "2nd dose scheduling",
+    "replacedWord": "બીજા ડોઝનો સમય નિશ્ચિત કરવો"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "બીજો ડોઝ લેવો આવશ્યક છે?"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "હા, રસીકરણના સંપૂર્ણ લાભની અનુભુતી  માટે રસીના બંને ડોઝ લેવાની ભલામણ કરવામાં આવે છે. બંને ડોઝ એક જ પ્રકારની રસીના હોવા જરુરી છે."
+  },
+  {
+    "word": "When should I take the 2nd dose of vaccination?",
+    "replacedWord": "મારે રસીનો બીજો ડોઝ ક્યારે લેવો જોઇએ?"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "શું મારા બીજા ડોઝની  એપોઇન્ટમેન્ટ કો-વિન સિસ્ટમ દ્વારા આપમેળે શેડ્યૂલ કરવામાં આવશે"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "ના, તમારે બીજા ડોઝના રસીકરણ માટે એપોઇન્ટમેન્ટ લેવી પડશે. કો - વિન સિસ્ટમ તમને એપઇન્ટમેન્ટ બુક કરવામાં મદદ કરશે. જ્યાં તમને પહેલા આપવામાં આવેલ રસીના પ્રકાર મુજબ (COVAXIN અથવા COVISHIELD) રસી આપવામાં આવશે."
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "જો મને ઓનલાઇન એપોઇન્ટમેન્ટ સંબંધે કોઇપણ મુશ્કેલી હોય,તો મારે કોનો સંપર્ક કરવાનો રહેશે?"
+  },
+  {
+    "word": "You can call on the national helpline Ã¢â‚¬Ëœ1075Ã¢â‚¬â„¢ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "COVID-19 રસીકરણ અને Co-WIN સોફ્ટવેર સંબંધિત પ્રશ્નો અને માહિતી માટે તમે રાષ્ટ્રીય  હેલ્પલાઇન Ã ¢ ¢1075Ã ¢ â‚¬â „„ પર સંપર્ક કરી શકો છો."
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "એપોઇન્ટમેન્ટ સુનિશ્ચિત કરવા"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "શું હું Co-WIN પોર્ટલ પર રસીકરણ માટેની એપોઇન્ટમેન્ટ બુક કરાવી શકું છું"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "હા, તમે તમારા રજિસ્ટર્ડ મોબાઇલ નંબર દ્વારા કો-વિન પોર્ટલમાં લોગ -ઇન થયા પછી કો-વિન પોર્ટલ દ્વારા રસીકરણ માટે એપોઇન્ટમેન્ટ બુક કરાવી શકો છો. સિસ્ટમ રસીકરણ કેન્દ્રો બતાવશે જે રજિસ્ટ્રેશન પોર્ટલમાં દાખલ નાગરિકની ઉંમર પ્રમાણે રસીકરણની મંજૂરી આપે છે"
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "જો એક નાગરિક 45 વર્ષ કે તેથી વધુ ઉંમરના અને અન્ય 18 કે તેથી વધુ વયના હોય તો કયા વિકલ્પો છે"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per Stateâ€™s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "જો એક  વ્યક્તિ 45  વર્ષ કે તેથી વધુ વયના અને અન્ય 18 કે તેથી વધુ વયના હોય, અને બંને સાથે એપોઇન્ટમેન્ટ મેળવવા માંગે છે, તો પછી ફક્ત ખાનગી રસીકરણ કેન્દ્રો અથવા  રાજ્યની નીતિ  મુજબના રસીકરણ કેન્દ્રો ઉપલબ્ધ કરાવવામાં આવશે. જો કે, એવું થઈ શકે છે કે કેટલીક હોસ્પિટલો કે જે 45 વર્ષ કે તેથી વધુ ઉંમરના લોકોને પૂરી પાડે છે, ઓછી વય ધરાવતા લોકો માટે અપોઈન્ટમેન્ટ બુક કરવાની મંજૂરી આપી શકતા નથી. તે કિસ્સામાં તમે એક પછી એક બુકિંગ કરી શકો છો. જો કે, એવું થઈ શકે છે કે કેટલીક હોસ્પિટલો કે જે 45 વર્ષ કે તેથી વધુ ઉંમરના લોકોને પૂરી પાડે છે, ઓછી વય ધરાવતા લોકો માટે નિમણૂક બુક કરવાની મંજૂરી આપી શકતા નથી. તે કિસ્સામાં તમે એક પછી એક બુકિંગ કરી શકો છો"
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "શું હું દરેક રસીકરણ કેન્દ્ર પર આપવામાં આવતી રસી ચકાસી શકું છું"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "હા, રસીકરણ માટેની એપોઇન્ટમેન્ટનું સમયપત્રક બનાવતી વખતે, સિસ્ટમ રસીકરણ કેન્દ્રના નામની સાથે, રસીના નામ પણ બતાવશે જે ખાનગી હોસ્પિટલોમાં આપવામાં આવશે. સરકારી હોસ્પિટલો રસીનું નામ બતાવી શકશે નહીં"
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "શું હું એપોઇંટમેન્ટ સ્લિપ ડાઉનલોડ કરી શકું છું"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "હા, એપોઇન્ટમેન્ટ સુનિશ્ચિત થયા પછી એપોઇન્ટમેન્ટ સ્લિપ ડાઉનલોડ કરી શકાય છે"
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "હું નજીકના રસીકરણ કેન્દ્રને કેવી રીતે શોધી શકું"
+  },
+  {
+    "word": "Search by PIN",
+    "replacedWord": "PIN દ્વારા શોધી શકો"
+  },
+  {
+    "word": "Search by District",
+    "replacedWord": "જિલ્લા દ્વારા શોધી શકો"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "તમે પિનકોડ દ્વારા શોધીને  અથવા રાજ્ય કે જિલ્લાને પસંદ કરીને તમારા સ્થળની નજીકનું રસીકરણ કેન્દ્ર કો - વિન પોર્ટલ (અથવા આરોગ્ય સેતુ) માં શોધી શકો છો"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "શું હું મારી એપોઇન્ટમેન્ટને ફરીથી શેડ્યૂલ કરી શકું"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on Ã¢â‚¬Å“RescheduleÃ¢â‚¬Â tab.",
+    "replacedWord": "એપોઇન્ટમેન્ટ કોઇપણ સમયે ફરીથી શેડ્યુલ કરી શકાય છે,જો તમે એપોઇન્ટમેન્ટની તારીખે રસીકરણ માટે ન જઇ શકતા હો, તો તમે અહીં આપેલ ટેબ Ã¢â‚¬Å“RescheduleÃ¢â‚¬Â પર ક્લિક કરીને ફરીથી એપોઇન્ટમેન્ટ મેળવી શકો છો."
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "શું મારી પાસે એપોઇન્ટમેન્ટ રદ કરવા માટે કોઈ વિકલ્પ છે"
+  },
+  {
+    "word": "What if I cannot go for vaccination on the date of appointment",
+    "replacedWord": "જો હું એપોઇન્ટમેન્ટ્ની તારીખે રસી લેવા ન શકુંતો શું થશે?"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "હા,તમે પહેલાથી જ નિર્ધારિત એપોઇન્ટમેન્ટ રદ કરી શકો છો . તમે એપોઇન્ટમેન્ટ ફરીથી નિશ્ચિત કરી શકો છો અને તમારી સુવિધા મુજબ બીજી તારીખ અથવા સમય સ્લોટ પસંદ કરી શકો છો."
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "મને રસીકરણની તારીખ અને સમયની પુષ્ટિ ક્યાં મળશે"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "એકવાર એપોઇન્ટમેન્ટ સુનિશ્ચિત થઈ જાય, પછી તમને રસીકરણ કેન્દ્ર, તમારા રજિસ્ટર્ડ મોબાઇલ નંબર પર મોકલેલા એસએમએસમાં એપોઇન્ટમેન્ટ માટે પસંદ કરેલ તારીખ અને સમય સ્લોટની વિગતો પ્રાપ્ત થશે. તમે એપોઇન્ટમેન્ટ સ્લિપ પણ ડાઉનલોડ કરી શકો છો અને તેને પ્રિન્ટ કરી શકો છો અથવા તેને તમારા સ્માર્ટ ફોનમાં રાખી શકો છો"
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "શું હું એપોઇન્ટમેન્ટ વગર રસી મેળવી શકુ?"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres.",
+    "replacedWord": "45 વર્ષ કે તેથી વધુ વયના નાગરિકો ઓનલાઇન એપોઇન્ટમેન્ટ નિશ્ચિત કરી શકે છે અથવા રસીકરણ કેન્દ્રમાં વૉક ઇન કરીને રસી લઇ શકે છે."
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "18 -44 વર્ષના નાગરિકોએ રસીકરણ પહેલા ફરજિયાત રીતે પોતાની નોંધણી કરાવીને એપોઇન્ટમેન્ટ મેળવી લેવી જોઇએ. તેમ છતા, બધા નાગરિકોને તકલીફમુક્ત રસીકરણના અનુભવ માટે ઓન લાઇન નોંધણી કરવાની અને રસીકરણને નિશ્ચિત કરવાની ભલામણ કરવામાં આવે છે"
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "શું હું રસીની કિંમત ચકાસી શકું"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "હા, એપોઇન્ટમેન્ટ નિશ્ચિત કરવાના સમયે સિસ્ટમ રસીકરણ કેન્દ્રના નામની નીચે રસીના ભાવ પણ બતાવશે."
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "શું હું રસી પસંદ કરી શકું"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "એપોઇન્ટમેન્ટ નિશ્ચિત કરવાના સમયે સિસિટમ દરેક રસીકરણ કેન્દ્રમાં કઇ રસી આપશે તે બતાવશેંઆગરિક તેમની પસંદગીની રસી મળતી હોય તે રસીકરણ કેન્દ્રની પસંદગી કરી શકે છે.જોકે, સરકારી કેન્દ્રો પર પસંદગી ઉપલબ્ધ રહેશે નહી"
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "રસીકરણના બીજા ડોઝના સમયે મારે શું સાવચેતી રાખવી જોઇએ"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "રસીકરણ કેન્દ્રોને સુચના આપવામાં આવી છે કે જ્યારે કોઇ વ્યક્તિ રસીનો બીજો ડોઝ લેવા આવે,ત્યારે તેમણે ખાતરી કરવી જોઇએ કે પ્રથમ વખત આપવામાં આવી હોય, તે જ રસીનો બીજો ડોઝ આપવામાં આવે. અને પહેલા ડોઝને 28 દિવસ થયેલા હોવા જોઇએ. તમારે રસીના પ્રકાર અને પહેલી વખત મુકવામાં આવેલ રસીની તારીખ અંગે રસી આપનારને માહિતગાર કરવા જોઇએ.રસીનો પ્રથમ ડોઝ લીધા પછી તેનું પ્રમાણપત્ર તમારે તમારી સાથે રાખવુ જોઇએ."
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "શું હું કોઇ બીજા રાજ્ય/ જિલ્લામાં રસી મુકાવી શકુ"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "હા, તમે કોઇ પણ રાજ્ય કે જિલ્લામાં રસી મુકાવી શકો. પરંતુ એવા જ કેન્દ્ર પર રસી મુકાવી શકો કે જે પ્રકારની રસી તમે પહેલા લીધી હોય,તે જ પ્રકારની રસી ત્યાં અપાતી હોય"
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "રસીકરણ માટે મારે કયા દસ્તાવેજો સાથે રાખવા જોઈએ"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "Co - WIN પોર્ટલ પર નોંધણી સમયે તમે આપેલ તમારા ઓળખપત્ર અને તમારી એપોઇન્ટમેન્ટની સ્લિપની પ્રિન્ટ આઉટ/ સ્ક્રીનશૉટ તમારી સાથે રાખવા જોઇએ"
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "મેં કો-વિન પોર્ટલ પર મારી નોંધણી કરાવી છે. જો કે, હું મારા સ્થાનની નજીક કોઈ રસીકરણ સુવિધા જોતી નથી તેથી હું કોઈ બુકિંગ કરી શકું તેમ નથી"
+  },
+  {
+    "word": "What should I do?  Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "હા, શક્ય છે કે તમારા  સ્થાનની નજીક રસીકરણ કાર્યક્રમની સુવિધા હજી પ્રકાશિત થઇ ન હોય, Co -WIN પ્લેટફોર્મ પર તમારા સ્થળની નજીક રસીકરણ સુવિધાઓ શરુ ન થાય ત્યાં સુધી તમે થોડા સમય  તેની સેવાઓ શરુ કરવા  સક્રિય બને તેની રાહ જુઓ"
+  },
+  {
+    "word": "C. 2nd dose scheduling",
+    "replacedWord": "બીજા ડોઝનો સમય નિશ્ચિત કરવો"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "બીજો ડોઝ લેવો આવશ્યક છે?"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "હા, રસીકરણના સંપૂર્ણ લાભની અનુભુતી  માટે રસીના બંને ડોઝ લેવાની ભલામણ કરવામાં આવે છે. બંને ડોઝ એક જ પ્રકારની રસીના હોવા જરુરી છે."
+  },
+  {
+    "word": "It is recommended that the 2nd dose of COVAXIN should be administered in the interval of 4 to 6 weeks from the date of 1st dose administration. For COVISHIELD the recommended interval is 4 to 8 weeks while an interval of 6 to 8 weeks gives an enhanced protection. You may choose the date of 2nd dose vaccination as per your convenience.",
+    "replacedWord": "COVAXIN નો બીજો ડોઝ પહેલો ડોઝ લીધાની તારીખ પછી 4 થી 6 અઠવાડિયાના અંતરાલ બાદ લેવાની ભલામણ કરવામાં આવે છે. જોકે , COVISHILD માટે આ અંતરાલ 4 થી 8 અઠવાડિયા હોવાનો આગ્રહ રખાય છે.પરંતુ 6 થી 8  અઠવાડિયાનો અંતરાઅલ ઉત્તમ સુરક્ષા આપે છે. તમારી અનુકુળતા મુજબ તમે બીજા ડોઝ માટેની તારીખ પસંદ કરી શકો છો"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "શું મારા રસીના બીજા ડોઝ માટે એપોઇન્ટમેન્ટ કો-વિન સિસ્ટમ દ્વારા આપમેળે શેડ્યૂલ કરવામાં આવશે"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "ના, તમારે બીજા ડોઝના રસીકરણ માટે એપોઇન્ટમેન્ટ લેવી પડશે. કો - વિન સિસ્ટમ તમને એપઇન્ટમેન્ટ બુક કરવામાં મદદ કરશે. જ્યાં તમને પહેલા આપવામાં આવેલ રસીના પ્રકાર મુજબ (COVAXIN અથવા COVISHIELD) રસી આપવામાં આવશે."
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "જો મને ઓનલાઇન એપોઇન્ટમેન્ટ સંબંધે કોઇપણ મુશ્કેલી હોય,તો મારે કોનો સંપર્ક કરવાનો રહેશે?"
+  },
+  {
+    "word": "You can call on the national helpline â€˜1075â€™ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "COVID-19 રસીકરણ અને Co-WIN સોફ્ટવેર સંબંધિત પ્રશ્નો અને માહિતી માટે તમે રાષ્ટ્રીય  હેલ્પલાઇન Ã ¢ ¢1075Ã ¢ â‚¬â „„ પર સંપર્ક કરી શકો છો."
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "એપોઇન્ટમેન્ટ સુનિશ્ચિત કરવા"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "શું હું Co-WIN પોર્ટલ પર રસીકરણ માટેની એપોઇન્ટમેન્ટ બુક કરાવી શકું છું"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "હા, તમે તમારા રજિસ્ટર્ડ મોબાઇલ નંબર દ્વારા કો-વિન પોર્ટલમાં લોગ -ઇન થયા પછી કો-વિન પોર્ટલ દ્વારા રસીકરણ માટે એપોઇન્ટમેન્ટ બુક કરાવી શકો છો. સિસ્ટમ રસીકરણ કેન્દ્રો બતાવશે જે રજિસ્ટ્રેશન પોર્ટલમાં દાખલ નાગરિકની ઉંમર પ્રમાણે રસીકરણની મંજૂરી આપે છે"
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "જો એક નાગરિક 45 વર્ષ કે તેથી વધુ ઉંમરના અને અન્ય 18 કે તેથી વધુ વયના હોય તો કયા વિકલ્પો છે"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per StateÃ¢â‚¬â„¢s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "જો એક  વ્યક્તિ 45  વર્ષ કે તેથી વધુ વયના અને અન્ય 18 કે તેથી વધુ વયના હોય, અને બંને સાથે એપોઇન્ટમેન્ટ મેળવવા માંગે છે, તો પછી ફક્ત ખાનગી રસીકરણ કેન્દ્રો અથવા  રાજ્યની નીતિ  મુજબના રસીકરણ કેન્દ્રો ઉપલબ્ધ કરાવવામાં આવશે. જો કે, એવું થઈ શકે છે કે કેટલીક હોસ્પિટલો કે જે 45 વર્ષ કે તેથી વધુ ઉંમરના લોકોને પૂરી પાડે છે, ઓછી વય ધરાવતા લોકો માટે નિમણૂક બુક કરવાની મંજૂરી આપી શકતા નથી. તે કિસ્સામાં તમે એક પછી એક બુકિંગ કરી શકો છો"
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "શું હું દરેક રસીકરણ કેન્દ્ર પર આપવામાં આવતી રસી ચકાસી શકું છું"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "હા, રસીકરણ માટેની એપોઇન્ટમેન્ટનું સમયપત્રક બનાવતી વખતે, સિસ્ટમ રસીકરણ કેન્દ્રના નામની સાથે, રસીના નામ પણ બતાવશે જે ખાનગી હોસ્પિટલોમાં આપવામાં આવશે. સરકારી હોસ્પિટલો રસીનું નામ બતાવી શકશે નહીં"
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "શું હું એપોઇંટમેન્ટ સ્લિપ ડાઉનલોડ કરી શકું છું"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "હા, એપોઇન્ટમેન્ટ સુનિશ્ચિત થયા પછી એપોઇન્ટમેન્ટ સ્લિપ ડાઉનલોડ કરી શકાય છે"
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "હું નજીકના રસીકરણ કેન્દ્રને કેવી રીતે શોધી શકું"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "તમે પિનકોડ દ્વારા શોધીને  અથવા રાજ્ય કે જિલ્લાને પસંદ કરીને તમારા સ્થળની નજીકનું રસીકરણ કેન્દ્ર કો - વિન પોર્ટલ (અથવા આરોગ્ય સેતુ) માં શોધી શકો છો"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "શું હું મારી એપોઇન્ટમેન્ટને ફરીથી શેડ્યૂલ કરી શકું"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on â€œRescheduleâ€ tab.",
+    "replacedWord": "એપોઇન્ટમેન્ટ કોઇપણ સમયે ફરીથી શેડ્યુલ કરી શકાય છે,જો તમે એપોઇન્ટમેન્ટની તારીખે રસીકરણ માટે ન જઇ શકતા હો, તો તમે અહીં આપેલ ટેબ Ã¢â‚¬Å“RescheduleÃ¢â‚¬Â પર ક્લિક કરીને ફરીથી એપોઇન્ટમેન્ટ મેળવી શકો છો."
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "શું મારી પાસે એપોઇન્ટમેન્ટ રદ કરવા માટે કોઈ વિકલ્પ છે"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "હા,તમે પહેલાથી જ નિર્ધારિત એપોઇન્ટમેન્ટ રદ કરી શકો છો . તમે એપોઇન્ટમેન્ટ ફરીથી નિશ્ચિત કરી શકો છો અને તમારી સુવિધા મુજબ બીજી તારીખ અથવા સમય સ્લોટ પસંદ કરી શકો છો."
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "મને રસીકરણની તારીખ અને સમયની પુષ્ટિ ક્યાં મળશે"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "એકવાર એપોઇન્ટમેન્ટ સુનિશ્ચિત થઈ જાય, પછી તમને રસીકરણ કેન્દ્ર, તારીખ અને સમય સ્લોટની વિગતો તમારા રજિસ્ટર્ડ મોબાઇલ નંબર પર મોકલેલા એસએમએસમાં મળશે. તમે એપોઇન્ટમેન્ટ સ્લિપ પણ ડાઉનલોડ કરી શકો છો અને તેને પ્રિન્ટ કરી શકો છો અથવા તેને તમારા સ્માર્ટ ફોનમાં રાખી શકો છો"
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "શું હું એપોઇન્ટમેન્ટ વગર રસી મેળવી શકુ?"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination. However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "45 વર્ષ કે તેથી વધુ વયના નાગરિકો ઓનલાઇન એપોઇન્ટમેન્ટ નિશ્ચિત કરી શકે છે અથવા રસીકરણ કેન્દ્રમાં વૉક ઇન કરીને રસી લઇ શકે છે."
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination",
+    "replacedWord": "18 -44 વર્ષના નાગરિકોએ રસીકરણ પહેલા ફરજિયાત રીતે પોતાની નોંધણી કરાવીને એપોઇન્ટમેન્ટ મેળવી લેવી જોઇએ. તેમ છતા, બધા નાગરિકોને તકલીફમુક્ત રસીકરણના અનુભવ માટે ઓન લાઇન નોંધણી કરવાની અને રસીકરણને નિશ્ચિત કરવાની ભલામણ કરવામાં આવે છે"
+  },
+  {
+    "word": "However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "જો કે, બધા નાગરિકોને મુશ્કેલી વિના રસીકરણના અનુભવ માટે ઓનલાઇન નોંધણી કરવાની અને રસીકરણની સમયસર સુનિશ્ચિત કરવાની ભલામણ કરવામાં આવે છે"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલય"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "જાતે નોંધણી / સાઇન ઇન કરો"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "તમારા નજીકના રસીકરણ કેન્દ્ર અને સ્લોટ્સની ઉપલબ્ધતા ચકાસો"
+  },
+  {
+    "word": "Search",
+    "replacedWord": "તપાસ કરો"
+  },
+  {
+    "word": "View full report",
+    "replacedWord": "સંપૂર્ણ અહેવાલ જુઓ"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "તે કેવી રીતે કામ કરે છે"
+  },
+  {
+    "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
+    "replacedWord": "રસી મુકાવાનુ  સ્થાન પસંદ કરો. રસીકરણ માટે તમારા નજીકના રસી કેન્દ્રની પસંદગી કરો"
+  },
+  {
+    "word": "Confirm your SlotBook your slot to Get Vaccine",
+    "replacedWord": "રસી અપાવવા માટે તમારા સ્થાનને પસંદ કરો. બુક થયેલા  સ્લોટની પુષ્ટિ કરો"
+  },
+  {
+    "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "કોઈ પ્રશ્ન  છે ? તો  કૃપા કરીને અમારા વારંવાર પૂછાતા પ્રશ્નો (FAQ) ને અનુસરો"
+  },
+  {
+    "word": "Know how to book your appointment Dos and Don'ts",
+    "replacedWord": "જાણો કેવી રીતે તમારી એપોઇન્ટમેન્ટ બુક કરવી. તે માટે  શું કરવું અને શું નહીં કરવું"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "તમારી એપોઇન્ટ્મેન્ટ કેવી રીતે બુક કરવી તે જાણો"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "શું કરવું અને શું  ના કરવું"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "અમારા પાર્ટનર્સ"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online  Send Transcriptions  End Chat",
+    "replacedWord": "Co- WIN  સપોર્ટ ડેસ્ક- અમે ઓનલાઇન છીએ .ટ્રાંસ્ક્રિપ્શન્સ મોકલો . ચેટનો અંત"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online",
+    "replacedWord": "Co - WIN સપોર્ટ ડેસ્ક- અમે ઓનલાઇન છીએ"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "ટ્રાન્સક્રિપ્શન્સ મોકલો.  ચેટનો અંત"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "ટ્રાન્સક્રિપ્શન્સ મોકલો.  ચેટનો અંત"
+  },
+  {
+    "word": "Start Chat",
+    "replacedWord": "ચેટ શરુ કરો"
+  },
+  {
+    "word": "Monday, 1:27 PMWelcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "સોમવાર, 1:27 PM કોવિન હેલ્પડેસ્કમાં આપનું સ્વાગત છે, જો તમને આ સંદેશનો સરળ જવાબ આપવાની જરૂર હોય, તો અમે ઓનલાઇન છીએ અને સહાય માટે તૈયાર છીએ"
+  },
+  {
+    "word": "Monday, 1:27 PM",
+    "replacedWord": "સોમવાર, 1:27 PM"
+  },
+  {
+    "word": "Welcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "કોવિન હેલ્પડેસ્કમાં આપનું સ્વાગત છે, જો તમને આ સંદેશનો સરળ જવાબ આપવાની જરૂર હોય, તો અમે onlineનલાઇન છીએ અને સહાય માટે તૈયાર છીએ"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "આ ચેટનું સેશન  સમાપ્ત થયું છે"
+  },
+  {
+    "word": "Tot",
+    "replacedWord": "Tot"
+  },
+  {
+    "word": "Tot Vaccination Doses",
+    "replacedWord": "Tot રસીકરણના ડોઝ"
+  },
+  {
+    "word": "Dose-1 Vaccinations",
+    "replacedWord": "ડોઝ - ૧ નું રસીકરણ"
+  },
+  {
+    "word": "Dose-2 Vaccinations",
+    "replacedWord": "ડોઝ -૨ નું રસીકરણ"
+  },
+  {
+    "word": "Tot Vaccinated - Male",
+    "replacedWord": "Tot રસીકરણ -પુરુષ"
+  },
+  {
+    "word": "Tot Vaccinated - Female",
+    "replacedWord": "Tot રસીકરણ -સ્ત્રી"
+  },
+  {
+    "word": "Male",
+    "replacedWord": "પુરુષ"
+  },
+  {
+    "word": "Female",
+    "replacedWord": "સ્ત્રી"
+  },
+  {
+    "word": "Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
+    "replacedWord": "તમારા મોબાઇલ નંબર  અથવા આધાર નંબર. અથવા કોઈપણ અન્ય ઓળખાણ દસ્તાવેજ નો ઉપયોગ કરીને નોંધણી કરો"
+  },
+  {
+    "word": "Select your nearby Vaccine Center for vaccination",
+    "replacedWord": "રસીકરણ માટે તમારા નજીકના રસી કેન્દ્રને  પસંદ કરો"
+  },
+  {
+    "word": "Book your slot to Get Vaccine",
+    "replacedWord": "રસી મેળવવા માટે તમારો સ્લોટ બુક કરો"
+  },
+  {
+    "word": "Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "કૃપા કરીને અમારા વારંવાર પૂછાતા પ્રશ્નો (FAQ) ને અનુસરો"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "તે કેવી રીતે કામ કરે છે"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "અમારા પાર્ટનર્સ"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "તમારા નજીકના રસીકરણ કેન્દ્ર અને સ્લોટ્સની ઉપલબ્ધતા તપાસો"
+  },
+  {
+    "word": "Register Yourself",
+    "replacedWord": "તમારી  નોંધણી કરો"
+  },
+  {
+    "word": "Choose Vaccine Location",
+    "replacedWord": "રસી  લેવા માટેનું સ્થાન પસંદ કરો"
+  },
+  {
+    "word": "Confirm your Slot",
+    "replacedWord": "તમારા સ્લોટની પુષ્ટિ કરો"
+  },
+  {
+    "word": "Any Question?",
+    "replacedWord": "કોઇ પ્રશ્ન છે"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "આ ચેટનું સેશન સમાપ્ત થયું છે"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલય"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "FAQ"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "ડેશબોર્ડ"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "APIs ખોલો"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "વિભાગમાં લોગ ઇન"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "રસી આપનાર"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "પ્રમાણપત્રની ચકાસણી કરો"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "જાતે નોંધણી / સાઇન ઇન કરો"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "જાતે નોંધણી / સાઇન ઇન કરો"
+  },
+  {
+    "word": "View full report Ã‚Â»",
+    "replacedWord": "સંપૂર્ણ અહેવાલ જુઓ Ã‚Â »"
+  },
+  {
+    "word": "Frequently asked questions (FAQ)",
+    "replacedWord": "વારંવાર પૂછાતા પ્રશ્નો (FAQ"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "તમારી એપોઇન્ટમેન્ટ કેવી રીતે બુક કરવી તે જાણો"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "શું કરવું અને શું  ના કરવું"
+  },
+  {
+    "word": "Send Transcriptions",
+    "replacedWord": "ટ્રાંસ્ક્રિપ્શન્સ મોકલો"
+  },
+  {
+    "word": "End Chat",
+    "replacedWord": "ચેટ બંધ કરો"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "FAQ"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "ડેશબોર્ડ"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "APIs ખોલો"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "વિભાગમાં લોગ ઇન"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "રસી આપનાર"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "પ્રમાણપત્રની ચકાસણી કરો"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "જાતે નોંધણી / સાઇન ઇન કરો"
+  },
+  {
+    "word": "FAQ Dashboard Open APIs  Department Login  Vaccinator  Verify Certificate",
+    "replacedWord": "FAQ  -ડેશબોર્ડ ઓપન -  APIs વિભાગ લોગ ઇન -  રસીકરણકર્તા -   પ્રમાણપત્ર ચકાસો"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "જાતે નોંધણી / સાઇન ઇન કરો"
+  },
+  {
+    "word": "Please follow our",
+    "replacedWord": "અમારા FAQ ને અનુસરો"
+  },
+  {
+    "word": "Frequently asked questions",
+    "replacedWord": "વારંવાર પૂછાતા પ્રશ્નો"
+  },
+  {
+    "word": "Enter your PIN",
+    "replacedWord": "તમારો પિનકોડ  દાખલ કરો"
+  },
+  {
+    "word": "You can contact on any of the following details",
+    "replacedWord": "તમે નીચેમાંથી  કોઈપણ વિકલ્પથી અમારોસંપર્ક કરી શકો છો"
+  },
+  {
+    "word": "Helpline Number",
+    "replacedWord": "હેલ્પલાઈન નંબર"
+  },
+  {
+    "word": "Technical Helpline Number",
+    "replacedWord": "તકનીકી હેલ્પલાઈન નંબર"
+  },
+  {
+    "word": "Helpline Email Id",
+    "replacedWord": "હેલ્પલાઇન ઇમેઇલ Id"
+  },
+  {
+    "word": "You may also contact the Vaccination Centre where you took vaccination, for advice.",
+    "replacedWord": "સલાહ માટે જ્યાં તમે રસી લીધી હતી તે રસીકરણ કેન્દ્રનો સંપર્ક કરી શકો છો"
+  },
+  {
+    "word": "Toll free",
+    "replacedWord": "કર મુક્ત(ટોલ ફ્રી"
+  }
+]
