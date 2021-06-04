@@ -1,0 +1,866 @@
+[
+  {
+    "word": "Registration",
+    "replacedWord": "রেজিস্ট্রেশন"
+  },
+  {
+    "word": "Lakh",
+    "replacedWord": "লাখ"
+  },
+  {
+    "word": "Doses",
+    "replacedWord": "ডোজ"
+  },
+  {
+    "word": "Dose",
+    "replacedWord": "ডোজ"
+  },
+  {
+    "word": "Vaccinated",
+    "replacedWord": "টিকাকরণ"
+  },
+  {
+    "word": "AEFI Reported",
+    "replacedWord": "এ.ই.এফ.আই.  রিপোর্ট হয়েছে"
+  },
+  {
+    "word": "Where can I register for COVID-19 vaccination?",
+    "replacedWord": "কোথায় আমি টিকাকরণের জন্য রেজিস্টার করতে পারি?"
+  },
+  {
+    "word": "You can log into the Co-WIN portal using the link",
+    "replacedWord": "আপনি নিম্নলিখিত লিঙ্কটি ব্যবহার করে কো-উইন পোর্টালে লগ ইন করতে পারেন"
+  },
+  {
+    "word": "and click on the â€œRegister/Sign In yourselfâ€ tab to register for COVID-19 vaccination.",
+    "replacedWord": "#"
+  },
+  {
+    "word": "Is there a mobile app that needs to be installed to register for vaccination?",
+    "replacedWord": "টিকাকরনের নিবন্ধকরণের জন্য এমন কোনও মোবাইল অ্যাপ ইনস্টল করার দরকার আছে কি?"
+  },
+  {
+    "word": "Is online registration mandatory for Covid 19 vaccination?",
+    "replacedWord": "কোভিড-১৯ টিকাকরনের জন্য কি অনলাইন রেজিস্ট্রেশন বাধ্যতামূলক?"
+  },
+  {
+    "word": "Vaccination Centres provide for a limited number of on-spot registration slots every day. Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. However, Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before going to vaccination centre.",
+    "replacedWord": "টিকাকরণের কেন্দ্রগুলি প্রতিদিন সীমিত সংখ্যক অন স্পট রেজিস্ট্রেশন স্লট সরবরাহ করে। ৪৫ বছর বা তার বেশি বয়সের নাগরিকরা অনলাইনে অ্যাপয়েন্টমেন্ট নির্ধারণ করতে পারেন বা টিকাকরণের কেন্দ্রগুলিতে পৌঁছে যেতে পারেন। তবে, ১৮-৪৪ বছর বয়সী নাগরিকদের বাধ্যতামূলকভাবে রেজিস্টার করতে হবে এবং টিকাকরণের কেন্দ্রে যাওয়ার আগে অনলাইনে অ্যাপয়েন্টমেন্ট নিতে করতে হবে।"
+  },
+  {
+    "word": "In general, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "সাধারণভাবে, সমস্ত নাগরিককে নির্ঝঞ্ঝাটভাবে টিকাদানের অভিজ্ঞতার জন্য অনলাইন রেজিস্ট্রেশন এবং টিকা দেওয়ার সময়সূচী নির্ধারণ করার পরামর্শ দেওয়া হয়।"
+  },
+  {
+    "word": "There is no authorised mobile app for registering for vaccination in India except Aarogya Setu. You need to log into the Co-WIN portal. Alternatively, you can also register for vaccination through the Aarogya Setu App.",
+    "replacedWord": "আরোগ্য সেতু ব্যতীত ভারতে টিকাকরণের রেজিস্ট্রেশনেড় জন্য কোনও অনুমোদিত মোবাইল অ্যাপ নেই। আপনাকে কো-উইন পোর্টালে লগ ইন করতে হবে। বিকল্পভাবে, আপনি আরোগ্য সেতু অ্যাপের মাধ্যমেও টিকাকরণের জন্য রেজিস্টার করতে পারেন।"
+  },
+  {
+    "word": "Which age groups can register for vaccination on the Co-WIN portal?",
+    "replacedWord": "কো-উইন পোর্টালে কোন বয়স গোষ্ঠী টিকাকরনের জন্য রেজিস্টার করতে পারে?"
+  },
+  {
+    "word": "All citizens aged 18 years and above can register for vaccination",
+    "replacedWord": "১৮ বছর বা তার বেশি বয়সের সমস্ত নাগরিক টিকাকরনের জন্য রেজিস্টার করতে পারেন"
+  },
+  {
+    "word": "How many people can be registered in the Co-WIN portal through one mobile number?",
+    "replacedWord": "একটি মোবাইল নম্বরের মাধ্যমে কতজন লোক কো-উইন পোর্টালে রেজিস্টার করতে পারবেন?"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number.",
+    "replacedWord": "একই মোবাইল নম্বর ব্যবহার করে টিকাকরনের জন্য ৪ জন মানুষ নিবন্ধন করতে পারবেন।"
+  },
+  {
+    "word": "How can citizens with no access to smart phones or computers manage online registration?",
+    "replacedWord": "স্মার্টফোন বা কম্পিউটারের সুবিধা না থাকা নাগরিকরা কীভাবে অনলাইনে রেজিস্টার করতে পারেন?"
+  },
+  {
+    "word": "Up to 4 people can be registered for vaccination using the same mobile number",
+    "replacedWord": "একই মোবাইল নম্বর ব্যবহার করে টিকাকরনের জন্য ৪ জন মানুষ রেজিস্টার করতে পারবেন।"
+  },
+  {
+    "word": "Citizens can take help from friends or family for online registration",
+    "replacedWord": "নাগরিকরা অনলাইনে নিবন্ধের জন্য বন্ধুবান্ধব বা পরিবারের সাহায্য নিতে পারেন"
+  },
+  {
+    "word": "Can I register for vaccination without Aadhaar card?",
+    "replacedWord": "আমি কি আধার কার্ড ছাড়া টিকার জন্য রেজিস্টার করতে পারি?"
+  },
+  {
+    "word": "Yes, you can register on Co-WIN portal using any of the following ID proofs",
+    "replacedWord": "হ্যাঁ, আপনি নিম্নলিখিত যে কোনও আই.ডি. প্রমাণ ব্যবহার করে কো-উইন পোর্টালে রেজিস্টার করতে পারেন"
+  },
+  {
+    "word": "Aadhaar card",
+    "replacedWord": "আধার কার্ড"
+  },
+  {
+    "word": "Driving License",
+    "replacedWord": "ড্রাইভিং লাইসেন্স"
+  },
+  {
+    "word": "PAN card",
+    "replacedWord": "প্যান কার্ড"
+  },
+  {
+    "word": "Passport",
+    "replacedWord": "পাসপোর্ট"
+  },
+  {
+    "word": "Pension Passbook",
+    "replacedWord": "পেনসান পাসবুক"
+  },
+  {
+    "word": "NPR Smart Card",
+    "replacedWord": "এন.পি.আর. স্মার্ট কার্ড"
+  },
+  {
+    "word": "Voter ID",
+    "replacedWord": "ভোটার আই.ডি."
+  },
+  {
+    "word": "Is there any registration charges to be paid?",
+    "replacedWord": "কোনো রেজিস্ট্রেশন চার্জ দিতে হবে?"
+  },
+  {
+    "word": "No. There is no registration charge.",
+    "replacedWord": "না, কোনো রেজিস্ট্রেশন চার্জ দিতে হবে না"
+  },
+  {
+    "word": "Whom do I contact in case of side effects from vaccination",
+    "replacedWord": "টিকাদান থেকে পার্শ্ব প্রতিক্রিয়া হলে কার সাথে যোগাযোগ করবো?"
+  },
+  {
+    "word": "Why do I need a vaccination certificate?",
+    "replacedWord": "আমার কেন টিকা শংসাপত্রের দরকার?"
+  },
+  {
+    "word": "A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due",
+    "replacedWord": "সরকার কর্তৃক জারি করা একটি কোভিড ভ্যাকসিন শংসাপত্র (সি.ভি.সি.) উপকৃতকে এই টিকা প্রদান, ব্যবহৃত ভ্যাকসিনের ধরণের বিষয়ে একটি আশ্বাস প্রদান করে এবং অস্থায়ী শংসাপত্র পরবর্তী টিকাদান সরবরাহ করে"
+  },
+  {
+    "word": "It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel",
+    "replacedWord": "বিশেষত ভ্রমণের ক্ষেত্রে কোনও সংস্থার কাছে টিকাকরনের প্রমাণের প্রয়োজন হতে পারে"
+  },
+  {
+    "word": "Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "টিকাদান ব্যক্তিদের কেবল রোগ থেকে রক্ষা করে না, ভাইরাসের ছড়িয়ে যাওয়ার ঝুঁকিও হ্রাস করে। সুতরাং, ভবিষ্যতে নির্দিষ্ট ধরণের সামাজিক মিথস্ক্রিয়া এবং আন্তর্জাতিক ভ্রমণের জন্য শংসাপত্র তৈরি করার প্রয়োজন হতে পারে।"
+  },
+  {
+    "word": "Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel.",
+    "replacedWord": "সুতরাং, ভবিষ্যতে নির্দিষ্ট ধরণের সামাজিক মিথস্ক্রিয়া এবং আন্তর্জাতিক ভ্রমণের জন্য শংসাপত্র তৈরি করার প্রয়োজন হতে পারে।"
+  },
+  {
+    "word": "Who is responsible for providing the vaccination certificate?",
+    "replacedWord": "টিকা শংসাপত্র সরবরাহ করার জন্য দায়বদ্ধ কে?"
+  },
+  {
+    "word": "The Vaccination Centre is responsible for generating your certificate and for providing a printed copy post vaccination on the day of vaccination itself. Please do insist on receiving the certificate at the Centre. For Private Hospitals, the charges for providing a printed copy of the certificate are included in the service charge for vaccination.",
+    "replacedWord": "ঐ দিনেই টিকাকরণ পরবর্তী মুদ্রিত শংসাপত্র দেওয়ার জন্য টিকা কেন্দ্র দায়বদ্ধ"
+  },
+  {
+    "word": "Where can I download vaccination certificate from?",
+    "replacedWord": "আমি কোথা থেকে টিকা শংসাপত্র ডাউনলোড করতে পারি?"
+  },
+  {
+    "word": "Vaccination",
+    "replacedWord": "ভ্যাক্সিনেশন"
+  },
+  {
+    "word": "Vaccine Certificate",
+    "replacedWord": "ভ্যাক্সিন সার্টিফিকেট"
+  },
+  {
+    "word": "Reporting Side effects",
+    "replacedWord": "পার্শ্ব প্রতিক্রিয়া রিপোর্ট করুন"
+  },
+  {
+    "word": "You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps.",
+    "replacedWord": "আপনি নিম্নলিখিত সহজ পদ্ধতিগুলি অনুসরণ করে কো-উইন পোর্টাল (cowin.gov.in) বা আরোগ্য সেতু অ্যাপ্লিকেশন বা ডিজি-লকারের মাধ্যমে টিকা শংসাপত্র ডাউনলোড করতে পারেন।"
+  },
+  {
+    "word": "You may do so by using the mobile number used at the time of registration.",
+    "replacedWord": "আপনি রেজিস্ট্রেশনের সময় ব্যবহৃত মোবাইল নম্বর ব্যবহার করে এটি করতে পারেন।"
+  },
+  {
+    "word": "In this context the certificate issued by Co-WIN has built in security features to guarantee genuineness of the certificate which can be digitally verified using approved utilities which are provided in Co-WIN portal.",
+    "replacedWord": "এই প্রসঙ্গে কো-উইন কর্তৃক প্রদত্ত শংসাপত্রটি তার সত্যতা নিশ্চিত করার জন্য বিল্ট-ইন সুরক্ষা বৈশিষ্ট্য তৈরি করেছে যা কো-উইন পোর্টালে প্রদত্ত অনুমোদিত ইউটিলিটিগুলি ব্যবহার করে ডিজিটালি যাচাই করা যেতে পারে।"
+  },
+  {
+    "word": "Is vaccination free at all vaccination centres?",
+    "replacedWord": "সমস্ত টিকা কেন্দ্রগুলিতে কি টিকা বিনামূল্যে দেওয়া হয়?"
+  },
+  {
+    "word": "No. Currently, vaccination is free at Government hospitals and charged at INR 250 in Private hospitals for citizens aged 45 years and above.",
+    "replacedWord": "না, বর্তমানে ৪৫ বছর বা তার বেশি বয়সের নাগরিকদের জন্য বেসরকারি হাসপাতালে টিকা বিনামূল্যে এবং বেসরকারি হাসপাতালে ২৫০ টাকা করে নেওয়া হচ্ছে"
+  },
+  {
+    "word": "From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities",
+    "replacedWord": "১লা মে থেকে, ৪৫ বছর বা তার বেশি বয়সের মানুষের জন্য টিকা সরকারী সুবিধায় অব্যাহত থাকবে"
+  },
+  {
+    "word": "For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "১৮ থেকে ৪৫ বছরের মধ্যে নাগরিকদের জন্য রাজ্যগুলি টিকার মুল্য সম্পর্কিত নীতি ঘোষণা করবে। টিকার মুল্য বেসরকারি হাসপাতাল কর্তৃপক্ষ দ্বারা নির্ধারিত হবে এবং আপনি প্রতিটি ভ্যাকসিনের মূল্য বুকিংয়ের সময় দেখতে পাবেন।"
+  },
+  {
+    "word": "Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.",
+    "replacedWord": "টিকার মুল্য বেসরকারি হাসপাতাল কর্তৃপক্ষ দ্বারা নির্ধারিত হবে এবং আপনি প্রতিটি ভ্যাকসিনের মূল্য বুকিংয়ের সময় দেখতে পাবেন।"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago.",
+    "replacedWord": "ভ্যাকসিনেশন কেন্দ্রগুলিকে নির্দেশ দেওয়া হয়েছে যে, কোনও নাগরিক দ্বিতীয় ডোজ নেওয়ার সময় তাকে নিশ্চিত করতে হবে যে প্রথম ডোজটি দ্বিতীয় ডোজ দেওয়ার অন্ততপক্ষে ২৮ দিন পূর্বে নিয়েছিলেন এবং সেই সময় একই ভ্যাকসিন নিয়েছিলেন"
+  },
+  {
+    "word": "You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator.",
+    "replacedWord": "আপনার ভ্যাকসিনের ধরণ এবং প্রথম ডোজ ভ্যাকসিনের তারিখটি সঠিকভাবে ভ্যাক্সিনেটরকে প্রদর্শন করা উচিত।"
+  },
+  {
+    "word": "You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "আপনার প্রথম ডোজের পরে পাওয়া ভ্যাকসিন শংসাপত্র বহন করা উচিত।"
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "আমি কি ভ্যাকসিনের মূল্য জানতে পারি?"
+  },
+  {
+    "word": "Frequently Asked Questions on Co-WIN",
+    "replacedWord": "কো-উইন সম্পর্কে প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী (ফ্রিকুয়েন্টলি আস্কড কয়েশ্চন্স)"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "হ্যাঁ, অ্যাপয়েন্টমেন্টের সময় সিস্টেম আপনাকে ভ্যাকসিনেশন কেন্দ্রের নীচে ভ্যাকসিনের মূল্য প্রদর্শন করবে।"
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "আমি কি ভ্যাকসিনটি পছন্দ করতে পারি?"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "অ্যাপয়েন্টমেন্টের নির্ধারণের সময় সিস্টেম প্রতিটি টিকা কেন্দ্রে কোন ভ্যাকসিনটি দেওয়া হচ্ছে তা দেখায়। নাগরিকরা তাদের ভ্যাকসিনের পছন্দ অনুযায়ী ভ্যাকসিন সেন্টারটি বেছে নিতে পারেন। তবে, এই পছন্দটি সরকারি সুযোগ-সুবিধায় পাওয়া যাবে না।"
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "দ্বিতীয় ডোজ নেওয়ার সময় আমার কী কী সাবধানতা অবলম্বন করা উচিত?"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "ভ্যাকসিনেশন কেন্দ্রগুলিকে নির্দেশ দেওয়া হয়েছে যে, কোনও নাগরিক দ্বিতীয় ডোজ নেওয়ার সময় তাকে নিশ্চিত করতে হবে যে প্রথম ডোজটি দ্বিতীয় ডোজ দেওয়ার অন্ততপক্ষে ২৮ দিন পূর্বে নিয়েছিলেন এবং সেই সময় একই ভ্যাকসিন নিয়েছিলেন। আপনার ভ্যাকসিনের ধরণ এবং প্রথম ডোজ ভ্যাকসিনের তারিখটি সঠিকভাবে ভ্যাক্সিনেটরকে প্রদর্শন করা উচিত। আপনার প্রথম ডোজের পরে পাওয়া ভ্যাকসিন শংসাপত্র বহন করা উচিত।"
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "আমি কি আলাদা রাজ্য / জেলা থেকে টিকা দিতে পারি?"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "হ্যাঁ, আপনি যে কোনও রাজ্য / জেলাতে টিকা নিতে পারেন। কেবলমাত্র সীমাবদ্ধতা হ'ল আপনি কেবলমাত্র সেই কেন্দ্রগুলিতে ভ্যাকসিন নিতে সক্ষম হবেন যেখানে আপনাকে দেওয়া প্রথম ডোজের একি ভ্যাকসিন সরবরাহ করছে।"
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "টিকা দেওয়ার জন্য আমার সাথে কোন ডকুমেন্টগুলি বহন করা উচিত?"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "কো-ওয়াইন পোর্টালে রেজিস্ট্রেশনের সময় আপনার নির্দিষ্ট করা পরিচয় প্রমাণ এবং আপনার অ্যাপয়েন্টমেন্ট স্লিপের একটি প্রিন্ট আউট / স্ক্রিনশট বহন করা উচিত।"
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "আমি কো-উইন পোর্টালে নিজেকে রেজিস্টার করেছি। তবে, আমি আমার অঞ্চলের কাছে কোনও টিকাকেন্দ্র দেখতে পারছি না বলে আমি কোনও বুকিং করতে পারছি না?"
+  },
+  {
+    "word": "Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "হ্যাঁ, এটি সম্ভবত আপনার অঞ্চলের নিকটবর্তী কোনও সংস্থা টিকা দেওয়ার প্রোগ্রাম এখনও শুরু করেনি। আপনার অঞ্চলের কাছাকাছি টিকাদান সুবিধাগুলি কো-উইন প্ল্যাটফর্মে চালিত না হওয়া, সক্রিয় নয়া হয়ে ওঠা এবং তাদের পরিষেবাগুলি শুরু না করা পর্যন্ত আপনি অপেক্ষা করতে পারেন।"
+  },
+  {
+    "word": "2nd dose scheduling",
+    "replacedWord": "দ্বিতীয় ডোজ শিডিউল করুন"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "টিকার দ্বিতীয় ডোজ নেওয়া কি দরকার?"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "হ্যাঁ. টিকার সম্পূর্ণ সুবিধা উপলব্ধি করার জন্য ভ্যাকসিনের উভয় ডোজ গ্রহণ করা উচিত। উভয় ডোজ একই ভ্যাকসিন ধরণের হতে হবে।"
+  },
+  {
+    "word": "When should I take the 2nd dose of vaccination?",
+    "replacedWord": "টিকার দ্বিতীয় ডোজটি আমার কখন নেওয়া উচিত?"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "আমার দ্বিতীয় ডোজ অ্যাপয়েন্টমেন্ট স্বয়ংক্রিয়ভাবে কো-উইন সিস্টেম দ্বারা নির্ধারিত হবে?"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "না। দ্বিতীয় ডোজ টিকা দেওয়ার জন্য আপনাকে অ্যাপয়েন্টমেন্ট নিতে হবে। কো-উইন সিস্টেম আপনাকে ভ্যাকসিনেশন সেন্টারে একটি অ্যাপয়েন্টমেন্ট বুক করতে সহায়তা করবে যেখানে একই ভ্যাকসিনটি প্রথম ডোজের ভ্যাকসিন ধরণের (COVAXIN বা COVISHIELD) হিসাবে পরিচালিত হচ্ছে।"
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "আমার অনলাইনে অ্যাপয়েন্টমেন্ট নিয়োগের সাথে সম্পর্কিত কিছু সমস্যা হলে আমি কার সাথে যোগাযোগ করতে পারি?"
+  },
+  {
+    "word": "You can call on the national helpline Ã¢â‚¬Ëœ1075Ã¢â‚¬â„¢ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "COVID-19 টিকাদান এবং কো-ওয়াইন সফটওয়্যার সম্পর্কিত প্রশ্নগুলির বিষয়ে তথ্য ও দিকনির্দেশনার জন্য আপনি জাতীয় হেল্পলাইন 1075 এ কল করতে পারেন।"
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "অ্যাপয়েন্টমেন্ট শিডিউল করা।"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "আমি কি কো-ওয়াইন পোর্টালে টিকা দেওয়ার জন্য অ্যাপয়েন্টমেন্ট বুক করতে পারি?"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "হ্যাঁ, আপনি আপনার রেজিস্টার্ড মোবাইল নম্বরের মাধ্যমে কো-ওয়াইন পোর্টালে লগ-ইন করার পরে কো-ওয়াইন পোর্টালের মাধ্যমে টিকা দেওয়ার জন্য অ্যাপয়েন্টমেন্ট বুক করতে পারেন। সিস্টেমটি ভ্যাকসিনেশন কেন্দ্রগুলি দেখাবে যা রেজিস্ট্রেশন পোর্টালে প্রবেশ করা নাগরিকের বয়স অনুসারে টিকা দেওয়ার অনুমতি দেয়।"
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "একজন নাগরিকের বয়স ৪৫ বা তার বেশি এবং অন্য ১৮ বছর বা তার বেশি বয়সী হলে বিকল্পগুলি কী কী?"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per Stateâ€™s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "যদি একজন নাগরিকের বয়স ৪৫ বা তার বেশি হয় এবং অন্য নাগরিক ১৮ থেকে ৪৪ বছর বয়সী এবং উভয়ই সম্মিলিত অ্যাপয়েন্টমেন্ট বুক করতে চান, তবে কেবলমাত্র ব্যক্তিগত বেতনভোগী টিকা কেন্দ্র বা রাষ্ট্রের নীতি অনুসারে টিকা কেন্দ্রগুলি উপলব্ধ করা হবে। তবে, এটি হতে পারে যে কেবল ৪৫ বছর বা তার বেশি বয়সের লোকদের জন্য পরিষেবা সরবরাহ করা কিছু হাসপাতাল কম বয়সের লোকদের জন্য অ্যাপয়েন্টমেন্ট বুকিংয়ের অনুমতি দিতে নাও পারে। সেক্ষেত্রে আপনি একের পর এক বুকিং করতে পারেন।"
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "আমি কি প্রতিটি টিকা কেন্দ্রে কোন ভ্যাকসিন দেওয়া হচ্ছে তা জানতে পারি?"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "হ্যাঁ, টিকা দেওয়ার অ্যাপয়েন্টমেন্টের সময় নির্ধারণের সময়, সিস্টেমটি ভ্যাকসিন কেন্দ্রের নাম এবং বেসরকারী হাসপাতালের ক্ষেত্রে যে ভ্যাকসিন পরিচালিত হবে তার নামও প্রদর্শন করবে। সরকারী হাসপাতালগুলি ভ্যাকসিনের নাম নাও দেখাতে পারে।"
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "আমি কি অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করতে পারি?"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "হ্যাঁ, অ্যাপয়েন্টমেন্টের সময় নির্ধারণ হওয়ার পরে অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করা যাবে।"
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "আমি কীভাবে নিকটতম টিকা কেন্দ্র পেতে পারি?"
+  },
+  {
+    "word": "Search by PIN",
+    "replacedWord": "পিন দ্বারা অনুসন্ধান করুন"
+  },
+  {
+    "word": "Search by District",
+    "replacedWord": "জেলা দ্বারা অনুসন্ধান করুন"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "আপনি পিন কোডের মাধ্যমে অনুসন্ধান করে অথবা রাজ্য ও জেলা নির্বাচন করে আপনার অবস্থানের নিকটবর্তী টিকা কেন্দ্রের জন্য কো-ওয়াইন পোর্টাল (বা আরোগ্য সেতু) অনুসন্ধান করতে পারেন।"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "আমি কি আমার অ্যাপয়েন্টমেন্টের সময় বদলাতে পারি?"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on Ã¢â‚¬Å“RescheduleÃ¢â‚¬Â tab.",
+    "replacedWord": "অ্যাপয়েন্টমেন্টটি যে কোনও সময় পুনরায় নির্ধারণ করা যেতে পারে। আপনি অ্যাপয়েন্টমেন্টের তারিখে টিকা নিতে যেতে না পারার ক্ষেত্রে, আপনি \"Reschedule\" ট্যাবে ক্লিক করে অ্যাপয়েন্টমেন্টটি পুনরায় নির্ধারণ করতে পারেন।"
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "আমার কাছে অ্যাপয়েন্টমেন্ট বাতিল করার জন্য কী বিকল্প আছে?"
+  },
+  {
+    "word": "What if I cannot go for vaccination on the date of appointment?",
+    "replacedWord": "আমি অ্যাপয়েন্টমেন্টের তারিখে টিকা দিতে না পারলে কী হয়?"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "হ্যাঁ, আপনি ইতিমধ্যে নির্ধারিত একটি অ্যাপয়েন্টমেন্ট বাতিল করতে পারেন। আপনি অ্যাপয়েন্টমেন্টটি পুনরায় নির্ধারণ করতে এবং আপনার সুবিধার জন্য আরও একটি তারিখ বা সময় স্লট পছন্দ করতে পারেন।"
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "আমি টিকা নেওয়ার তারিখ এবং সময়টির নিশ্চয়তা কোথায় পাব?"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "একবার অ্যাপয়েন্টমেন্ট নির্ধারিত হয়ে গেলে, আপনি আপনার নিবন্ধিত মোবাইল নম্বরে আসা এস.এম.এস.-এ অ্যাপয়েন্টমেন্টের জন্য বেছে নেওয়া টিকা কেন্দ্র, তারিখ এবং সময় স্লটের বিবরণ পাবেন। আপনি অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করে এটি প্রিন্ট করতে পারেন বা এটি আপনার স্মার্ট ফোনে রাখতে পারেন।"
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "আমি অ্যাপয়েন্টমেন্ট ছাড়াই টিকা পেতে পারি?"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres.",
+    "replacedWord": "৪৫ বছর বা তার বেশি বয়সের নাগরিকরা অনলাইনে অ্যাপয়েন্টমেন্ট নির্ধারণ করতে পারেন বা টিকা কেন্দ্রগুলিতে ওয়াক-ইন করতে পারেন।"
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "১৮-৪৪ বছর বয়সী নাগরিকদের বাধ্যতামূলকভাবে রেজিস্ট্রেশন ও অনলাইনে অ্যাপয়েন্টমেন্ট নির্ধারণ করা উচিত। যদিও, সমস্ত নাগরিককে নির্ঝঞ্ঝাটভাবে টিকাদানের অভিজ্ঞতার জন্য অনলাইন রেজিস্ট্রেশন এবং টিকা দেওয়ার সময়সূচী নির্ধারণ করার পরামর্শ দেওয়া হয়।"
+  },
+  {
+    "word": "Can I check the price of the vaccine?",
+    "replacedWord": "আমি কি ভ্যাকসিনের দাম জানতে করতে পারি?"
+  },
+  {
+    "word": "Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.",
+    "replacedWord": "হ্যাঁ, অ্যাপয়েন্টমেন্টের সময় নির্ধারণের সময় সিস্টেমটি ভ্যাকসিনেশন কেন্দ্রের নীচে ভ্যাকসিনের মূল্য প্রদর্শন করবে।"
+  },
+  {
+    "word": "Can I choose the vaccine?",
+    "replacedWord": "আমি কি ভ্যাকসিনটি বেছে নিতে পারি?"
+  },
+  {
+    "word": "System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .",
+    "replacedWord": "অ্যাপয়েন্টমেন্টের সময় নির্ধারণের সময় সিস্টেমটি প্রতিটি টিকা কেন্দ্রে কোন ভ্যাকসিনটি দেওয়া হচ্ছে তা দেখায়। নাগরিকরা তাদের পছন্দ অনুযায়ী ভ্যাকসিন সেন্টারটি বেছে নিতে পারেন ভ্যাকসিন দেওয়া হচ্ছে তবে, এই পছন্দটি সরকারি সুযোগ-সুবিধায় পাওয়া যাবে না।"
+  },
+  {
+    "word": "What precautions should I take at the time of 2nd dose vaccination?",
+    "replacedWord": "দ্বিতীয় ডোজ টিকা দেওয়ার সময় আমার কী সাবধানতা অবলম্বন করা উচিত?"
+  },
+  {
+    "word": "The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.",
+    "replacedWord": "ভ্যাকসিনেশন কেন্দ্রগুলিকে নির্দেশ দেওয়া হয়েছে যে, কোনও নাগরিক দ্বিতীয় ডোজ নেওয়ার সময় তাকে নিশ্চিত করতে হবে যে প্রথম ডোজটি দ্বিতীয় ডোজ দেওয়ার অন্ততপক্ষে ২৮ দিন পূর্বে নিয়েছিলেন এবং সেই সময় একই ভ্যাকসিন নিয়েছিলেন। আপনার ভ্যাকসিনের ধরণ এবং প্রথম ডোজ ভ্যাকসিনের তারিখটি সঠিকভাবে ভ্যাক্সিনেটরকে প্রদর্শন করা উচিত। আপনার প্রথম ডোজের পরে পাওয়া ভ্যাকসিন শংসাপত্র বহন করা উচিত।"
+  },
+  {
+    "word": "Can I get vaccinated with 2nd dose in a different State/District?",
+    "replacedWord": "আমি কি আলাদা রাজ্য / জেলাতে ২য় ডোজ টিকা দিতে পারি?"
+  },
+  {
+    "word": "Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.",
+    "replacedWord": "হ্যাঁ, আপনি যে কোনও রাজ্য / জেলাতে টিকা নিতে পারেন। কেবলমাত্র সীমাবদ্ধতা হ'ল আপনি কেবলমাত্র সেই কেন্দ্রগুলিতে ভ্যাকসিন নিতে সক্ষম হবেন যেখানে আপনাকে দেওয়া প্রথম ডোজের একি ভ্যাকসিন সরবরাহ করছে।"
+  },
+  {
+    "word": "Which documents should I carry with me for vaccination?",
+    "replacedWord": "টিকা দেওয়ার জন্য আমার সাথে কোন ডকুমেন্টগুলি বহন করা উচিত?"
+  },
+  {
+    "word": "You should carry your identity proof specified by you at the time of registration on the Co-WIN portal and a printout/screenshot of your appointment slip.",
+    "replacedWord": "কো-ওয়াইন পোর্টালে রেজিস্ট্রেশনের সময় আপনার নির্দিষ্ট করা পরিচয় প্রমাণ এবং আপনার অ্যাপয়েন্টমেন্ট স্লিপের একটি প্রিন্টআউট / স্ক্রিনশট বহন করা উচিত।"
+  },
+  {
+    "word": "I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location?",
+    "replacedWord": "আমি কো-উইন পোর্টালে নিজেকে রেজিস্টার করেছি। তবে, আমি আমার অঞ্চলের কাছে কোনও টিকাকেন্দ্র দেখতে পারছি না বলে আমি কোনও বুকিং করতে পারছি না?"
+  },
+  {
+    "word": "What should I do?  Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.",
+    "replacedWord": "আমার কি করা উচিৎ? হ্যাঁ, এটি সম্ভবত আপনার অঞ্চলের নিকটবর্তী কোনও সংস্থা টিকা দেওয়ার প্রোগ্রাম এখনও শুরু করেনি। আপনার অঞ্চলের কাছাকাছি টিকাদান সুবিধাগুলি কো-উইন প্ল্যাটফর্মে চালিত না হওয়া, সক্রিয় নয়া হয়ে ওঠা এবং তাদের পরিষেবাগুলি শুরু না করা পর্যন্ত আপনি অপেক্ষা করতে পারেন।"
+  },
+  {
+    "word": "C. 2nd dose scheduling",
+    "replacedWord": "C. দ্বিতীয় ডোজ সময়সূচী"
+  },
+  {
+    "word": "Is it necessary to take 2nd dose of vaccination?",
+    "replacedWord": "টিকার দ্বিতীয় ডোজ নেওয়া কি দরকার?"
+  },
+  {
+    "word": "Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.",
+    "replacedWord": "হ্যাঁ। টিকা দেওয়ার সম্পূর্ণ সুবিধা উপলব্ধি করার জন্য ভ্যাকসিনের উভয় ডোজ গ্রহণ করা উচিত। উভয় ডোজ একই ভ্যাকসিন ধরণের হতে হবে।"
+  },
+  {
+    "word": "It is recommended that the 2nd dose of COVAXIN should be administered in the interval of 4 to 6 weeks from the date of 1st dose administration. For COVISHIELD the recommended interval is 4 to 8 weeks while an interval of 6 to 8 weeks gives an enhanced protection. You may choose the date of 2nd dose vaccination as per your convenience.",
+    "replacedWord": "এটি প্রস্তাবিত যে কোভাক্সিন এর দ্বিতীয় ডোজ প্রথম ডোজ দেওয়ার দিনের ৪ থেকে ৬ সপ্তাহের ব্যবধানে পরিচালনা করা উচিত। কোভিশিল্ড জন্য প্রস্তাবিত ব্যবধানটি ৪ থেকে ৮ সপ্তাহ হয় যখন ৬ থেকে ৮ সপ্তাহের ব্যবধান একটি বর্ধিত সুরক্ষা দেয়। আপনার সুবিধার্থে আপনি ২ য় ডোজ টিকা দেওয়ার তারিখটি পছন্দ করতে পারেন।"
+  },
+  {
+    "word": "Will my 2nd dose appointment be automatically scheduled by Co-WIN system?",
+    "replacedWord": "আমার দ্বিতীয় ডোজ অ্যাপয়েন্টমেন্ট স্বয়ংক্রিয়ভাবে কো-উইন সিস্টেম দ্বারা নির্ধারিত হবে?"
+  },
+  {
+    "word": "No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will help you book an appointment in a Vaccination Centre where the same vaccine is being administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.",
+    "replacedWord": "না। দ্বিতীয় ডোজ টিকা দেওয়ার জন্য আপনাকে অ্যাপয়েন্টমেন্ট নিতে হবে। কো-উইন সিস্টেম আপনাকে ভ্যাকসিনেশন সেন্টারে একটি অ্যাপয়েন্টমেন্ট বুক করতে সহায়তা করবে যেখানে একই ভ্যাকসিনটি প্রথম ডোজের ভ্যাকসিন ধরণের (COVAXIN বা COVISHIELD) হিসাবে পরিচালিত হচ্ছে।"
+  },
+  {
+    "word": "Whom can I contact if I have some problems related to my online registration of appointment?",
+    "replacedWord": "আমার অনলাইনে অ্যাপয়েন্টমেন্ট নিয়োগের সাথে সম্পর্কিত কিছু সমস্যা হলে আমি কার সাথে যোগাযোগ করতে পারি?"
+  },
+  {
+    "word": "You can call on the national helpline â€˜1075â€™ for information and guidance on COVID-19 vaccination and Co-WIN software related queries.",
+    "replacedWord": "আপনি COVID-19 টিকা এবং কো-উইন সফ্টওয়্যার সম্পর্কিত প্রশ্নগুলির জন্য জাতীয় হেল্পলাইন 1075 এ কল করতে পারেন।"
+  },
+  {
+    "word": "Scheduling Appointment",
+    "replacedWord": "অ্যাপয়েন্টমেন্ট নির্ধারণ করা।"
+  },
+  {
+    "word": "Can I book an appointment for vaccination in the Co-WIN portal?",
+    "replacedWord": "আমি কি কো-ওয়াইন পোর্টালে টিকা দেওয়ার জন্য অ্যাপয়েন্টমেন্ট বুক করতে পারি?"
+  },
+  {
+    "word": "Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.",
+    "replacedWord": "হ্যাঁ, আপনি আপনার রেজিস্টার্ড মোবাইল নম্বরের মাধ্যমে কো-ওয়াইন পোর্টালে লগ-ইন করার পরে কো-ওয়াইন পোর্টালের মাধ্যমে টিকা দেওয়ার জন্য অ্যাপয়েন্টমেন্ট বুক করতে পারেন। সিস্টেমটি ভ্যাকসিনেশন কেন্দ্রগুলি দেখাবে যা রেজিস্ট্রেশন পোর্টালে প্রবেশ করা নাগরিকের বয়স অনুসারে টিকা দেওয়ার অনুমতি দেয়।"
+  },
+  {
+    "word": "What are the options if one citizen is aged 45 or above and other is aged 18 or above?",
+    "replacedWord": "একজন নাগরিকের বয়স ৪৫ বা তার বেশি এবং অন্যজন ১৮ বছর বা তার বেশি বয়সী হলে বিকল্পগুলি কী কী?"
+  },
+  {
+    "word": "If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per StateÃ¢â‚¬â„¢s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one.",
+    "replacedWord": "যদি একজন নাগরিকের বয়স ৪৫ বা তার বেশি হয় এবং অন্য নাগরিক ১৮ থেকে ৪৪ বছর বয়সী এবং উভয়ই সম্মিলিত অ্যাপয়েন্টমেন্ট বুক করতে চান, তবে কেবলমাত্র ব্যক্তিগত বেতনভোগী টিকা কেন্দ্র বা রাষ্ট্রের নীতি অনুসারে টিকা কেন্দ্রগুলি উপলব্ধ করা হবে। তবে, এটি হতে পারে যে কেবল ৪৫ বছর বা তার বেশি বয়সের লোকদের জন্য পরিষেবা সরবরাহ করা কিছু হাসপাতাল কম বয়সের লোকদের জন্য অ্যাপয়েন্টমেন্ট বুকিংয়ের অনুমতি দিতে নাও পারে। সেক্ষেত্রে আপনি একের পর এক বুকিং করতে পারেন।"
+  },
+  {
+    "word": "Can I check the vaccine being administered at each vaccination centre?",
+    "replacedWord": "আমি কি প্রতিটি টিকা কেন্দ্রে কোন ভ্যাকসিন দেওয়া হচ্ছে তা জানতে পারি?"
+  },
+  {
+    "word": "Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.",
+    "replacedWord": "হ্যাঁ, টিকা দেওয়ার অ্যাপয়েন্টমেন্টের সময় নির্ধারণের সময়, সিস্টেমটি ভ্যাকসিন কেন্দ্রের নাম এবং বেসরকারী হাসপাতালের ক্ষেত্রে যে ভ্যাকসিন পরিচালিত হবে তার নামও প্রদর্শন করবে। সরকারী হাসপাতালগুলি ভ্যাকসিনের নাম নাও দেখাতে পারে।"
+  },
+  {
+    "word": "Can I download appointment slip?",
+    "replacedWord": "আমি কি অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করতে পারি?"
+  },
+  {
+    "word": "Yes, the appointment slip can be downloaded after the appointment has been scheduled.",
+    "replacedWord": "হ্যাঁ, অ্যাপয়েন্টমেন্টের সময় নির্ধারণ হওয়ার পরে অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করা যাবে।"
+  },
+  {
+    "word": "How can I find the nearest vaccination centre?",
+    "replacedWord": "আমি কীভাবে নিকটতম টিকা কেন্দ্র পেতে পারি?"
+  },
+  {
+    "word": "You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.",
+    "replacedWord": "আপনি পিন কোডের মাধ্যমে অনুসন্ধান করে অথবা রাজ্য ও জেলা নির্বাচন করে আপনার অবস্থানের নিকটবর্তী টিকা কেন্দ্রের জন্য কো-ওয়াইন পোর্টাল (বা আরোগ্য সেতু) অনুসন্ধান করতে পারেন।"
+  },
+  {
+    "word": "Can I reschedule my appointment?",
+    "replacedWord": "আমি কি আমার অ্যাপয়েন্টমেন্টের সময় পুনরায় নির্ধারণ পারি?"
+  },
+  {
+    "word": "The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on â€œRescheduleâ€ tab.",
+    "replacedWord": "হ্যাঁ, আপনি ইতিমধ্যে নির্ধারিত একটি অ্যাপয়েন্টমেন্ট বাতিল করতে পারেন। আপনি অ্যাপয়েন্টমেন্টটি পুনরায় নির্ধারণ করতে এবং আপনার সুবিধার জন্য আরও একটি তারিখ বা সময় স্লট পছন্দ করতে পারেন।"
+  },
+  {
+    "word": "Do I have an option for cancellation of appointment?",
+    "replacedWord": "আমার কাছে অ্যাপয়েন্টমেন্ট বাতিল করার জন্য কী বিকল্প আছে?"
+  },
+  {
+    "word": "Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.",
+    "replacedWord": "হ্যাঁ, আপনি ইতিমধ্যে নির্ধারিত একটি অ্যাপয়েন্টমেন্ট বাতিল করতে পারেন। আপনি অ্যাপয়েন্টমেন্টটি পুনরায় নির্ধারণ করতে এবং আপনার সুবিধার জন্য আরও একটি তারিখ বা সময় স্লট পছন্দ করতে পারেন।"
+  },
+  {
+    "word": "Where will I receive confirmation of date and time of vaccination?",
+    "replacedWord": "আমি টিকা নেওয়ার তারিখ এবং সময়টির নিশ্চয়তা কোথায় পাব?"
+  },
+  {
+    "word": "Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.",
+    "replacedWord": "একবার অ্যাপয়েন্টমেন্ট নির্ধারিত হয়ে গেলে, আপনি আপনার নিবন্ধিত মোবাইল নম্বরে আসা এস.এম.এস.-এ অ্যাপয়েন্টমেন্টের জন্য বেছে নেওয়া টিকা কেন্দ্র, তারিখ এবং সময় স্লটের বিবরণ পাবেন। আপনি অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করে এটি প্রিন্ট করতে পারেন বা এটি আপনার স্মার্ট ফোনে রাখতে পারেন।"
+  },
+  {
+    "word": "Can I get vaccination without appointment?",
+    "replacedWord": "আমি অ্যাপয়েন্টমেন্ট ছাড়াই টিকা পেতে পারি?"
+  },
+  {
+    "word": "Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination. However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "৪৫ বছর বা তার বেশি বয়সের নাগরিকরা অনলাইনে অ্যাপয়েন্টমেন্ট নির্ধারণ করতে পারেন বা টিকা কেন্দ্রগুলিতে ওয়াক-ইন করতে পারেন। ১৮-৪৪ বছর বয়সী নাগরিকদের বাধ্যতামূলকভাবে রেজিস্ট্রেশন ও অনলাইনে অ্যাপয়েন্টমেন্ট নির্ধারণ করা উচিত। যদিও, সমস্ত নাগরিককে নির্ঝঞ্ঝাটভাবে টিকাদানের অভিজ্ঞতার জন্য অনলাইন রেজিস্ট্রেশন এবং টিকা দেওয়ার সময়সূচী নির্ধারণ করার পরামর্শ দেওয়া হয়।"
+  },
+  {
+    "word": "Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination",
+    "replacedWord": "১৮-৪৪ বছর বয়সী নাগরিকদের বাধ্যতামূলকভাবে রেজিস্ট্রেশন করা উচিত এবং টিকা দেওয়ার আগে অনলাইনে অ্যাপয়েন্টমেন্টের সময় নির্ধারণ করা উচিত"
+  },
+  {
+    "word": "However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.",
+    "replacedWord": "তবে সকল নাগরিককে নির্ঝঞ্ঝাট টিকাদানের অভিজ্ঞতার জন্য অনলাইন রেজিস্ট্রেশন এবং টিকা দেওয়ার সময়সূচী নির্ধারণ করার পরামর্শ দেওয়া হচ্ছে।"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রক"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "রেজিস্টার করুন/সাইন ইন করুন"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "আপনার নিকটতম টিকাদান কেন্দ্র এবং স্লটগুলির উপলভ্যতা দেখে নিন"
+  },
+  {
+    "word": "Search",
+    "replacedWord": "অনুসন্ধান"
+  },
+  {
+    "word": "View full report",
+    "replacedWord": "সম্পূর্ণ রিপোর্ট দেখুন"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "কিভাবে এটা কাজ করে"
+  },
+  {
+    "word": "Choose Vaccine LocationSelect your nearby Vaccine Center for vaccination",
+    "replacedWord": "ভ্যাকসিনের স্থান নির্বাচন করুন/ টিকা নেওয়ার জন্য আপনার নিকটবর্তী ভ্যাকসিন কেন্দ্রটি নির্বাচন করুন"
+  },
+  {
+    "word": "Confirm your SlotBook your slot to Get Vaccine",
+    "replacedWord": "ভ্যাকসিন পেতে আপনার স্লটটি নিশ্চিত করুন/ভাক্সিন পেতে স্লত বুক করুন"
+  },
+  {
+    "word": "Any Question? Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "কোন প্রশ্ন? আমাদের প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী (FAQ) অনুসরণ করুন"
+  },
+  {
+    "word": "Know how to book your appointment Dos and Don'ts",
+    "replacedWord": "আপনার অ্যাপয়েন্টমেন্ট কিভাবে বুক করতে হবে জানুন। কী করা উচিত বা কী করা উচিত না"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "আপনার অ্যাপয়েন্টমেন্ট কিভাবে বুক করতে হবে জানুন"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "কী করা উচিত বা কী করা উচিত না"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "আমাদের পার্টনার"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online  Send Transcriptions  End Chat",
+    "replacedWord": "কো-উইন সাপোর্ট ডেস্ক- আমরা অনলাইনে আছি। ট্রান্সক্রিপশন প্রেরণ শেষ চ্যাট"
+  },
+  {
+    "word": "Co-WIN Support Desk- We're online",
+    "replacedWord": "কো-উইন সাপোর্ট ডেস্ক- আমরা অনলাইনে আছি"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "ট্রান্সক্রিপশন পাথান/ চ্যাট শেষ করুন"
+  },
+  {
+    "word": "Send Transcriptions  End Chat",
+    "replacedWord": "ট্রান্সক্রিপশন পাথান/ চ্যাট শেষ করুন"
+  },
+  {
+    "word": "Start Chat",
+    "replacedWord": "চ্যাট শুরু করুন"
+  },
+  {
+    "word": "Monday, 1:27 PM Welcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "সোমবার, 1:27 PM. কোউইন হেল্পডেস্কে আপনাকে স্বাগতম, যদি আপনার সাহায্যের প্রয়োজন হয় এই বার্তার জবাব দিন, আমরা অনলাইনে এবং সহায়তা করতে প্রস্তুত।"
+  },
+  {
+    "word": "Monday, 1:27 PM",
+    "replacedWord": "সোমবার, 1:27 PM"
+  },
+  {
+    "word": "Welcome to CoWin Helpdesk, if you need help simply reply to this message, we are online and ready to help.",
+    "replacedWord": "কোউইন হেল্পডেস্কে আপনাকে স্বাগতম, যদি আপনার সাহায্যের প্রয়োজন হয় এই বার্তার জবাব দিন, আমরা অনলাইনে এবং সহায়তা করতে প্রস্তুত।"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "এই চ্যাট সেশন শেষ হয়ে গেছে"
+  },
+  {
+    "word": "Tot",
+    "replacedWord": "মোট"
+  },
+  {
+    "word": "Tot Vaccination Doses",
+    "replacedWord": "মোট ভ্যাকসিনেটেড"
+  },
+  {
+    "word": "Dose-1 Vaccinations",
+    "replacedWord": "ডোজ -১ ভ্যাকসিনেশন"
+  },
+  {
+    "word": "Dose-2 Vaccinations",
+    "replacedWord": "ডোজ -২ ভ্যাকসিনেশন"
+  },
+  {
+    "word": "Tot Vaccinated - Male",
+    "replacedWord": "মোট ভ্যাকসিনেটেড - পুরুষ"
+  },
+  {
+    "word": "Tot Vaccinated - Female",
+    "replacedWord": "মোট ভ্যাকসিনেটেড - মহিলা"
+  },
+  {
+    "word": "Male",
+    "replacedWord": "পুরুষ"
+  },
+  {
+    "word": "Female",
+    "replacedWord": "মহিলা"
+  },
+  {
+    "word": "Register using your Mobile no. or Aadhaar no. or any other Identity docs.",
+    "replacedWord": "আপনার মোবাইল নম্বর বা আধার নং বা অন্য কোনও পরিচয়পত্র ব্যবহার করে রেজিস্টার করুন।"
+  },
+  {
+    "word": "Select your nearby Vaccine Center for vaccination",
+    "replacedWord": "টিকা নেওয়ার জন্য আপনার নিকটবর্তী ভ্যাকসিন কেন্দ্রটি নির্বাচন করুন"
+  },
+  {
+    "word": "Book your slot to Get Vaccine",
+    "replacedWord": "ভ্যাকসিন পেতে আপনার স্লট বুক করুন"
+  },
+  {
+    "word": "Please follow our Frequently asked questions (FAQ)",
+    "replacedWord": "আমাদের প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী (FAQ) অনুসরণ করুন"
+  },
+  {
+    "word": "How it Works",
+    "replacedWord": "কিভাবে এটা কাজ করে"
+  },
+  {
+    "word": "Our Partners",
+    "replacedWord": "আমাদের পার্টনার"
+  },
+  {
+    "word": "Check your nearest vaccination center and slots availability",
+    "replacedWord": "আপনার নিকটতম টিকাদান কেন্দ্র এবং স্লটগুলির উপলভ্যতা দেখে নিন"
+  },
+  {
+    "word": "Register Yourself",
+    "replacedWord": "নিজেকে রেজিস্টার করুন"
+  },
+  {
+    "word": "Choose Vaccine Location",
+    "replacedWord": "ভ্যাকসিন স্থান বেছে নিন"
+  },
+  {
+    "word": "Confirm your Slot",
+    "replacedWord": "আপনার স্লট নিশ্চিত করুন"
+  },
+  {
+    "word": "Any Question?",
+    "replacedWord": "কোন প্রশ্ন?"
+  },
+  {
+    "word": "This chat session has ended",
+    "replacedWord": "এই চ্যাট অধিবেশন শেষ হয়েছে"
+  },
+  {
+    "word": "Ministry of Health and Family Welfare",
+    "replacedWord": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রক"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "FAQ ড্যাশবোর্ড ওপেন APIs বিভাগ লগইন ভ্যাকসিনেটর যাচাই শংসাপত্র"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "ড্যাশবোর্ড"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "API খুলুন"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "ডিপার্টমেন্ট লগ-ইন"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "ভ্যাকসিনেটর"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "শংসাপত্র যাচাই করুন"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "রেজিস্টার করুন/সাইন ইন করুন"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "রেজিস্টার করুন/সাইন ইন করুন"
+  },
+  {
+    "word": "View full report Ã‚Â»",
+    "replacedWord": "সম্পূর্ণ রিপোর্ট দেখুন Ã‚Â »"
+  },
+  {
+    "word": "Frequently asked questions (FAQ)",
+    "replacedWord": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী (FAQ)"
+  },
+  {
+    "word": "Know how to book your appointment",
+    "replacedWord": "আপনার অ্যাপয়েন্টমেন্ট বুক করতে হবে কিভাবে জানুন"
+  },
+  {
+    "word": "Dos and Don'ts",
+    "replacedWord": "কী করা উচিত বা কী করা উচিত না"
+  },
+  {
+    "word": "Send Transcriptions",
+    "replacedWord": "ট্রান্সক্রিপশন পাঠান"
+  },
+  {
+    "word": "End Chat",
+    "replacedWord": "চ্যাট শেষ"
+  },
+  {
+    "word": "FAQ",
+    "replacedWord": "FAQ ড্যাশবোর্ড ওপেন APIs বিভাগ লগইন ভ্যাকসিনেটর যাচাই শংসাপত্র"
+  },
+  {
+    "word": "Dashboard",
+    "replacedWord": "ড্যাশবোর্ড"
+  },
+  {
+    "word": "Open APIs",
+    "replacedWord": "API খুলুন"
+  },
+  {
+    "word": "Department Login",
+    "replacedWord": "ডিপার্টমেন্ট লগ-ইন"
+  },
+  {
+    "word": "Vaccinator",
+    "replacedWord": "ভ্যাকসিনেটর"
+  },
+  {
+    "word": "Verify Certificate",
+    "replacedWord": "শংসাপত্র যাচাই করুন"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "নিজেকে রেজিস্টার / সাইন ইন করুন"
+  },
+  {
+    "word": "FAQ Dashboard Open APIs  Department Login  Vaccinator  Verify Certificate",
+    "replacedWord": "FAQ ড্যাশবোর্ড ওপেন APIs বিভাগ লগইন ভ্যাকসিনেটর যাচাই শংসাপত্র"
+  },
+  {
+    "word": "Register/ Sign In yourself",
+    "replacedWord": "নিজেকে রেজিস্টার / সাইন ইন করুন"
+  },
+  {
+    "word": "Please follow our",
+    "replacedWord": "অনুগ্রহ করে আমাদের ফলো করুন"
+  },
+  {
+    "word": "Frequently asked questions",
+    "replacedWord": "ফ্রিকুয়েন্টলি আস্কড কয়েশ্চন্স"
+  },
+  {
+    "word": "Enter your PIN",
+    "replacedWord": "পিন নাম্বার দিন।"
+  },
+  {
+    "word": "You can contact on any of the following details",
+    "replacedWord": "আপনি নিম্নলিখিত যেকোনো পদ্ধতিতে যোগাযোগ করতে পাড়েন।"
+  },
+  {
+    "word": "Helpline Number",
+    "replacedWord": "হেল্পলাইন নাম্বার"
+  },
+  {
+    "word": "Technical Helpline Number",
+    "replacedWord": "টেকনিকাল হেল্পলাইন নাম্বার"
+  },
+  {
+    "word": "Helpline Email Id",
+    "replacedWord": "হেল্পলাইন ই-মেইল আইডি"
+  },
+  {
+    "word": "You may also contact the Vaccination Centre where you took vaccination, for advice.",
+    "replacedWord": "পরামর্শের জন্য আপনি ভ্যাকসিনেশন কেন্দ্রের সাথেও যোগাযোগ করতে পারেন যেখানে আপনি টিকা নিয়েছিলেন।"
+  },
+  {
+    "word": "Toll free",
+    "replacedWord": "টোল ফ্রী"
+  },
+  {
+    "word": "",
+    "replacedWord": ""
+  }
+]
