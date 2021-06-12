@@ -98,6 +98,10 @@ Syed Arfath Ahmed - HOD-CSE.
 
 Kamaljit Kaur
 
+## Assamese
+
+Pankaj Das
+
 ## Santhali
 
 ## Konkani
