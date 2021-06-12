@@ -2,48 +2,16 @@
 
 A web extension to replace text in [COWIN](https://www.cowin.gov.in/home) page.
 
-## Getting Started
+## Installation
 
-This application is developed using javascript.
-
-### Installing
-
-- Clone this repo on to your local machine
-
-```bash
-git clone git@code.swecha.org:CivicTech/cowin-translator.git
-```
-
-## Running the tests
-
-- To run test use [web-ext](https://www.npmjs.com/package/web-ext)
-
-- Go to the `cowin-translator` directory.
-
-### Run test
-
-- To Run the extension
-
-```bash
-web-ext run
-```
-
-### Validate Test
-
-- To Validate the extension
-
-```bash
-web-ext lint
-```
-
-## Deployment
+Download and Extract the zip file [CoWin-Translator](https://code.swecha.org/CivicTech/cowin-translator/-/archive/master/cowin-translator-master.zip)
 
 ### Firefox
 
 - Open the `about:debugging` page
 - Click "This Firefox" (in newer versions of Firefox)
 - Click "Load Temporary Add-on"
-- Select `manifest.json` extension's directory.
+- Select `manifest.json` from the extension's directory.
 
 ### Chrome
 
@@ -55,6 +23,14 @@ web-ext lint
 ## Contributing
 
 Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Localization
+
+Check [LOCALIZATION_CONTRIBUTE](LOCALIZATION_CONTRIBUTE.md) for localization contribution
+
+### Localization Contributors
+
+Check [CONTRIBUTORS](CONTRIBUTORS.md) to know the localization contributors
 
 ## Changelog
 

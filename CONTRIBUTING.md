@@ -9,43 +9,69 @@ Please note we have a Code of Conduct, please follow it in all your interactions
 - [Your first extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 - [How to Create and Publish a Chrome Extension in 20 minutes](https://www.freecodecamp.org/news/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153/)
 
-## How Can I Contribute?
-
-###
-
-- Clone the repo
-
-- Copy `l10.json` file to the ISO code file, for example `te.json` for telugu
-
-- Replace the __"#"__ with the translated string in __replacedWord__ in the json file
-
-### Reporting Issues/Features
-
-This section guides you through submitting a issue for the project. Following these guidelines helps maintainers and the community understand your issue, reproduce the issue and find related issues.
-
-#### Issue Description
-
-    1. Steps to Reproduce:
-    2. Expected behavior:
-    3. Actual behavior:
-    4. Frequency of Occurrence:
-    5. Environment configuration:
-    6. Additional Information:
-
-Before submitting an issue or feature request, please check the existing issues as your issue might have already been noted.
-
-### Your First Code Contribution
+## Your First Code Contribution
 
 Unsure where to begin contributing to the project? You can start by looking through these `beginner` and `help-wanted` issues:
 
 - Beginner issues - issues which should only require a few lines of code, and a test or two.
 - Help wanted issues - issues which should be a bit more involved than `beginner` issues.
 
-#### Local development
+## How Can I Contribute?
 
-Please head over to [README](README.md) to find details about local development.
+### Local Development
 
-### Pull Requests
+- Clone this repo on to your local machine
+
+```bash
+git clone git@code.swecha.org:CivicTech/cowin-translator.git
+```
+
+- Use `data/template/l10n.csv` and `data/template/l10n.json` for translation
+
+- Replace the **"#"** with the translated string in **replacedWord** in the json file
+
+- Create a dirctory with **ISO 639-1** in `data` directory add these translation
+
+- Add drop-down option in `popup/extension.html` with **ISO 639-1** as the value
+
+## Running the tests
+
+- To run test use [web-ext](https://www.npmjs.com/package/web-ext)
+
+- Go to the `cowin-translator` directory.
+
+### Run test
+
+- To Run the extension
+
+```bash
+web-ext run
+```
+
+### Validate Test
+
+- To Validate the extension
+
+```bash
+web-ext lint
+```
+
+## Reporting Issues/Features
+
+This section guides you through submitting a issue for the project. Following these guidelines helps maintainers and the community understand your issue, reproduce the issue and find related issues.
+
+### Issue Description
+
+1. Steps to Reproduce:
+2. Expected behavior:
+3. Actual behavior:
+4. Frequency of Occurrence:
+5. Environment configuration:
+6. Additional Information:
+
+Before submitting an issue or feature request, please check the existing issues as your issue might have already been noted.
+
+## Pull Requests
 
 The process described here has several goals:
 
