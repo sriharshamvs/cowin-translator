@@ -34,6 +34,13 @@ git clone git@code.swecha.org:CivicTech/cowin-translator.git
 
 - Add drop-down option in `popup/extension.html` with **ISO 639-1** as the value
 
+### Scrape strings
+
+- Currently scrapping is done by using Document object methods
+
+- Follow [code sinppets](https://code.swecha.org/CivicTech/cowin-translator/-/snippets/) to scrape by
+  - [ClassName](https://code.swecha.org/CivicTech/cowin-translator/-/snippets/630)
+
 ## Running the tests
 
 - To run test use [web-ext](https://www.npmjs.com/package/web-ext)
